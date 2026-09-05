@@ -1,7 +1,7 @@
 key,value
 report_date,2026-09-05
 numbers_date,2026-09-04
-updated_at,2026-09-05 3:30 PM ET
+updated_at,9/5 3:45 PM
 
 section,field,store,value
 sales,day$,Anderson,6260
@@ -182,19 +182,29 @@ mnky_tomorrow,orders,Crestview,2
 mnky_tomorrow,sales,Crestview,745.68
 mnky_tomorrow,orders,ScottMarket,2
 mnky_tomorrow,sales,ScottMarket,745.68
-
-lcsn,lc1,Anderson,X
-lcsn,lc2,Anderson,X
-lcsn,sn1,Anderson,X
-lcsn,lc1,Crestview,X
-lcsn,lc2,Crestview,✓
-lcsn,sn1,Crestview,X
-lcsn,lc1,Florence,X
-lcsn,lc2,Florence,✓
-lcsn,sn1,Florence,X
-lcsn,lc1,Harrison,X
-lcsn,lc2,Harrison,✓
-lcsn,sn1,Harrison,X
-lcsn,lc1,Union,X
-lcsn,lc2,Union,✓
-lcsn,sn1,Union,X
+lines,date,Market,2026-09-05
+lines,lc1,Anderson,0
+lines,lc2,Anderson,0
+lines,lc3,Anderson,0
+lines,sn1,Anderson,0
+lines,sn2,Anderson,0
+lines,lc1,Crestview,0
+lines,lc2,Crestview,1
+lines,lc3,Crestview,0
+lines,sn1,Crestview,0
+lines,sn2,Crestview,0
+lines,lc1,Florence,0
+lines,lc2,Florence,1
+lines,lc3,Florence,0
+lines,sn1,Florence,0
+lines,sn2,Florence,0
+lines,lc1,Harrison,0
+lines,lc2,Harrison,1
+lines,lc3,Harrison,0
+lines,sn1,Harrison,0
+lines,sn2,Harrison,0
+lines,lc1,Union,0
+lines,lc2,Union,1
+lines,lc3,Union,0
+lines,sn1,Union,0
+lines,sn2,Union,0
