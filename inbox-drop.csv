@@ -11,7 +11,8 @@ gmail_id,source,store,when_et,field,value,subject
 1a076217b9a1640c,tc2,Florence,2026-09-06 05:51 AM,disarm,Charlene Canada,Disarmed
 1a076297475873cd,tc2,Crestview,2026-09-06 06:00 AM,disarmed,Team Kenwood 2,Disarmed
 1a0748a38bc50843,tc2,Union,2026-09-05 10:26 PM,armed,Away Bypass User 0,Armed Away (Bypass)
-heartbeat,heartbeat,Market,2026-09-06 06:10 AM,last_ok_et,2026-09-06 06:10 AM,gmail_ok
+1a0763511ea7c62b,tc2,Crestview,2026-09-06 06:13 AM,disarm,Adrian Magers,Disarmed
+heartbeat,heartbeat,Market,2026-09-06 06:16 AM,last_ok_et,2026-09-06 06:16 AM,gmail_ok
 1a0742d22ada289a,olo,Market,2026-09-05 08:45 PM,86s_pm,attached,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
 1a0742d22ada289a,olo,Anderson,2026-09-05 08:45 PM,count,14,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
 1a0742d22ada289a,olo,Crestview,2026-09-05 08:45 PM,count,54,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
