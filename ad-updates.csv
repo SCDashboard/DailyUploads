@@ -1,0 +1,18 @@
+as_of_et,kind,when_et,what
+2026-09-06 4:06 PM,stamp,2026-09-06 4:06 PM,4pm update log
+2026-09-06 4:06 PM,packet,2026-09-06 3:33 PM,Harrison LC1/LC2 form-open fix
+2026-09-06 4:06 PM,packet,2026-09-06 3:29 PM,Zenput LC1/LC2/SN1
+2026-09-06 4:06 PM,packet,2026-09-06 2:37 PM,recreated packet after 86s truncate; 2pm counts 1/12/13/14/0
+2026-09-06 4:06 PM,86s,2026-09-06 2:44 PM,86s.csv 2pm product list
+2026-09-06 4:06 PM,86s,2026-09-06 2:01 PM,Olo 2pm mail appended to inbox-drop
+2026-09-06 4:06 PM,86s,2026-09-06 6:02 AM,Olo 8:45 PM 9/5 + 6 AM 9/6 counts on inbox-drop
+2026-09-06 4:06 PM,alarm,2026-09-06 7:00 AM,Union DISARMED
+2026-09-06 4:06 PM,alarm,2026-09-06 6:32 AM,Harrison DISARMED
+2026-09-06 4:06 PM,alarm,2026-09-06 6:20 AM,Anderson DISARMED
+2026-09-06 4:06 PM,alarm,2026-09-06 6:16 AM,Crestview DISARMED
+2026-09-06 4:06 AM,alarm,2026-09-06 6:11 AM,Union Armed Away Bypass
+2026-09-06 4:06 PM,alarm,2026-09-06 6:00 AM,Crestview DISARMED
+2026-09-06 4:06 PM,alarm,2026-09-06 5:51 AM,Florence DISARMED
+2026-09-06 4:06 PM,packet,2026-09-06 4:38 AM,restored Sat 9/5 sales labor cash
+2026-09-06 4:06 PM,packet,2026-09-06 4:04 AM,coach names / rockstars overlay
+2026-09-06 4:06 PM,note,2026-09-06 4:06 PM,no new catering; no 10:30 86 mail; heartbeats hourly not listed
