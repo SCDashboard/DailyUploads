@@ -28,5 +28,10 @@ gmail_id,source,store,when_et,field,value,subject
 1a0762a36de08a0d,olo,Harrison,2026-09-06 06:01 AM,count,385,Olo: Currently 86'ed Menu Items is attached
 1a0762a36de08a0d,olo,Union,2026-09-06 06:01 AM,count,0,Olo: Currently 86'ed Menu Items is attached
 1a076512c146846b,tc2,Harrison,2026-09-06 06:43 AM,disarm,Ethan Slot 6,Disarmed
-heartbeat,heartbeat,Market,2026-09-06 06:44 AM,last_ok_et,2026-09-06 06:44 AM,gmail_ok
 1a07660dee9bee55,tc2,Union,2026-09-06 07:00 AM,disarmed,JED Slot 3,Disarmed
+1a07660dedb422e9,tc2,Union,2026-09-06 07:00 AM,bypass_cleared,Front GlassBreak,Sensor Bypass Cleared
+1a07660dee2f491a,tc2,Union,2026-09-06 07:00 AM,bypass_cleared,Side GlassBreak,Sensor Bypass Cleared
+1a07660de2779666,tc2,Union,2026-09-06 07:00 AM,low_battery,Front GlassBreak,Sensor Low Battery
+1a07660ded07e202,tc2,Union,2026-09-06 07:00 AM,low_battery,Side GlassBreak,Sensor Low Battery
+1a0766105d5bc3a5,tc2,Union,2026-09-06 07:00 AM,disarm,Built-In Camera,Default-Disarmed-Inbuilt Camera
+heartbeat,heartbeat,Market,2026-09-06 07:01 AM,last_ok_et,2026-09-06 07:01 AM,gmail_ok
