@@ -1,0 +1,4 @@
+section,field,store,value
+midday,flag,Market,test
+midday,note,Market,no mid-day flags 9/6 test (Harrison SN1 still missing)
+midday,when,Market,9/6 5:26 PM ET
