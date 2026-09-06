@@ -10,7 +10,8 @@ gmail_id,source,store,when_et,field,value,subject
 1a0752d4a8335743,catering,Anderson,2026-09-06 01:24 AM,new_order,"Taylor Cull $155.94 Pickup 10/15/2025 10:00-10:30 AM #3164284",Order 3164284 for 101301 - NEW ONLINE CATERING ORDER: Confirm & Accept now
 1a076217b9a1640c,tc2,Florence,2026-09-06 05:51 AM,disarm,Charlene Canada,Disarmed
 1a076297475873cd,tc2,Crestview,2026-09-06 06:00 AM,disarmed,Team Kenwood 2,Disarmed
-heartbeat,heartbeat,Market,2026-09-06 06:02 AM,last_ok_et,2026-09-06 06:02 AM,gmail_ok
+1a0748a38bc50843,tc2,Union,2026-09-05 10:26 PM,armed,Away Bypass User 0,Armed Away (Bypass)
+heartbeat,heartbeat,Market,2026-09-06 06:10 AM,last_ok_et,2026-09-06 06:10 AM,gmail_ok
 1a0742d22ada289a,olo,Market,2026-09-05 08:45 PM,86s_pm,attached,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
 1a0742d22ada289a,olo,Anderson,2026-09-05 08:45 PM,count,14,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
 1a0742d22ada289a,olo,Crestview,2026-09-05 08:45 PM,count,54,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
