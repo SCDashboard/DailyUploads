@@ -1,7 +1,7 @@
 key,value
 report_date,2026-09-06
 numbers_date,2026-09-05
-updated_at,9/6 5:26 PM
+updated_at,9/6 7:33 PM
 
 section,field,store,value
 sales,day$,Anderson,4990
@@ -441,48 +441,3 @@ lc_sn,sn1,Harrison,0
 lc_sn,lc1,Union,1
 lc_sn,lc2,Union,1
 lc_sn,sn1,Union,1
-coach,brief,Anderson,Josh SN1 (Manager Josh; deposits N/A; ROCKSTAR: Everyone). Emma Cheuvront SN2 (Manager Emma Cheuvront; deposits No — not taken to bank). Sanitizer PPM outside band all three LCs: Jj LC1 237+247; Jj LC2 226+227; John LC3 sink 200. No temp fails.
-coach,shift_notes,Anderson,SN1 Manager Josh; deposits N/A; call-offs No; late No; TM issues No; guest complaints No; ROCKSTAR: Everyone. SN2 Manager Emma Cheuvront; deposits No; call-offs No; late No; TM issues No; guest complaints No; ROCKSTAR —.
-coach,line_checks,Anderson,LC1 Jj ✓ temps · sanitizer 237+247 PPM (outside band). LC2 Jj ✓ temps · sanitizer 226+227 PPM (outside band). LC3 John ✓ temps · sanitizer sink 200 PPM (outside band).
-coach,failed_temps,Anderson,—
-coach,other,Anderson,"Sanitizer PPM fails LC1/LC2/LC3 (Jj, Jj, John). No 3-comp/ice-bath/thermometer fails."
-coach,bank_run_by,Anderson,—
-coach,brief,Crestview,Adrian SN1 (Manager Adrian; deposits Yes—Adrian; call-offs Yes—Comments: Holden). maria SN2 (Manager maria; deposits Yes—adrian; guest complaint: “had 2 bags an one was not handed out.”). LC1 Adrian Roast Beef 41°F + Corned Beef 41°F (CA: Close the cooler lid) — not all-day. Sanitizer 200 PPM LC1–LC3 (Adrian).
-coach,shift_notes,Crestview,SN1 Manager Adrian; deposits Yes—Adrian; call-offs Yes—Comments: Holden; late No; TM issues No; guest complaints No; additional: Adrian; ROCKSTAR —. SN2 Manager maria; deposits Yes—adrian; call-offs No; late No; TM issues No; guest complaints Yes—“had 2 bags an one was not handed out.”; ROCKSTAR —.
-coach,line_checks,Crestview,LC1 Adrian — Roast Beef 41°F + Corned Beef 41°F (CA: Close the cooler lid); sanitizer 200 PPM. LC2 Adrian — sanitizer 200 PPM. LC3 Adrian — sanitizer 200 PPM.
-coach,failed_temps,Crestview,"LC1 Roast Beef 41, Corned Beef 41 (not all-day)."
-coach,other,Crestview,Guest complaint SN2 maria: “had 2 bags an one was not handed out.” Call-off SN1: Holden. Sanitizer 200 PPM all LCs.
-coach,bank_run_by,Crestview,adrian
-coach,brief,Florence,Kyle SN1+SN2 (Manager Kyle both). Deposits Charlene (SN1) / Charles (SN2). Charlene LC1 sanitizer 0.17 PPM (outside 0.27–0.55). Salad Mix 49°F LC2 (Charlene) + 46°F LC3 (Kyle) — not all-day; CA Close the cooler lid. 3-comp sink No on LC3 (Kyle).
-coach,shift_notes,Florence,SN1 Manager Kyle; deposits Yes—Charlene; call-offs No; late No; TM issues No; guest complaints No; ROCKSTAR —. SN2 Manager Kyle; deposits Yes—Charles; call-offs No; late No; TM issues No; guest complaints No; ROCKSTAR —.
-coach,line_checks,Florence,LC1 Charlene — sanitizer 0.17 PPM (outside band). LC2 Charlene — Salad Mix 49°F (CA: Close the cooler lid). LC3 Kyle — Salad Mix 46°F (CA: Close the cooler lid); 3-comp sink No.
-coach,failed_temps,Florence,"Salad Mix 49 (LC2 Charlene), 46 (LC3 Kyle). Not all-day."
-coach,other,Florence,3-comp failed LC3 (Kyle). Sanitizer 0.17 PPM LC1 (Charlene).
-coach,bank_run_by,Florence,Charles
-coach,brief,Harrison,ethan/Ethan SN1+SN2. SN1 call-offs Yes—Comments: naomi; deposits natalie; ROCKSTAR: “christian and ron”. SN2 deposits Nat; ROCKSTAR: Ethan. Nat LC1 3-comp sink No. Ethan LC2 sanitizer 100+100 PPM. Angie LC3 sanitizer 100 PPM. No temp fails.
-coach,shift_notes,Harrison,SN1 Manager ethan; deposits Yes—natalie; call-offs Yes—Comments: naomi; late No; TM issues No; guest complaints No; ROCKSTAR: “christian and ron”. SN2 Manager Ethan; deposits Yes—Nat; call-offs No; late No; TM issues No; guest complaints No; ROCKSTAR: Ethan.
-coach,line_checks,Harrison,LC1 Nat — 3-comp sink No. LC2 Ethan — sanitizer 100 PPM + sanitizer sink 100 PPM. LC3 Angie — sanitizer 100 PPM.
-coach,failed_temps,Harrison,—
-coach,other,Harrison,3-comp failed LC1 (Nat). Sanitizer 100 PPM LC2 (Ethan) + LC3 (Angie).
-coach,bank_run_by,Harrison,Nat
-coach,brief,Union,"Molly SN1+SN2 (Manager Molly both; deposits N/A). SN1 additional: “Decent lunch, trying to get stocked up for tonight and tomorrow.” Kleyer Coxaj LC1 sanitizer 100 PPM; Molly LC2 sanitizer 200 PPM; Molly LC3 Turkey 41°F (CA: Place product in ice bath/ice bags on top of product) — not all-day."
-coach,shift_notes,Union,"SN1 Manager Molly; deposits N/A; call-offs No; late No; TM issues No; guest complaints No; additional: “Decent lunch, trying to get stocked up for tonight and tomorrow.”; ROCKSTAR —. SN2 Manager Molly; deposits N/A; call-offs No; late No; TM issues No; guest complaints No; ROCKSTAR —."
-coach,line_checks,Union,LC1 Kleyer Coxaj — sanitizer 100 PPM. LC2 Molly — sanitizer 200 PPM. LC3 Molly — Turkey 41°F (CA: Place product in ice bath/ice bags on top of product).
-coach,failed_temps,Union,Turkey 41 LC3 (Molly); not all-day.
-coach,other,Union,—
-coach,bank_run_by,Union,—
-coach,brief,Scott Market,"Lacey late Anderson Aug 17 + Aug 19 (2× in week). Parker late Union twice Aug 23. Liam in Florence TM-issue notes Aug 24, Aug 30, and twice Aug 31 (≥3 in month). No repeated multi-day same-item temp-fail pattern beyond Sat. No repeated missed-SN/LC store pattern from history scanned."
-coach,other,Scott Market,Trends from ~4-week SN scan (Zenput). Attendance/TM-issue flags above; no invented names.
-coach,opp,Anderson,"Sanitizer PPM outside band LC1/LC2/LC3 (Jj, Jj, John). SN2 Emma deposits not taken to bank."
-coach,opp,Crestview,SN1 call-off Holden. LC1 Roast Beef 41 + Corned Beef 41 (Adrian). Guest: 2 bags / one not handed out (maria SN2).
-coach,temps,Crestview,"LC1 Roast Beef 41, Corned Beef 41 (not all-day)."
-coach,guest,Crestview,had 2 bags an one was not handed out. (SN2 maria; guest name not on form)
-coach,opp,Florence,LC1 sanitizer 0.17 PPM (Charlene). Salad Mix 49 LC2 / 46 LC3. LC3 3-comp sink No (Kyle).
-coach,temps,Florence,"Salad Mix 49 (LC2 Charlene), 46 (LC3 Kyle). Not all-day."
-coach,opp,Harrison,SN1 call-off naomi. LC1 3-comp sink No (Nat). Sanitizer 100 PPM LC2 (Ethan) + LC3 (Angie).
-coach,opp,Union,LC3 Turkey 41 (Molly; ice bath CA). LC1 sanitizer 100 PPM (Kleyer).
-coach,temps,Union,Turkey 41 LC3 (Molly); not all-day.
-coach,opp,Scott Market,"Lacey late Anderson Aug 17 + Aug 19 (2× week). Parker late Union twice Aug 23. Liam Florence TM-issue notes Aug 24, 30, and twice Aug 31 (≥3 month)."
-midday,flag,Market,test
-midday,note,Market,no mid-day flags 9/6 test (Harrison SN1 still missing)
-midday,when,Market,9/6 5:26 PM ET
