@@ -1,7 +1,7 @@
 key,value
 report_date,2026-09-05
 numbers_date,2026-09-04
-updated_at,9/5 8:12 PM
+updated_at,9/5 9:44 PM
 
 section,field,store,value
 sales,day$,Anderson,6260
@@ -235,3 +235,45 @@ lines,sn1,Union,1
 lines,sn2,Union,1
 coach,bankRunBy,Crestview,adrian
 coach,bankRunBy,Harrison,Nat
+schedules,week,all,2026-09-07 to 2026-09-13
+schedules,meet,all,Tue 9/8 Joe Zoom 2:30
+schedules,meet,Harrison,Thu 9/10 Coordinator Call
+schedules,note,Crestview,Kevin Fri NN2-12? unconfirmed
+schedules,note,Union,Angi Sat/Sun marked x
+schedules,note,Harrison,Angi also on Union sheet — listed both as written
+schedules,event,Anderson,Mon order Sygma and Produce; Tue produce truck; Wed Sygma truck; Thu schedules due / order Sygma; Fri order produce; Sat produce / Sygma truck
+schedules,Mon 9/7,Crestview,Jessie 5-3; Kevin off; Adrian 6-4; Kierstan 3-close; Johie 6-3
+schedules,Tue 9/8,Crestview,Jessie 6-4; Kevin 9:30-7:30; Adrian off; Kierstan 3-close; Johie 8-3; Joe Zoom 2:30
+schedules,Wed 9/9,Crestview,Jessie off; Kevin 6-4; Adrian 9:30-7:30; Kierstan 7-3; Ritter 3-close; Johie 8-3
+schedules,Thu 9/10,Crestview,Jessie 6-4; Kevin 9:30-7:30; Adrian 7-5; Johie 3-close
+schedules,Fri 9/11,Crestview,Jessie NN2-12?; Kevin 6-4; Adrian 9:30-7:30; Maryssa all day; Kierstan 8-3; Johie 3-close
+schedules,Sat 9/12,Crestview,Jessie off; Kevin 9:30-7:30; Adrian r/o; Maria close; Kierstan 6-3
+schedules,Sun 9/13,Crestview,Jessie 6-4; Kevin r/o; Adrian 9:30-7:30; Maryssa 6; Kierstan r/o; Ritter 3-close
+schedules,Mon 9/7,Union,Jed 6a; Molly 6a; Sofia 2-cl; Kleyer off; Angi 8-3
+schedules,Tue 9/8,Union,Jed 10:30-cl; Molly off; Sofia off; Kleyer 7a-3; Angi 8-3; Joe Zoom 2:30
+schedules,Wed 9/9,Union,Jed off; Molly 9:30; Sofia 11:30; Kleyer 6a-2; Jess 4-cl; Angi 8-3
+schedules,Thu 9/10,Union,Jed 6a; Molly 11:30; Sofia 9:30; Kleyer CTR; Angi 8-3
+schedules,Fri 9/11,Union,Jed 9:30a; Molly off; Sofia off; Kleyer 7a-3; Jess 4-cl; Angi 8-3
+schedules,Sat 9/12,Union,Jed 6a; Molly 11:30a; Sofia off; Kleyer CTR; Angi x
+schedules,Sun 9/13,Union,Jed off; Molly 6a; Sofia 9:30; Kleyer off; Jess 4-cl; Angi x
+schedules,Mon 9/7,Harrison,Russ 9:30; Natalie 5:30; Ethan 5:30; Belle 7-2; Angi 10-2 / 3-cl
+schedules,Tue 9/8,Harrison,Russ 11:30; Natalie 6; Ethan x; Belle 7-2; Angi 10-2; Heidy 9:30; Joe Zoom 2:30
+schedules,Wed 9/9,Harrison,Russ 9:30; Natalie 6; Ethan 11:30; Belle 7-2; Angi x
+schedules,Thu 9/10,Harrison,Russ 6; Natalie 11:30; Ethan 9:30; Belle 7-2; Angi 10-2; Coordinator Call
+schedules,Fri 9/11,Harrison,Russ r6; Natalie r9:30; Ethan x; Belle 7-2; Angi 10-2 / 3-cl; Heidy r/o
+schedules,Sat 9/12,Harrison,Russ r/o; Natalie r/o; Ethan 6; Belle x; Angi 3cl
+schedules,Sun 9/13,Harrison,Russ r/o; Natalie x; Ethan 6; Belle x; Angi x; Daniah 1-cl
+schedules,Mon 9/7,Florence,Charles 5-2 Nigel bday; Yazmin 5-3; Charlene 9-7; Allison 7:30; Kyle off; Olivia 5:30-10
+schedules,Tue 9/8,Florence,Charles 6-4; Yazmin 9-7; Charlene off; Allison 7:30; Kyle off; Olivia 5:30-10; Joe Zoom 2:30
+schedules,Wed 9/9,Florence,Charles chill; Yazmin 6-4; Charlene 9-7; Allison 7:30; Kyle off; Olivia 5:30-10; Nick 11-3
+schedules,Thu 9/10,Florence,Charles off; Yazmin off; Charlene 6-4; Allison 7:30; Kyle 9-7 order; Olivia 5:30-10
+schedules,Fri 9/11,Florence,Charles 6-4; Yazmin work @ CV; Charlene off; Allison 7:30; Kyle 12-cl; Olivia off
+schedules,Sat 9/12,Florence,Charles 6-4; Yazmin off; Charlene 9-7; Allison off; Kyle 12-cl; Olivia off
+schedules,Sun 9/13,Florence,Charles off; Yazmin 12-cl; Charlene 6-4; Allison off; Kyle 9-7; Olivia r/o; Nick 11-3
+schedules,Mon 9/7,Anderson,Sarah 6; Adrianna 7; John 10; Josh 12; Stefan RO; Emma off
+schedules,Tue 9/8,Anderson,Sarah off; Adrianna 7; John 6; Josh 10; Stefan RO; Emma 3; Joe Zoom 2:30
+schedules,Wed 9/9,Anderson,Sarah 10; Adrianna 7; John 12; Josh 6; Stefan RO; Emma off
+schedules,Thu 9/10,Anderson,Sarah 6; Adrianna 7; John off; Josh off; Stefan 10; Emma 3
+schedules,Fri 9/11,Anderson,Sarah 6; Adrianna 7; John off; Josh off; Stefan 10; Emma 3
+schedules,Sat 9/12,Anderson,Sarah off; Adrianna off; John off; Josh 6; Stefan 10; Emma 12
+schedules,Sun 9/13,Anderson,Sarah 10; Adrianna off; John 6; Josh off; Stefan RO; Emma 12
