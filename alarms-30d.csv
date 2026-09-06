@@ -1,7 +1,7 @@
-store,avg_disarm,avg_arm,flags,nights,as_of
-Anderson,6:18 AM,10:22 PM,0,1,2026-09-06
-Crestview,6:00 AM,—,0,1,2026-09-06
-Florence,5:51 AM,—,0,1,2026-09-06
-Harrison,6:31 AM,—,1,1,2026-09-06
-Union,7:00 AM,10:26 PM,1,1,2026-09-06
-Scott Market,6:20 AM,10:24 PM,2,1,2026-09-06
+store,avg_disarm,avg_arm,flags,n_disarm,n_arm,window,as_of_et
+Anderson,6:18 AM,10:22 PM,0,1,1,since 9/5 not 30d yet,2026-09-06 4:50 PM
+Crestview,6:13 AM,n/a,0,1,0,since 9/5 not 30d yet,2026-09-06 4:50 PM
+Florence,5:51 AM,n/a,0,1,0,since 9/5 not 30d yet,2026-09-06 4:50 PM
+Harrison,6:43 AM,n/a,0,1,0,since 9/5 not 30d yet,2026-09-06 4:50 PM
+Union,7:00 AM,10:26 PM,1,1,1,since 9/5 not 30d yet,2026-09-06 4:50 PM
+Scott Market,6:25 AM,10:24 PM,1,5,2,since 9/5 not 30d yet,2026-09-06 4:50 PM
