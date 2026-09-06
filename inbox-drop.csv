@@ -3,3 +3,7 @@ gmail_id,source,store,when_et,field,value,subject
 1a074855a97a6be3,tc2,Anderson,2026-09-05 10:21 PM,disarm,Emma Cheuvront,Disarmed
 1a0748635e3ee2a2,tc2,Anderson,2026-09-05 10:22 PM,armed,Away Emma Cheuvront,Armed Away
 1a0748a36c786d06,tc2,Union,2026-09-05 10:26 PM,armed,Away Bypass User 0,Armed Away (Bypass)
+1a0748a3685ee3e3,tc2,Union,2026-09-05 10:26 PM,bypass,Side GlassBreak,Sensor Bypass
+1a0748a39ad9cdd4,tc2,Union,2026-09-05 10:26 PM,bypass,Front GlassBreak,Sensor Bypass
+1a0748a36a433210,tc2,Union,2026-09-05 10:26 PM,low_batt_cleared,Side GlassBreak,Sensor Low Battery Cleared
+1a0748a3b8960300,tc2,Union,2026-09-05 10:26 PM,low_batt_cleared,Front GlassBreak,Sensor Low Battery Cleared
