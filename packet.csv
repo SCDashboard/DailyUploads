@@ -1,7 +1,7 @@
 key,value
 report_date,2026-09-06
 numbers_date,2026-09-05
-updated_at,9/6 3:27 PM
+updated_at,9/6 3:33 PM
 
 section,field,store,value
 sales,day$,Anderson,4990
@@ -453,8 +453,8 @@ lines,sn1,Crestview,1
 lines,lc1,Florence,1
 lines,lc2,Florence,1
 lines,sn1,Florence,1
-lines,lc1,Harrison,0
-lines,lc2,Harrison,0
+lines,lc1,Harrison,1
+lines,lc2,Harrison,1
 lines,sn1,Harrison,0
 lines,lc1,Union,1
 lines,lc2,Union,1
@@ -468,8 +468,8 @@ lc_sn,sn1,Crestview,1
 lc_sn,lc1,Florence,1
 lc_sn,lc2,Florence,1
 lc_sn,sn1,Florence,1
-lc_sn,lc1,Harrison,0
-lc_sn,lc2,Harrison,0
+lc_sn,lc1,Harrison,1
+lc_sn,lc2,Harrison,1
 lc_sn,sn1,Harrison,0
 lc_sn,lc1,Union,1
 lc_sn,lc2,Union,1
