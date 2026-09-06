@@ -11,3 +11,15 @@ gmail_id,source,store,when_et,field,value,subject
 1a076217b9a1640c,tc2,Florence,2026-09-06 05:51 AM,disarm,Charlene Canada,Disarmed
 1a076297475873cd,tc2,Crestview,2026-09-06 06:00 AM,disarmed,Team Kenwood 2,Disarmed
 heartbeat,heartbeat,Market,2026-09-06 06:02 AM,last_ok_et,2026-09-06 06:02 AM,gmail_ok
+1a0742d22ada289a,olo,Market,2026-09-05 08:45 PM,86s_pm,attached,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0742d22ada289a,olo,Anderson,2026-09-05 08:45 PM,count,14,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0742d22ada289a,olo,Crestview,2026-09-05 08:45 PM,count,54,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0742d22ada289a,olo,Florence,2026-09-05 08:45 PM,count,174,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0742d22ada289a,olo,Harrison,2026-09-05 08:45 PM,count,385,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0742d22ada289a,olo,Union,2026-09-05 08:45 PM,count,0,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0762a36de08a0d,olo,Market,2026-09-06 06:01 AM,86s_am,attached,Olo: Currently 86'ed Menu Items is attached
+1a0762a36de08a0d,olo,Anderson,2026-09-06 06:01 AM,count,14,Olo: Currently 86'ed Menu Items is attached
+1a0762a36de08a0d,olo,Crestview,2026-09-06 06:01 AM,count,54,Olo: Currently 86'ed Menu Items is attached
+1a0762a36de08a0d,olo,Florence,2026-09-06 06:01 AM,count,174,Olo: Currently 86'ed Menu Items is attached
+1a0762a36de08a0d,olo,Harrison,2026-09-06 06:01 AM,count,385,Olo: Currently 86'ed Menu Items is attached
+1a0762a36de08a0d,olo,Union,2026-09-06 06:01 AM,count,0,Olo: Currently 86'ed Menu Items is attached
