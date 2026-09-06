@@ -1,0 +1,39 @@
+section,store,name,status
+window3,Anderson,Sarah Juterbock,completed
+window3,Anderson,John Unsworth,completed
+window3,Anderson,Joshua Jackson,completed
+window3,Anderson,Stefan Razac,completed
+window3,Anderson,Adrianna Huddleston,not_viewed
+window3,Anderson,Emma Cheuvront,not_viewed
+window3,Crestview,Adrian Magers,completed
+window3,Crestview,Jessie Stahl,in_progress
+window3,Crestview,Kevin Shafer,in_progress
+window3,Crestview,Maryssa Cox,not_viewed
+window3,Crestview,Maria Cooper,not_viewed
+window3,Crestview,Kierstan Phelps,not_viewed
+window3,Crestview,Xander Ritter,not_viewed
+window3,Crestview,Johie Haney,not_viewed
+window3,Florence,Yazmin Lowe,completed
+window3,Florence,Charlene Canada,completed
+window3,Florence,Olivia Pendleton,completed
+window3,Florence,Charles Kelshaw,in_progress
+window3,Florence,Allison Stephens,not_viewed
+window3,Florence,Kyle Hensley,not_viewed
+window3,Florence,Nick Piotrowski,not_viewed
+window3,Florence,Curtis Smithson,not_viewed
+window3,Harrison,Russell Ferguson,completed
+window3,Harrison,Heidy Anderson,in_progress
+window3,Harrison,Natalie Fisher,not_viewed
+window3,Harrison,Ethan Maycon,not_viewed
+window3,Harrison,Belle Zimmerman,not_viewed
+window3,Harrison,Angela Sayre,not_viewed
+window3,Harrison,Daniah Shannon,not_viewed
+window3,Harrison,Reese Rosselott,not_viewed
+window3,Union,Jed Bullis,completed
+window3,Union,Molly Ripberger,completed
+window3,Union,Sofia Stone,completed
+window3,Union,Desiree Costa,not_viewed
+window3,Union,Jessica Ponce,not_viewed
+window3,ScottMarket,completed,12
+window3,ScottMarket,in_progress,4
+window3,ScottMarket,not_viewed,19
