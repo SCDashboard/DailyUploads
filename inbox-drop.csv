@@ -13,7 +13,8 @@ gmail_id,source,store,when_et,field,value,subject
 1a0748a38bc50843,tc2,Union,2026-09-05 10:26 PM,armed,Away Bypass User 0,Armed Away (Bypass)
 1a0763511ea7c62b,tc2,Crestview,2026-09-06 06:13 AM,disarm,Adrian Magers,Disarmed
 1a07639f68a670ae,tc2,Anderson,2026-09-06 06:18 AM,disarmed,Josh Jackson,Disarmed
-heartbeat,heartbeat,Market,2026-09-06 06:20 AM,last_ok_et,2026-09-06 06:20 AM,gmail_ok
+1a07645b91c7673d,tc2,Harrison,2026-09-06 06:31 AM,disarm,Katri6 Slot 6,Disarmed
+1a07645ddf0c7e91,tc2,Harrison,2026-09-06 06:31 AM,disarm,Built-In Camera,Default-Disarmed-Inbuilt Camera
 1a0742d22ada289a,olo,Market,2026-09-05 08:45 PM,86s_pm,attached,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
 1a0742d22ada289a,olo,Anderson,2026-09-05 08:45 PM,count,14,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
 1a0742d22ada289a,olo,Crestview,2026-09-05 08:45 PM,count,54,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
@@ -26,3 +27,4 @@ heartbeat,heartbeat,Market,2026-09-06 06:20 AM,last_ok_et,2026-09-06 06:20 AM,gm
 1a0762a36de08a0d,olo,Florence,2026-09-06 06:01 AM,count,174,Olo: Currently 86'ed Menu Items is attached
 1a0762a36de08a0d,olo,Harrison,2026-09-06 06:01 AM,count,385,Olo: Currently 86'ed Menu Items is attached
 1a0762a36de08a0d,olo,Union,2026-09-06 06:01 AM,count,0,Olo: Currently 86'ed Menu Items is attached
+heartbeat,heartbeat,Market,2026-09-06 06:32 AM,last_ok_et,2026-09-06 06:32 AM,gmail_ok
