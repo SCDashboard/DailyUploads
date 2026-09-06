@@ -1,8 +1,9 @@
 section,field,store,value
-alarms,date,all,2026-09-05
+alarms,date,all,2026-09-06
 alarms,armed,Anderson,10:22 PM ET
 alarms,disarm,Anderson,10:21 PM ET
 alarms,user,Anderson,Emma Cheuvront
 alarms,armed,Union,10:26 PM ET
 alarms,user,Union,User 0
-alarms,note,Union,Bypass
+alarms,issue,Union,Sensor Low Battery Front GlassBreak 7:00 AM
+alarms,issue,Union,Sensor Low Battery Side GlassBreak 7:00 AM
