@@ -1,7 +1,7 @@
 store,avg_disarm,avg_arm,flags,nights_disarm,nights_arm,window
-Anderson,5:59 AM,10:02 PM,0,2,2,since 9/5
-Crestview,5:40 AM,9:37 PM,0,2,1,since 9/5
-Florence,5:30 AM,10:37 PM,0,2,1,since 9/5
-Harrison,6:20 AM,9:39 PM,0,2,1,since 9/5
-Union,6:33 AM,9:59 PM,0,2,2,since 9/5
-ScottMarket,6:00 AM,9:59 PM,0,10,7,since 9/5
+Anderson,5:59 AM,10:02 PM,0,2,2,rolling 30d
+Crestview,5:40 AM,9:37 PM,0,2,1,rolling 30d
+Florence,5:30 AM,10:37 PM,1,2,1,rolling 30d
+Harrison,6:20 AM,9:18 PM,2,2,1,rolling 30d
+Union,6:33 AM,9:59 PM,1,2,2,rolling 30d
+ScottMarket,6:00 AM,9:59 PM,4,10,7,rolling 30d
