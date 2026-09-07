@@ -1,50 +1,11 @@
 store,item,qty,slot,when_et
-Anderson,Bowl of Soup,1,am,2026-09-07 06:00 AM
-Anderson,Chicken and Dumplings,1,am,2026-09-07 06:00 AM
-Anderson,Cup of Chicken and Dumplings,1,am,2026-09-07 06:00 AM
-Anderson,Cup of Soup,1,am,2026-09-07 06:00 AM
-Anderson,Cup of Tomato Bisque,3,am,2026-09-07 06:00 AM
-Anderson,Kids Pineapple Upside Down Lemonade,20,am,2026-09-07 06:00 AM
-Anderson,Pineapple,117,am,2026-09-07 06:00 AM
-Anderson,Pineapple Upside Down Lemonade,1,am,2026-09-07 06:00 AM
-Anderson,Pineapple Upside Down Lemonade with Cold Foam,1,am,2026-09-07 06:00 AM
-Anderson,Tomato Bisque,8,am,2026-09-07 06:00 AM
-Anderson,Tomato Bisque Soup,1,am,2026-09-07 06:00 AM
-Crestview,Bowl of Fire Roasted Vegetable ,1,am,2026-09-07 06:00 AM
-Crestview,Bowl of Soup,2,am,2026-09-07 06:00 AM
-Crestview,Bowl of Tomato Bisque,1,am,2026-09-07 06:00 AM
-Crestview,Cup of Fire Roasted Vegetable,1,am,2026-09-07 06:00 AM
-Crestview,Cup of Fire Roasted Vegetable ,1,am,2026-09-07 06:00 AM
-Crestview,Cup of Soup,2,am,2026-09-07 06:00 AM
-Crestview,Cup of Tomato Bisque,2,am,2026-09-07 06:00 AM
-Crestview,Fire Roasted Vegetable,8,am,2026-09-07 06:00 AM
-Crestview,Fire Roasted Vegetable Soup,1,am,2026-09-07 06:00 AM
-Crestview,Gallon Strawberry Watermelon Lemonade,1,am,2026-09-07 06:00 AM
-Crestview,Gallon Strawberry Watermelon Tea,1,am,2026-09-07 06:00 AM
-Crestview,Mango,10,am,2026-09-07 06:00 AM
-Crestview,Tomato Bisque,8,am,2026-09-07 06:00 AM
-Crestview,Tomato Bisque Soup,1,am,2026-09-07 06:00 AM
-Florence,Chicken and Dumplings,1,am,2026-09-07 06:00 AM
-Florence,Cup of Chicken and Dumplings,1,am,2026-09-07 06:00 AM
-Florence,Gallon Strawberry Watermelon Lemonade,1,am,2026-09-07 06:00 AM
-Florence,Gallon Strawberry Watermelon Tea,1,am,2026-09-07 06:00 AM
-Florence,Mango,10,am,2026-09-07 06:00 AM
-Florence,Pineapple Upside Down Cheesecake,1,am,2026-09-07 06:00 AM
-Florence,Pineapple Upside Down Cheesecake RAILS,1,am,2026-09-07 06:00 AM
-Florence,Watermelon,122,am,2026-09-07 06:00 AM
-Harrison,Blue Raspberry,111,am,2026-09-07 06:00 AM
-Harrison,Bowl of Soup,1,am,2026-09-07 06:00 AM
-Harrison,Bowl of Tomato Bisque,3,am,2026-09-07 06:00 AM
-Harrison,Cup of Soup,1,am,2026-09-07 06:00 AM
-Harrison,Cup of Tomato Bisque,4,am,2026-09-07 06:00 AM
-Harrison,Gallon Pineapple Upside Down Lemonade,3,am,2026-09-07 06:00 AM
-Harrison,Kids Pineapple Upside Down Lemonade,20,am,2026-09-07 06:00 AM
-Harrison,Mango,10,am,2026-09-07 06:00 AM
-Harrison,Pineapple,117,am,2026-09-07 06:00 AM
-Harrison,Pineapple Upside Down Cheesecake,1,am,2026-09-07 06:00 AM
-Harrison,Pineapple Upside Down Cheesecake RAILS,1,am,2026-09-07 06:00 AM
-Harrison,Pineapple Upside Down Lemonade,1,am,2026-09-07 06:00 AM
-Harrison,Pineapple Upside Down Lemonade with Cold Foam,1,am,2026-09-07 06:00 AM
-Harrison,Tomato Bisque,8,am,2026-09-07 06:00 AM
-Harrison,Tomato Bisque Soup,1,am,2026-09-07 06:00 AM
-Harrison,Watermelon,63,am,2026-09-07 06:00 AM
+Anderson,Pineapple Upside Down Lemonade,1,1030,2026-09-07 10:30 AM
+Anderson,Pineapple Upside Down Lemonade with Cold Foam,1,1030,2026-09-07 10:30 AM
+Anderson,Tomato Bisque Soup,1,1030,2026-09-07 10:30 AM
+Crestview,Fire Roasted Vegetable Soup,1,1030,2026-09-07 10:30 AM
+Crestview,Tomato Bisque Soup,1,1030,2026-09-07 10:30 AM
+Florence,Pineapple Upside Down Cheesecake,1,1030,2026-09-07 10:30 AM
+Harrison,Pineapple Upside Down Cheesecake,1,1030,2026-09-07 10:30 AM
+Harrison,Pineapple Upside Down Lemonade,1,1030,2026-09-07 10:30 AM
+Harrison,Pineapple Upside Down Lemonade with Cold Foam,1,1030,2026-09-07 10:30 AM
+Harrison,Tomato Bisque Soup,1,1030,2026-09-07 10:30 AM
