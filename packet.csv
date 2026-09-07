@@ -1,7 +1,7 @@
 key,value
 report_date,2026-09-07
 numbers_date,2026-09-06
-updated_at,9/7 9:09 AM
+updated_at,9/7 9:23 AM
 
 section,field,store,value
 sales,day$,Anderson,5516
@@ -36,6 +36,7 @@ sales,vs_ly_wtd,Scott4,+1.23%
 sales,day$,ScottMarket,32686
 sales,wtd$,ScottMarket,235585
 catering_sales,day$,Anderson,78.34
+catering_sales,vs_ly,Anderson,0.00%
 catering_sales,wtd$,Anderson,2877.95
 catering_sales,day$,Crestview,626.12
 catering_sales,vs_ly,Crestview,+59.47%
@@ -44,8 +45,10 @@ catering_sales,day$,Florence,0.00
 catering_sales,vs_ly,Florence,-100.00%
 catering_sales,wtd$,Florence,9692.10
 catering_sales,day$,Harrison,23.18
+catering_sales,vs_ly,Harrison,0.00%
 catering_sales,wtd$,Harrison,4596.23
 catering_sales,day$,Union,290.63
+catering_sales,vs_ly,Union,0.00%
 catering_sales,wtd$,Union,1484.56
 catering_sales,day$,Scott4,727.64
 catering_sales,vs_ly,Scott4,+82.79%
