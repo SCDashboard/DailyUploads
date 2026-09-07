@@ -1,7 +1,7 @@
 key,value
 report_date,2026-09-07
 numbers_date,2026-09-05
-updated_at,9/7 7:13 AM
+updated_at,9/7 7:41 AM
 
 section,field,store,value
 sales,day$,Anderson,4990
@@ -325,3 +325,40 @@ schedules,task,Market,"Thu 9/10 3:00–4:30 PM — Reverb #4 Blakesley Market (T
 schedules,task,Market,"Fri 9/11 10:30–11:00 AM — Joe Weekly Recap (Teams, Ryan Downam)"
 schedules,task,Market,Fri 9/11 2:00–3:00 PM — New Hire / Sales Calls Follow-up
 schedules,task,Market,"Fri 9/11 4:30–5:00 PM — Make Waves Gala- Newport on the Levee (Teams, Kari Wooton)"
+mnky_today,date,Market,2026-09-07
+mnky_today,open,Crestview,1
+mnky_today,total,Crestview,1
+mnky_today,total_sales,Crestview,348.61
+mnky_today,open,Union,1
+mnky_today,total,Union,1
+mnky_today,total_sales,Union,1337.64
+mnky_today,open,ScottMarket,2
+mnky_today,total,ScottMarket,2
+mnky_today,total_sales,ScottMarket,1686.25
+mnky_tomorrow,date,Market,2026-09-08
+mnky_tomorrow,orders,Crestview,2
+mnky_tomorrow,sales,Crestview,323.99
+mnky_tomorrow,orders,Florence,3
+mnky_tomorrow,sales,Florence,915.44
+mnky_tomorrow,orders,Harrison,2
+mnky_tomorrow,sales,Harrison,584.40
+mnky_tomorrow,orders,Union,1
+mnky_tomorrow,sales,Union,180.08
+mnky_tomorrow,orders,ScottMarket,8
+mnky_tomorrow,sales,ScottMarket,2003.91
+mnky_week,date,Market,2026-09-09
+mnky_week,orders,Anderson,3
+mnky_week,sales,Anderson,1055.79
+mnky_week,flags,Anderson,purple
+mnky_week,orders,Crestview,2
+mnky_week,sales,Crestview,1818.19
+mnky_week,flags,Crestview,purple
+mnky_week,orders,Florence,3
+mnky_week,sales,Florence,1955.31
+mnky_week,orders,Harrison,2
+mnky_week,sales,Harrison,783.67
+mnky_week,orders,Union,1
+mnky_week,sales,Union,1293.60
+mnky_week,orders,ScottMarket,11
+mnky_week,sales,ScottMarket,6906.56
+mnky_week,flags,ScottMarket,3 purple
