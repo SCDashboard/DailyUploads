@@ -56,5 +56,6 @@ gmail_id,source,store,when_et,field,value,subject
 1a079ba3eae28e63,tc2,Florence,2026-09-06 10:37 PM,armed,Away Security Panel User [0],Armed Away
 1a07b1e2d3d59a55,tc2,Crestview,2026-09-07 5:06 AM,disarmed,Jessie Stahl,Disarmed
 1a07b20a85b8357a,tc2,Florence,2026-09-07 5:08 AM,disarmed,Charles Kelshaw,Disarmed
+heartbeat,heartbeat,Market,2026-09-07 5:41 AM,last_ok_et,2026-09-07 5:41 AM,gmail_ok
 1a07b3d7e5ac2e21,tc2,Anderson,2026-09-07 5:40 AM,disarmed,Sarah Juterbock,Disarmed
-heartbeat,heartbeat,Market,2026-09-07 5:42 AM,last_ok_et,2026-09-07 5:42 AM,gmail_ok
+1a07b4d617179167,tc2,Harrison,2026-09-07 5:57 AM,disarmed,Russell Ferguson,Disarmed
