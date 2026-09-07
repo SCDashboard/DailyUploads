@@ -1,7 +1,7 @@
-range,store,orders,sales,green,purple,flags
-2026-09-08 to 2026-09-14,Anderson,3,1055.79,0,2,2 purple
-2026-09-08 to 2026-09-14,Crestview,4,2142.18,1,1,1 green 1 purple
-2026-09-08 to 2026-09-14,Florence,6,2870.75,0,0,
-2026-09-08 to 2026-09-14,Harrison,4,1368.07,0,0,
-2026-09-08 to 2026-09-14,Union,2,1473.68,1,0,1 green
-2026-09-08 to 2026-09-14,ScottMarket,19,8910.47,2,3,2 green 3 purple
+range,store,orders,sales,flags
+2026-09-09 to 2026-09-13,Anderson,3,1055.79,2 purple
+2026-09-09 to 2026-09-13,Crestview,2,1818.19,1 green 1 purple
+2026-09-09 to 2026-09-13,Florence,3,1955.31,
+2026-09-09 to 2026-09-13,Harrison,2,783.67,
+2026-09-09 to 2026-09-13,Union,1,1293.60,1 green
+2026-09-09 to 2026-09-13,ScottMarket,11,6906.56,2 green 3 purple

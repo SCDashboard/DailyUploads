@@ -1,7 +1,7 @@
 date,store,orders,sales,names,flags,flag_detail
-2026-09-07,Anderson,0,0,,0,
-2026-09-07,Crestview,1,348.61,Michael Bradley $348.61,0,
-2026-09-07,Florence,0,0,,0,
-2026-09-07,Harrison,0,0,,0,
-2026-09-07,Union,1,1337.64,ezCater Marketplace $1337.64,1 green,ezCater Marketplace green
-2026-09-07,ScottMarket,2,1686.25,,1 green,Union ezCater green
+2026-09-08,Anderson,0,0,,0,
+2026-09-08,Crestview,2,323.99,"ezCater $143.49; Jill Rechtin $180.50",0,
+2026-09-08,Florence,3,915.44,"Jocelyne Marshall $428.25; Amethyst Wimsatt $324.63; ezCater $162.56",0,
+2026-09-08,Harrison,2,584.40,"ezCater $253.94; ezCater $330.46",0,
+2026-09-08,Union,1,180.08,Kayla Hahn $180.08,0,
+2026-09-08,ScottMarket,8,2003.91,,0,
