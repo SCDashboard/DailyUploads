@@ -1,7 +1,7 @@
 key,value
-report_date,2026-09-06
+report_date,2026-09-07
 numbers_date,2026-09-05
-updated_at,9/6 11:13 PM
+updated_at,9/7 6:41 AM
 
 section,field,store,value
 sales,day$,Anderson,4990
@@ -455,3 +455,48 @@ coach,opp,Union,LC3 Turkey 41 (Molly; ice bath CA). LC1 sanitizer 100 PPM (Kleye
 coach,temps,Union,Turkey 41 LC3 (Molly); not all-day.
 coach,opp,Scott Market,"Lacey late Anderson Aug 17 + Aug 19 (2× week). Parker late Union twice Aug 23. Liam Florence TM-issue notes Aug 24, 30, and twice Aug 31 (≥3 month)."
 coach,guest,Anderson,"9/6 3:12p FOOD SAFETY/EGREGIOUS: patio covered in literal human dung; child stepped in it. Guest demanded area roped off/closed + refund. (GF partial; login wall)"
+ez,rockstar,Anderson,YES
+ez,on_time,Anderson,98.6
+ez,acc,Anderson,98.6
+ez,tracking,Anderson,96.9
+ez,star,Anderson,5
+ez,n,Anderson,71
+ez,rockstar,Crestview,YES
+ez,on_time,Crestview,100
+ez,acc,Crestview,100
+ez,tracking,Crestview,99.1
+ez,star,Crestview,5
+ez,n,Crestview,107
+ez,rockstar,Florence,YES
+ez,on_time,Florence,100
+ez,acc,Florence,100
+ez,tracking,Florence,100
+ez,star,Florence,4.8
+ez,n,Florence,57
+ez,rockstar,Harrison,NO
+ez,on_time,Harrison,98.3
+ez,acc,Harrison,100
+ez,tracking,Harrison,80.9
+ez,star,Harrison,5
+ez,n,Harrison,61
+ez,rockstar,Union,YES
+ez,on_time,Union,100
+ez,acc,Union,100
+ez,tracking,Union,96
+ez,star,Union,5
+ez,n,Union,28
+ez,rockstar,ScottMarket,0.80
+ez,acc,ScottMarket,99.7
+ez,tracking,ScottMarket,94.6
+ez,on_time,ScottMarket,99.4
+ez,star,ScottMarket,4.96
+panda,timer,Harrison,7
+panda,wo,Harrison,#00954|Approved For Quote Request|e105 mains supply frequency issue|opened 6/2 7:32pm
+panda,timer,Union,7
+panda,wo,Union,#01142|Scheduled Equipment Maintenance|door open when closed / error on screen|opened 7/17 3:28pm
+panda,wo,Union,#01261|Under Warranty - Service Call Placed|iced over; digital 32 vs probe 43|opened 8/23 12:23pm
+panda,count,ScottMarket,3
+crunch,task,Anderson,MISSING DEPOSIT|due Sep 7
+crunch,task,Crestview,Replace Missing Posters|due Sep 8
+crunch,task,Union,Replace Missing Posters|due Sep 8
+crunch,task,Florence,Replace Missing Posters|due Sep 8
