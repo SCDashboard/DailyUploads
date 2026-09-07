@@ -61,10 +61,10 @@ gmail_id,source,store,when_et,field,value,subject
 1a07b556715837ae,tc2,Union,2026-09-07 6:06 AM,disarmed,JED Slot 3,Disarmed
 1a07b556a0ee4b3a,tc2,Union,2026-09-07 6:06 AM,low_battery,Side GlassBreak,Sensor Low Battery
 1a07b55706b5f679,tc2,Union,2026-09-07 6:06 AM,low_battery,Front GlassBreak,Sensor Low Battery
-heartbeat,heartbeat,Market,2026-09-07 11:10 AM,last_ok_et,2026-09-07 11:10 AM,gmail_ok
 1a07c46c7fc641bc,olo,Market,2026-09-07 10:30 AM,86s_1030,attached,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
 1a07c46c7fc641bc,olo,Anderson,2026-09-07 10:30 AM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
 1a07c46c7fc641bc,olo,Crestview,2026-09-07 10:30 AM,count,2,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
 1a07c46c7fc641bc,olo,Florence,2026-09-07 10:30 AM,count,1,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
 1a07c46c7fc641bc,olo,Harrison,2026-09-07 10:30 AM,count,4,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
 1a07c46c7fc641bc,olo,Union,2026-09-07 10:30 AM,count,0,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+heartbeat,heartbeat,Market,2026-09-07 12:10 PM,last_ok_et,2026-09-07 12:10 PM,gmail_ok
