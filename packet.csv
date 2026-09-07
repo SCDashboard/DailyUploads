@@ -197,3 +197,10 @@ sched_proj,day,Union,2026-09-10,77,5700
 sched_proj,day,Union,2026-09-11,78.75,5100
 sched_proj,day,Union,2026-09-12,62.75,4900
 sched_proj,day,Union,2026-09-13,82.25,6057
+86s,count,Anderson,3
+86s,count,Crestview,2
+86s,count,Florence,1
+86s,count,Harrison,4
+86s,count,Union,0
+86s,slot,Market,1030
+86s,when_et,Market,2026-09-07 10:30 AM
