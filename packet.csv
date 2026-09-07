@@ -1,7 +1,7 @@
 key,value
 report_date,2026-09-07
 numbers_date,2026-09-06
-updated_at,9/7 8:41 AM
+updated_at,9/7 8:45 AM
 
 section,field,store,value
 sales,day$,Anderson,5516
@@ -149,3 +149,38 @@ sva,wtd_sch,ScottMarket,2351
 sva,wtd_act,ScottMarket,2665.03
 sva,wtd_pm,ScottMarket,314.03
 sva,prj_ot,ScottMarket,5.26
+sched_proj,day,Anderson,2026-09-07,82,5500
+sched_proj,day,Anderson,2026-09-08,100.5,6000
+sched_proj,day,Anderson,2026-09-09,99.5,7500
+sched_proj,day,Anderson,2026-09-10,96.5,7000
+sched_proj,day,Anderson,2026-09-11,86,6500
+sched_proj,day,Anderson,2026-09-12,90,5500
+sched_proj,day,Anderson,2026-09-13,93.5,7000
+sched_proj,day,Crestview,2026-09-07,93,8011
+sched_proj,day,Crestview,2026-09-08,99.5,7956
+sched_proj,day,Crestview,2026-09-09,108.75,9260
+sched_proj,day,Crestview,2026-09-10,103,10021
+sched_proj,day,Crestview,2026-09-11,110,9008
+sched_proj,day,Crestview,2026-09-12,90,6873
+sched_proj,day,Crestview,2026-09-13,99.5,7600
+sched_proj,day,Florence,2026-09-07,83,6747
+sched_proj,day,Florence,2026-09-08,85.5,7552
+sched_proj,day,Florence,2026-09-09,99,9267
+sched_proj,day,Florence,2026-09-10,98,8218
+sched_proj,day,Florence,2026-09-11,88,7227
+sched_proj,day,Florence,2026-09-12,81,6064
+sched_proj,day,Florence,2026-09-13,87,7000
+sched_proj,day,Harrison,2026-09-07,108,7227
+sched_proj,day,Harrison,2026-09-08,117.25,7611
+sched_proj,day,Harrison,2026-09-09,88.75,8715
+sched_proj,day,Harrison,2026-09-10,96,8813
+sched_proj,day,Harrison,2026-09-11,117.5,8476
+sched_proj,day,Harrison,2026-09-12,91.5,6982
+sched_proj,day,Harrison,2026-09-13,97,7628
+sched_proj,day,Union,2026-09-07,72.75,5000
+sched_proj,day,Union,2026-09-08,69,5200
+sched_proj,day,Union,2026-09-09,79,5100
+sched_proj,day,Union,2026-09-10,77,5700
+sched_proj,day,Union,2026-09-11,78.75,5100
+sched_proj,day,Union,2026-09-12,62.75,4900
+sched_proj,day,Union,2026-09-13,82.25,6057
