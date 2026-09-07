@@ -1,22 +1,20 @@
-as_of_et,kind,when_et,what
-2026-09-06 8:32 PM,86s,2026-09-06 8:32 PM,updated 9/6 8:32 PM 86 list card
-2026-09-06 8:16 PM,other,2026-09-06 8:16 PM,updated 9/6 8:16 PM packet from Bot
-2026-09-06 7:58 PM,other,2026-09-06 7:58 PM,updated 9/6 7:58 PM packet from Bot
-2026-09-06 5:38 PM,other,2026-09-06 5:38 PM,updated 9/6 5:38 PM packet from Bot midday test
-2026-09-06 5:26 PM,other,2026-09-06 5:26 PM,updated 9/6 5:26 PM Mid-Day Shift Check test — no mid-day flags (Harrison SN1 missing)
-2026-09-06 4:12 PM,other,2026-09-06 4:12 PM,updated 9/6 4:12 PM AD Desk update log switched to one row per push
-2026-09-06 3:33 PM,other,2026-09-06 3:33 PM,updated 9/6 3:33 PM Harrison LC1/LC2 form-open fix
-2026-09-06 3:29 PM,other,2026-09-06 3:29 PM,updated 9/6 3:29 PM Zenput LC1/LC2/SN1
-2026-09-06 2:44 PM,other,2026-09-06 2:44 PM,updated 9/6 2:44 PM 86 list card product list
-2026-09-06 2:37 PM,other,2026-09-06 2:37 PM,updated 9/6 2:37 PM packet 86 counts 1/12/13/14/0
-2026-09-06 2:01 PM,other,2026-09-06 2:01 PM,updated 9/6 2:01 PM 86 list 2pm mail
-2026-09-06 7:00 AM,other,2026-09-06 7:00 AM,updated 9/6 7:00 AM Union DISARMED
-2026-09-06 6:32 AM,other,2026-09-06 6:32 AM,updated 9/6 6:32 AM Harrison DISARMED
-2026-09-06 6:20 AM,other,2026-09-06 6:20 AM,updated 9/6 6:20 AM Anderson DISARMED
-2026-09-06 6:16 AM,other,2026-09-06 6:16 AM,updated 9/6 6:16 AM Crestview DISARMED
-2026-09-06 6:11 AM,other,2026-09-06 6:11 AM,updated 9/6 6:11 AM Union Armed Away Bypass
-2026-09-06 6:02 AM,other,2026-09-06 6:02 AM,updated 9/6 6:02 AM 86 list 8:45 PM + 6 AM
-2026-09-06 6:00 AM,other,2026-09-06 6:00 AM,updated 9/6 6:00 AM Crestview DISARMED
-2026-09-06 5:51 AM,other,2026-09-06 5:51 AM,updated 9/6 5:51 AM Florence DISARMED
-2026-09-06 4:38 AM,other,2026-09-06 4:38 AM,updated 9/6 4:38 AM packet Sat sales labor cash restored
-2026-09-06 4:04 AM,other,2026-09-06 4:04 AM,updated 9/6 4:04 AM packet coach names / rockstars
+when_et,line
+2026-09-06 8:45 PM,updated 9/6 8:45 PM 86 list unique 3/7/6/5/0
+2026-09-06 8:00 PM,updated 9/6 8:00 PM evening packet Monkey today/tomorrow/WTD
+2026-09-06 5:26 PM,updated 9/6 5:26 PM Mid-Day Shift Check test + full packet
+2026-09-06 4:12 PM,updated 9/6 4:12 PM AD Desk update log switched to one row per push
+2026-09-06 3:33 PM,updated 9/6 3:33 PM Harrison LC1/LC2 form-open fix
+2026-09-06 3:29 PM,updated 9/6 3:29 PM Zenput LC1/LC2/SN1
+2026-09-06 2:44 PM,updated 9/6 2:44 PM 86 list card product list
+2026-09-06 2:37 PM,updated 9/6 2:37 PM packet 86 counts 1/12/13/14/0
+2026-09-06 2:01 PM,updated 9/6 2:01 PM 86 list 2pm mail
+2026-09-06 7:00 AM,updated 9/6 7:00 AM Union DISARMED
+2026-09-06 6:32 AM,updated 9/6 6:32 AM Harrison DISARMED
+2026-09-06 6:20 AM,updated 9/6 6:20 AM Anderson DISARMED
+2026-09-06 6:16 AM,updated 9/6 6:16 AM Crestview DISARMED
+2026-09-06 6:11 AM,updated 9/6 6:11 AM Union Armed Away Bypass
+2026-09-06 6:02 AM,updated 9/6 6:02 AM 86 list 8:45 PM + 6 AM
+2026-09-06 6:00 AM,updated 9/6 6:00 AM Crestview DISARMED
+2026-09-06 5:51 AM,updated 9/6 5:51 AM Florence DISARMED
+2026-09-06 4:38 AM,updated 9/6 4:38 AM packet Sat sales labor cash restored
+2026-09-06 4:04 AM,updated 9/6 4:04 AM packet coach names / rockstars
