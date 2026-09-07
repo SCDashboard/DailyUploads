@@ -405,11 +405,6 @@ rockstars,2026-09-04,Harrison,Daniah — Daniah
 rockstars,2026-09-05,Harrison,Ethan — Ethan
 rockstars,2026-09-05,Anderson,Everyone — Everyone
 rockstars,2026-09-05,Harrison,christian and ron — christian and ron
-86s,count,Anderson,5
-86s,count,Crestview,8
-86s,count,Florence,5
-86s,count,Harrison,18
-86s,count,Union,0
 lines,date,Market,2026-09-06
 lines,lc1,Anderson,1
 lines,lc2,Anderson,1
@@ -441,3 +436,10 @@ lc_sn,sn1,Harrison,0
 lc_sn,lc1,Union,1
 lc_sn,lc2,Union,1
 lc_sn,sn1,Union,1
+86s,count,Anderson,8
+86s,count,Crestview,12
+86s,count,Florence,13
+86s,count,Harrison,14
+86s,count,Union,0
+86s,slot,Market,pm
+86s,when_et,Market,2026-09-06 08:45 PM
