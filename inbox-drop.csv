@@ -50,6 +50,7 @@ gmail_id,source,store,when_et,field,value,subject
 1a07986fb197b5cd,tc2,Anderson,2026-09-06 9:41 PM,armed,Away Emma Cheuvront,Armed Away
 1a07974f7ab740fb,tc2,Crestview,2026-09-06 9:21 PM,armed,Away Team Kenwood 2,Armed Away
 1a07975a41eb839f,tc2,Crestview,2026-09-06 9:22 PM,armed,Away Team Kenwood 2,Armed Away
-1a07985539b84b68,tc2,Florence,2026-09-06 9:39 PM,armed,Away Security Panel User [0],Armed Away
-1a0799647391812f,tc2,Crestview,2026-09-06 9:58 PM,armed,Custom (Bypass) Kam Fairfield,Armed Custom
-heartbeat,heartbeat,Market,2026-09-06 10:02 PM,last_ok_et,2026-09-06 10:02 PM,gmail_ok
+1a07985539b84b68,tc2,Harrison,2026-09-06 9:39 PM,armed,Away Security Panel User [0],Armed Away
+1a076297475873cd,tc2,Crestview,2026-09-06 06:00 AM,disarm,Team Kenwood 2,Disarmed
+1a07645b91c7673d,tc2,Harrison,2026-09-06 06:31 AM,disarm,Katri6 Slot 6,Disarmed
+heartbeat,heartbeat,Market,2026-09-06 10:03 PM,last_ok_et,2026-09-06 10:03 PM,gmail_ok
