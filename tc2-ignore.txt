@@ -1,0 +1,8 @@
+ALWAYS ignore and delete TotalConnect emails containing any of:
+COX LN
+MONTGOMERY RD
+3169 Princeton Road
+3372 Madison Road
+
+These are not South Cincy stores. Never map them to Harrison, Crestview, Anderson, Florence, or Union.
+Harrison is only "Harrison Ave".
