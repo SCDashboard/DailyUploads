@@ -58,10 +58,4 @@ gmail_id,source,store,when_et,field,value,subject
 1a07b20a85b8357a,tc2,Florence,2026-09-07 5:08 AM,disarmed,Charles Kelshaw,Disarmed
 1a07b3d7e5ac2e21,tc2,Anderson,2026-09-07 5:40 AM,disarmed,Sarah Juterbock,Disarmed
 1a07b4d617179167,tc2,Harrison,2026-09-07 5:57 AM,disarmed,Russell Ferguson,Disarmed
-heartbeat,heartbeat,Market,2026-09-07 5:58 AM,last_ok_et,2026-09-07 5:58 AM,gmail_ok
-1a07b4fae0689ca1,olo,Market,2026-09-07 06:00 AM,86s_am,attached,Olo: Currently 86'ed Menu Items is attached
-1a07b4fae0689ca1,olo,Anderson,2026-09-07 06:00 AM,count,11,Olo: Currently 86'ed Menu Items is attached
-1a07b4fae0689ca1,olo,Crestview,2026-09-07 06:00 AM,count,14,Olo: Currently 86'ed Menu Items is attached
-1a07b4fae0689ca1,olo,Florence,2026-09-07 06:00 AM,count,8,Olo: Currently 86'ed Menu Items is attached
-1a07b4fae0689ca1,olo,Harrison,2026-09-07 06:00 AM,count,16,Olo: Currently 86'ed Menu Items is attached
-1a07b4fae0689ca1,olo,Union,2026-09-07 06:00 AM,count,0,Olo: Currently 86'ed Menu Items is attached
+heartbeat,heartbeat,Market,2026-09-07 6:02 AM,last_ok_et,2026-09-07 6:02 AM,gmail_ok
