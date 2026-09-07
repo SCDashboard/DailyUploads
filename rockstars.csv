@@ -1,4 +1,17 @@
-date,store,name,note
-2026-09-06,Florence,Bianca,Patient on two call-in reward orders
-2026-09-06,Florence,Key/Ky,Window — treated guest like a valued customer
-2026-09-05,Union,Milinda,Very nice to talk with. Made meal very enjoyable.
+date,store,name,note,source
+2026-09-06,Florence,Bianca,Patient on two call-in reward orders,GF
+2026-09-06,Florence,Key/Ky,Window — treated guest like a valued customer,GF
+2026-09-05,Union,Milinda,Very nice to talk with. Made meal very enjoyable.,GF
+2026-09-05,Harrison,Ethan,SN rockstar,SN
+2026-09-05,Anderson,Everyone,SN rockstar,SN
+2026-09-05,Harrison,christian and ron,SN rockstar,SN
+2026-09-04,Harrison,Daniah,SN rockstar,SN
+2026-09-02,Florence,Nate,coming in early,SN
+2026-09-02,Florence,Nick,staying late,SN
+2026-09-02,Harrison,Ron,SN rockstar,SN
+2026-09-02,Harrison,EVERYONE,SN rockstar,SN
+2026-09-01,Florence,Everyone,Decent dinner rush,SN
+2026-09-01,Crestview,maliyah,SN rockstar,SN
+2026-08-31,Florence,Louis,learning more sandwiches,SN
+2026-08-31,Harrison,Lil Maddie,SN rockstar,SN
+2026-08-31,Anderson,Everyone,SN rockstar,SN
