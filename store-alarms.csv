@@ -1,6 +1,6 @@
-store,armed,disarm,user_arm,user_disarm,night,flag_arm,flag_disarm,issue
-Anderson,9:41 PM,6:18 AM,Emma Cheuvront,Josh Jackson,2026-09-06,,,
-Crestview,9:37 PM,6:13 AM,Adrianna Huddleston,Adrian Magers,2026-09-06,,,
-Florence,,5:51 AM,,Charlene Canada,2026-09-06,,,
-Harrison,9:18 PM,6:43 AM,User 0,Ethan Slot 6,2026-09-06,,,
-Union,9:33 PM,7:00 AM,User 0 Bypass,JED Slot 3,2026-09-06,,yes,Sensor Low Battery Front+Side GlassBreak 7:00 AM
+date,store,disarm,disarm_user,arm,arm_user,flag
+2026-09-06,Anderson,6:18 AM,Josh Jackson,9:41 PM,Emma Cheuvront,
+2026-09-06,Crestview,6:13 AM,Adrian Magers,9:37 PM,Adrianna Huddleston,
+2026-09-06,Florence,5:51 AM,Charlene Canada,—,,
+2026-09-06,Harrison,6:43 AM,Ethan Slot 6,9:18 PM,User 0,
+2026-09-06,Union,7:00 AM,JED Slot 3,9:33 PM,User 0 Bypass,
