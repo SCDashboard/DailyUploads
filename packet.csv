@@ -244,7 +244,7 @@ schedules,Sat 9/12,Crestview,Jessie off; Kevin 9:30-7:30; Adrian r/o; Maria clos
 schedules,Sun 9/13,Crestview,Jessie 6-4; Kevin r/o; Adrian 9:30-7:30; Maryssa 6; Kierstan r/o; Ritter 3-close
 schedules,Mon 9/7,Union,Jed 6a; Molly 6a; Sofia 2-cl; Kleyer off; Angi 8-3
 schedules,Tue 9/8,Union,Jed 10:30-cl; Molly off; Sofia off; Kleyer 7a-3; Angi 8-3; Joe Zoom 2:30
-schedules,Wed 9/9,Union,Jed off; Molly 9:30; Sofia 11:30; Kleyer 6a-2; Jess 4-cl; Angi 8-3
+schedules,Wed 9/9,Union,Jed off; Molly 9:30; Sofia off; Kleyer 6a-2; Jess 4-cl; Angi 8-3
 schedules,Thu 9/10,Union,Jed 6a; Molly 11:30; Sofia 9:30; Kleyer CTR; Angi 8-3
 schedules,Fri 9/11,Union,Jed 9:30a; Molly off; Sofia off; Kleyer 7a-3; Jess 4-cl; Angi 8-3
 schedules,Sat 9/12,Union,Jed 6a; Molly 11:30a; Sofia off; Kleyer CTR; Angi x
@@ -436,13 +436,13 @@ lc_sn,sn1,Harrison,0
 lc_sn,lc1,Union,1
 lc_sn,lc2,Union,1
 lc_sn,sn1,Union,1
-86s,count,Anderson,8
-86s,count,Crestview,12
-86s,count,Florence,13
-86s,count,Harrison,14
+86s,count,Anderson,11
+86s,count,Crestview,14
+86s,count,Florence,8
+86s,count,Harrison,16
 86s,count,Union,0
-86s,slot,Market,pm
-86s,when_et,Market,2026-09-06 08:45 PM
+86s,slot,Market,am
+86s,when_et,Market,2026-09-07 06:00 AM
 coach,opp,Anderson,LC1 sanitizer 0.17 PPM (Sarah). Salad Mix 49 LC2 / 46 LC3. LC3 3-comp sink No (Stefan).
 coach,temps,Anderson,"Salad Mix 49 (LC2 Adrianna), 46 (LC3 Stefan). Not all-day."
 coach,opp,Crestview,LC1 sanitizer 100 PPM (Jessie). Salad Mix 49 LC2 / 46 LC3. LC3 3-comp sink No (Kevin).
