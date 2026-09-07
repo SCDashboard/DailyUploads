@@ -1,7 +1,7 @@
 key,value
 report_date,2026-09-06
 numbers_date,2026-09-05
-updated_at,9/6 8:24 PM
+updated_at,9/6 11:13 PM
 
 section,field,store,value
 sales,day$,Anderson,4990
@@ -455,46 +455,3 @@ coach,opp,Union,LC3 Turkey 41 (Molly; ice bath CA). LC1 sanitizer 100 PPM (Kleye
 coach,temps,Union,Turkey 41 LC3 (Molly); not all-day.
 coach,opp,Scott Market,"Lacey late Anderson Aug 17 + Aug 19 (2× week). Parker late Union twice Aug 23. Liam Florence TM-issue notes Aug 24, 30, and twice Aug 31 (≥3 month)."
 coach,guest,Anderson,"9/6 3:12p FOOD SAFETY/EGREGIOUS: patio covered in literal human dung; child stepped in it. Guest demanded area roped off/closed + refund. (GF partial; login wall)"
-coach,reviews,Crestview,"9/6 11:33a 2★ Food cold and extremely salty (GF; no reward sent)"
-coach,other,ScottMarket,"GF Feedback night partial pages 1-3 only — login wall; Open Alerts none on those pages; re-handoff needed for pages 4+"
-midday,flag,Market,test
-midday,note,Market,no mid-day flags 9/6 test (Harrison SN1 still missing)
-midday,when,Market,9/6 5:26 PM ET
-mnky_today,date,Market,2026-09-06
-mnky_today,closed,Crestview,2
-mnky_today,open,Crestview,0
-mnky_today,total,Crestview,2
-mnky_today,total_sales,Crestview,745.68
-mnky_today,closed,Union,1
-mnky_today,open,Union,0
-mnky_today,total,Union,1
-mnky_today,total_sales,Union,304.88
-mnky_today,closed,ScottMarket,3
-mnky_today,open,ScottMarket,0
-mnky_today,total,ScottMarket,3
-mnky_today,total_sales,ScottMarket,1050.56
-mnky_tomorrow,date,Market,2026-09-07
-mnky_tomorrow,orders,Crestview,1
-mnky_tomorrow,total_sales,Crestview,348.61
-mnky_tomorrow,orders,Union,1
-mnky_tomorrow,total_sales,Union,1337.64
-mnky_tomorrow,orders,ScottMarket,2
-mnky_tomorrow,total_sales,ScottMarket,1686.25
-mnky_week,orders,Anderson,3
-mnky_week,flags,Anderson,2
-mnky_week,sales,Anderson,1055.79
-mnky_week,orders,Crestview,7
-mnky_week,flags,Crestview,1
-mnky_week,sales,Crestview,3236.47
-mnky_week,orders,Florence,6
-mnky_week,flags,Florence,0
-mnky_week,sales,Florence,2870.75
-mnky_week,orders,Harrison,4
-mnky_week,flags,Harrison,0
-mnky_week,sales,Harrison,1368.07
-mnky_week,orders,Union,4
-mnky_week,flags,Union,0
-mnky_week,sales,Union,3116.2
-mnky_week,orders,ScottMarket,24
-mnky_week,flags,ScottMarket,3
-mnky_week,sales,ScottMarket,11647.28
