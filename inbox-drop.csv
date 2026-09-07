@@ -33,7 +33,7 @@ gmail_id,source,store,when_et,field,value,subject
 1a07660ded07e202,tc2,Union,2026-09-06 07:00 AM,low_battery,Side GlassBreak,Sensor Low Battery
 1a0766105d5bc3a5,tc2,Union,2026-09-06 07:00 AM,disarm,Built-In Camera,Default-Disarmed-Inbuilt Camera
 1a077e0bee305a8d,olo,Market,2026-09-06 02:00 PM,86s_2pm,attached,Olo: Currently 86'ed Menu Items 2 pm  is attached
-1a077e0bee305a8d,olo,Anderson,2026-09-06 02:00 PM,count,14,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a077e0bee305a8d,olo,Anderson,2026-09-06 02:00 PM,count,14,Olo: Currently 86'ed Menu Items is attached
 1a077e0bee305a8d,olo,Crestview,2026-09-06 02:00 PM,count,54,Olo: Currently 86'ed Menu Items 2 pm  is attached
 1a077e0bee305a8d,olo,Florence,2026-09-06 02:00 PM,count,174,Olo: Currently 86'ed Menu Items 2 pm  is attached
 1a077e0bee305a8d,olo,Harrison,2026-09-06 02:00 PM,count,385,Olo: Currently 86'ed Menu Items 2 pm  is attached
@@ -50,4 +50,4 @@ gmail_id,source,store,when_et,field,value,subject
 1a07986fb197b5cd,tc2,Anderson,2026-09-06 9:41 PM,armed,Away Emma Cheuvront,Armed Away
 1a07985539b84b68,tc2,Harrison,2026-09-06 9:39 PM,armed,Away Security Panel User [0],Armed Away
 1a0799647391812f,tc2,Florence,2026-09-06 9:58 PM,armed,Custom (Bypass) Kam Fairfield,Armed Custom
-heartbeat,heartbeat,Market,2026-09-06 9:58 PM,last_ok_et,2026-09-06 9:58 PM,gmail_ok
+heartbeat,heartbeat,Market,2026-09-06 10:00 PM,last_ok_et,2026-09-06 10:00 PM,gmail_ok
