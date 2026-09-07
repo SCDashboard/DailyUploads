@@ -1,7 +1,7 @@
-date,store,orders,sales,names
-2026-09-06,Anderson,0,0,
-2026-09-06,Crestview,2,745.68,"Brian Martin $260.95; ezCater Marketplace $484.73"
-2026-09-06,Florence,0,0,
-2026-09-06,Harrison,0,0,
-2026-09-06,Union,1,304.88,"Jessica Yates $304.88"
-2026-09-06,ScottMarket,3,1050.56,
+date,store,orders,sales,names,flags,flag_detail
+2026-09-07,Anderson,0,0,,,
+2026-09-07,Crestview,1,348.61,Michael Bradley $348.61,,
+2026-09-07,Florence,0,0,,,
+2026-09-07,Harrison,0,0,,,
+2026-09-07,Union,1,1337.64,ezCater Marketplace $1337.64,green,ezCater Marketplace green
+2026-09-07,ScottMarket,2,1686.25,,green,Union ezCater green
