@@ -291,3 +291,37 @@ sched_proj,day,Florence,2026-09-10,98,8218,621.5,52075
 sched_proj,day,Florence,2026-09-11,88,7227,621.5,52075
 sched_proj,day,Florence,2026-09-12,81,6064,621.5,52075
 sched_proj,day,Florence,2026-09-13,87,7000,648,45000
+schedules,today,Market,All day — Labor Day
+schedules,today,Market,10:00–10:30 AM — Meeting with John and Sarah
+schedules,today,Market,"10:30–11:30 AM — RD's AD Game Plan (Teams, Ryan Downam)"
+schedules,Mon 9/7,Market,All day — Labor Day
+schedules,Mon 9/7,Market,10:00–10:30 AM — Meeting with John and Sarah
+schedules,Mon 9/7,Market,"10:30–11:30 AM — RD's AD Game Plan (Teams, Ryan Downam)"
+schedules,Tue 9/8,Market,All day — Joe Vacation (through Sun 9/13)
+schedules,Tue 9/8,Market,2:30–3:30 PM — South Cinci Weekly GM Call (Teams)
+schedules,Wed 9/9,Market,All day — Joe Vacation (continues)
+schedules,Thu 9/10,Market,All day — Joe Vacation (continues)
+schedules,Thu 9/10,Market,All day — Ryle HS Football Team Dinner Donation
+schedules,Thu 9/10,Market,All day — REVERB #4-SAVE THE DATE (Lisa McDonald)
+schedules,Thu 9/10,Market,"10:00–11:30 AM — Reverb #4 Blakesley Market (Teams, Rachel Blakesley)"
+schedules,Thu 9/10,Market,3:00–4:00 PM — Reverb 4
+schedules,Thu 9/10,Market,"3:00–4:30 PM — Reverb #4 Blakesley Market (Teams, Rachel Blakesley)"
+schedules,Fri 9/11,Market,All day — Joe Vacation (continues)
+schedules,Fri 9/11,Market,"10:30–11:00 AM — Joe Weekly Recap (Teams, Ryan Downam)"
+schedules,Fri 9/11,Market,2:00–3:00 PM — New Hire / Sales Calls Follow-up
+schedules,Fri 9/11,Market,"4:30–5:00 PM — Make Waves Gala- Newport on the Levee (Teams, Kari Wooton)"
+schedules,Sat 9/12,Market,All day — Joe Vacation (continues)
+schedules,Sun 9/13,Market,All day — Joe Vacation (continues)
+schedules,task,Market,Mon 9/7 All day — Labor Day
+schedules,task,Market,Mon 9/7 10:00–10:30 AM — Meeting with John and Sarah
+schedules,task,Market,"Mon 9/7 10:30–11:30 AM — RD's AD Game Plan (Teams, Ryan Downam)"
+schedules,task,Market,Tue 9/8–Sun 9/13 All day — Joe Vacation
+schedules,task,Market,Tue 9/8 2:30–3:30 PM — South Cinci Weekly GM Call (Teams)
+schedules,task,Market,Thu 9/10 All day — Ryle HS Football Team Dinner Donation
+schedules,task,Market,Thu 9/10 All day — REVERB #4-SAVE THE DATE (Lisa McDonald)
+schedules,task,Market,"Thu 9/10 10:00–11:30 AM — Reverb #4 Blakesley Market (Teams, Rachel Blakesley)"
+schedules,task,Market,Thu 9/10 3:00–4:00 PM — Reverb 4
+schedules,task,Market,"Thu 9/10 3:00–4:30 PM — Reverb #4 Blakesley Market (Teams, Rachel Blakesley)"
+schedules,task,Market,"Fri 9/11 10:30–11:00 AM — Joe Weekly Recap (Teams, Ryan Downam)"
+schedules,task,Market,Fri 9/11 2:00–3:00 PM — New Hire / Sales Calls Follow-up
+schedules,task,Market,"Fri 9/11 4:30–5:00 PM — Make Waves Gala- Newport on the Levee (Teams, Kari Wooton)"
