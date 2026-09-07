@@ -1,0 +1,13 @@
+range,date,store,lunch,mid,dinner,total,pct_total
+yesterday,2026-09-06,Anderson,2,0,0,2,0.94%
+yesterday,2026-09-06,Crestview,6,0,0,6,2.19%
+yesterday,2026-09-06,Florence,6,0,1,7,3.23%
+yesterday,2026-09-06,Harrison,0,0,0,0,0.00%
+yesterday,2026-09-06,Union,0,0,0,0,0.00%
+yesterday,2026-09-06,Scott Market,14,0,1,15,
+wtd,2026-09-06,Anderson,20,1,5,26,1.68%
+wtd,2026-09-06,Crestview,22,0,5,27,1.32%
+wtd,2026-09-06,Florence,13,0,8,21,1.16%
+wtd,2026-09-06,Harrison,43,5,49,97,4.93%
+wtd,2026-09-06,Union,1,2,0,3,0.21%
+wtd,2026-09-06,Scott Market,99,8,67,174,
