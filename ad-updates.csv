@@ -1,25 +1,15 @@
-when_et,line
-2026-09-07 7:56 AM,updated 9/7 7:56 AM packet from Bot
-2026-09-07 6:06 AM,updated 9/7 6:06 AM Union SENSOR LOW BATTERY
-2026-09-07 6:06 AM,updated 9/7 6:06 AM Union DISARMED
-2026-09-07 5:57 AM,updated 9/7 5:57 AM Harrison DISARMED
-2026-09-07 5:40 AM,updated 9/7 5:40 AM Anderson DISARMED
-2026-09-07 5:08 AM,updated 9/7 5:08 AM Florence DISARMED
-2026-09-07 5:06 AM,updated 9/7 5:06 AM Crestview DISARMED
-2026-09-06 11:25 PM,updated 9/6 11:25 PM packet from Bot
-2026-09-06 10:37 PM,updated 9/6 10:37 PM Florence ARMED
-2026-09-06 9:41 PM,updated 9/6 9:41 PM Anderson ARMED
-2026-09-06 9:39 PM,updated 9/6 9:39 PM Harrison ARMED
-2026-09-06 9:37 PM,updated 9/6 9:37 PM Crestview ARMED
-2026-09-06 9:22 PM,updated 9/6 9:22 PM Crestview ARMED
-2026-09-06 9:21 PM,updated 9/6 9:21 PM Crestview DISARMED
-2026-09-06 9:21 PM,updated 9/6 9:21 PM Crestview ARMED
-2026-09-06 9:18 PM,updated 9/6 9:18 PM Harrison ARMED
-2026-09-06 8:56 PM,updated 9/6 8:56 PM packet from Bot
-2026-09-06 8:45 PM,updated 9/6 8:45 PM 86 list unique 3/7/6/5/0
-2026-09-06 8:00 PM,updated 9/6 8:00 PM evening packet Monkey today/tomorrow/WTD
-2026-09-06 5:26 PM,updated 9/6 5:26 PM Mid-Day Shift Check test + full packet
-2026-09-06 4:12 PM,updated 9/6 4:12 PM AD Desk update log switched to one row per push
-2026-09-06 3:33 PM,updated 9/6 3:33 PM Harrison LC1/LC2 form-open fix
-2026-09-06 7:00 AM,updated 9/6 7:00 AM Union DISARMED
-2026-09-06 6:11 AM,updated 9/6 6:11 AM Union Armed Away Bypass
+as_of_et,kind,when_et,what
+2026-09-07 9:03 AM,stamp,,9am rollup
+2026-09-07 9:03 AM,packet,2026-09-07 8:58 AM,Sun 9/6 labor hours + WTD hours
+2026-09-07 9:03 AM,packet,2026-09-07 8:56 AM,Swap sales LY WTD and vs LW to match DL
+2026-09-07 9:03 AM,schedules,2026-09-07 8:45 AM,Restore Mon 9/7-Sun 9/13 sched_proj; keep Sun 9/6 sales
+2026-09-07 9:03 AM,packet,2026-09-07 8:45 AM,Restore GM daily weekly projected hours sales week of 9/7
+2026-09-07 9:03 AM,packet,2026-09-07 8:43 AM,Sun 9/6 sales catering cash into packet
+2026-09-07 9:03 AM,other,2026-09-07 8:34 AM,Rebuild alarms-30d.csv from TC2 since 9/5
+2026-09-07 9:03 AM,packet,2026-09-07 8:10 AM,Bot packet drop FULL from Gmail updated_at 9/7 7:41 AM
+2026-09-07 9:03 AM,packet,2026-09-07 8:09 AM,Sun 9/6 LC/SN yesterday block LC3+SN2
+2026-09-07 9:03 AM,packet,2026-09-07 7:51 AM,Sun 9/6 + WTD 8/31-9/6 sales labor catering cash from DL
+2026-09-07 9:03 AM,tickets,2026-09-07 7:48 AM,12-min tickets Sun 9/6 day and WTD 8/31-9/6
+2026-09-07 9:03 AM,packet,2026-09-07 7:07 AM,Bot packet full Panda+EZ+Zenput updated_at 9/7 6:41 AM
+2026-09-07 9:03 AM,86s,2026-09-07 6:06 AM,86s am 9/7 6:00 AM list card
+2026-09-07 9:03 AM,tc2,2026-09-07 6:06 AM,Union SENSOR LOW BATTERY + DISARMED
