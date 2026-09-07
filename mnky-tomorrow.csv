@@ -1,7 +1,7 @@
-date,store,orders,sales,names
-2026-09-07,Anderson,0,0,
-2026-09-07,Crestview,1,348.61,"Michael Bradley $348.61"
-2026-09-07,Florence,0,0,
-2026-09-07,Harrison,0,0,
-2026-09-07,Union,1,1337.64,"ezCater Marketplace $1337.64"
-2026-09-07,ScottMarket,2,1686.25,
+date,store,orders,sales,names,flags,flag_detail
+2026-09-07,Anderson,0,0,,0,
+2026-09-07,Crestview,1,348.61,Michael Bradley $348.61,0,
+2026-09-07,Florence,0,0,,0,
+2026-09-07,Harrison,0,0,,0,
+2026-09-07,Union,1,1337.64,ezCater Marketplace $1337.64,1 green,ezCater Marketplace green
+2026-09-07,ScottMarket,2,1686.25,,1 green,Union ezCater green

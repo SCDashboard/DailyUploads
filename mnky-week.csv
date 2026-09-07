@@ -1,20 +1,20 @@
-date,store,id,client,window,sales
-2026-09-08,Harrison,3637828,ezCater Marketplace,12:00-12:30 PM,253.94
-2026-09-08,Harrison,3637035,ezCater Marketplace,11:15-11:45 AM,330.46
-2026-09-08,Florence,3636863,Jocelyne Marshall,10:30-11:00 AM,428.25
-2026-09-08,Crestview,3636626,ezCater Marketplace,11:45-12:15 PM,143.49
-2026-09-08,Florence,3636393,Amethyst Wimsatt,11:00-11:30 AM,324.63
-2026-09-08,Union,3634645,Kayla Hahn,11:00-11:30 AM,180.08
-2026-09-08,Crestview,3634128,Jill Rechtin,11:00-11:30 AM,180.50
-2026-09-08,Florence,3630356,ezCater Marketplace,11:00-11:30 AM,162.56
-2026-09-09,Florence,3638388,ezCater Marketplace,11:15-11:45 AM,814.58
-2026-09-09,Crestview,3638160,Jill Rechtin,11:00-11:30 AM,212.75
-2026-09-09,Anderson,3637509,Nicole Loehl,11:30-12:00 PM,225.61
-2026-09-09,Harrison,3636323,Michele Weckbach,11:15-11:45 AM,500.52
-2026-09-09,Florence,3633371,MIRANDA MEYERS,10:30-11:00 AM,168.38
-2026-09-10,Harrison,3638233,Carolyn Frank,11:00-11:30 AM,283.15
-2026-09-10,Florence,3636170,Becky Barrett,10:00-10:30 AM,972.35
-2026-09-10,Union,3432464,Amy Wright (Ryle High School),3:00-3:30 PM,1293.60
-2026-09-11,Crestview,3389556,Julie,6:45-7:15 PM,1605.44
-2026-09-12,Anderson,3635079,Shawna DuBose (Greater Cincinnati Foundation),7:00-7:30 AM,693.50
-2026-09-13,Anderson,3639107,Bridget Flohn,2:30-3:00 PM,136.68
+date,store,id,client,window,sales,flag
+2026-09-08,Harrison,3637828,ezCater Marketplace,12:00-12:30 PM,253.94,
+2026-09-08,Harrison,3637035,ezCater Marketplace,11:15-11:45 AM,330.46,
+2026-09-08,Florence,3636863,Jocelyne Marshall,10:30-11:00 AM,428.25,
+2026-09-08,Crestview,3636626,ezCater Marketplace,11:45-12:15 PM,143.49,
+2026-09-08,Florence,3636393,Amethyst Wimsatt,11:00-11:30 AM,324.63,
+2026-09-08,Union,3634645,Kayla Hahn,11:00-11:30 AM,180.08,
+2026-09-08,Crestview,3634128,Jill Rechtin,11:00-11:30 AM,180.50,
+2026-09-08,Florence,3630356,ezCater Marketplace,11:00-11:30 AM,162.56,
+2026-09-09,Florence,3638388,ezCater Marketplace,11:15-11:45 AM,814.58,
+2026-09-09,Crestview,3638160,Jill Rechtin,11:00-11:30 AM,212.75,purple
+2026-09-09,Anderson,3637509,Nicole Loehl,11:30-12:00 PM,225.61,
+2026-09-09,Harrison,3636323,Michele Weckbach,11:15-11:45 AM,500.52,
+2026-09-09,Florence,3633371,MIRANDA MEYERS,10:30-11:00 AM,168.38,
+2026-09-10,Harrison,3638233,Carolyn Frank,11:00-11:30 AM,283.15,
+2026-09-10,Florence,3636170,Becky Barrett,10:00-10:30 AM,972.35,
+2026-09-10,Union,3432464,Amy Wright (Ryle High School),3:00-3:30 PM,1293.60,green
+2026-09-11,Crestview,3389556,Julie,6:45-7:15 PM,1605.44,green
+2026-09-12,Anderson,3635079,Shawna DuBose (Greater Cincinnati Foundation),7:00-7:30 AM,693.50,purple
+2026-09-13,Anderson,3639107,Bridget Flohn,2:30-3:00 PM,136.68,purple
