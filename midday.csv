@@ -15,29 +15,14 @@ lines,sn1,Harrison,1
 lines,lc1,Union,1
 lines,lc2,Union,1
 lines,sn1,Union,1
-lines,lc1_by,Anderson,John
-lines,lc2_by,Anderson,Jj
-lines,sn1_by,Anderson,Sarah
-lines,lc1_by,Crestview,Johie Haney
-lines,lc2_by,Crestview,Adrian
-lines,sn1_by,Crestview,jessie
-lines,lc1_by,Florence,Yaztastic
-lines,lc2_by,Florence,Yaz
-lines,sn1_by,Florence,Yaz
-lines,lc1_by,Harrison,Ethan
-lines,lc2_by,Harrison,reese
-lines,sn1_by,Harrison,Nat/Ethan
-lines,lc1_by,Union,Molly
-lines,lc2_by,Union,Molly
-lines,sn1_by,Union,Jed and Molly
 midday,when,Market,9/7 4:00 PM ET
 midday,flag,Anderson,calloff|sanitizer|bank
-midday,note,Anderson,SN1 call-off Sarah; sanitizer OOB LC1+LC2; SN1 no bank run (Manager Sarah)
+midday,note,Anderson,LIVE PULL — SN1 call-off Sarah; sanitizer OOB LC1+LC2; no bank run
 midday,flag,Crestview,temps|sanitizer|bank
-midday,note,Crestview,LC2 Roast Beef 41 + Turkey 42; sanitizer OOB LC1+LC2; SN1 no bank run (Manager jessie)
+midday,note,Crestview,LC2 Roast Beef 41 + Turkey 42; sanitizer OOB LC1+LC2; no bank run
 midday,flag,Florence,temps|sanitizer
-midday,note,Florence,many LC1/LC2 temp fails; sanitizer 100 OOB both; deposits Yes Yaz — no bank flag
+midday,note,Florence,many LC1/LC2 temp fails; sanitizer 100 OOB both; bank Yaz DONE
 midday,flag,Harrison,calloff|sanitizer|bank
-midday,note,Harrison,SN1 call-off Cam; sanitizer OOB LC1+LC2; SN1 no bank run (Manager Nat/Ethan)
+midday,note,Harrison,SN1 call-off Cam; sanitizer OOB LC1+LC2; no bank run; Walk-In -10
 midday,flag,Union,temps|calloff|sanitizer|bank
-midday,note,Union,LC1 multi fails + LC2 thermometer -38; call-off Julie is sick; sanitizer OOB both; SN1 no bank run (Manager Jed and Molly)
+midday,note,Union,LC1 multi fails + LC2 thermometer -38; call-off Julie is sick; sanitizer OOB both; no bank run
