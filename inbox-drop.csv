@@ -87,3 +87,9 @@ gmail_id,source,store,when_et,field,value,subject
 1a0803ba8a536f85,tc2,Crestview,2026-09-08 4:56 AM,disarmed,Jessie Stahl,Disarmed
 1a08076674b39fa0,tc2,Anderson,2026-09-08 6:00 AM,disarmed,John Unsworth,Disarmed
 heartbeat,heartbeat,Market,2026-09-08 6:05 AM,last_ok_et,2026-09-08 6:05 AM,gmail_ok
+1a080764659a5211,olo,Market,2026-09-08 06:00 AM,86s_am,attached,Olo: Currently 86'ed Menu Items is attached
+1a080764659a5211,olo,Anderson,2026-09-08 06:00 AM,count,3,Olo: Currently 86'ed Menu Items is attached
+1a080764659a5211,olo,Crestview,2026-09-08 06:00 AM,count,3,Olo: Currently 86'ed Menu Items is attached
+1a080764659a5211,olo,Florence,2026-09-08 06:00 AM,count,1,Olo: Currently 86'ed Menu Items is attached
+1a080764659a5211,olo,Harrison,2026-09-08 06:00 AM,count,4,Olo: Currently 86'ed Menu Items is attached
+1a080764659a5211,olo,Union,2026-09-08 06:00 AM,count,0,Olo: Currently 86'ed Menu Items is attached
