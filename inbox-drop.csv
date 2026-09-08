@@ -97,4 +97,4 @@ gmail_id,source,store,when_et,field,value,subject
 1a080aca8268b9e0,tc2,Union,2026-09-08 6:59 AM,disarmed,kleyer Slot 6,Disarmed
 1a080acaca218f41,tc2,Union,2026-09-08 6:59 AM,low_battery,Front GlassBreak,Sensor Low Battery
 1a080acad6c67cba,tc2,Union,2026-09-08 6:59 AM,low_battery,Side GlassBreak,Sensor Low Battery
-heartbeat,heartbeat,Market,2026-09-08 7:00 AM,last_ok_et,2026-09-08 7:00 AM,gmail_ok
+heartbeat,heartbeat,Market,2026-09-08 7:17 AM,last_ok_et,2026-09-08 7:17 AM,gmail_ok
