@@ -77,3 +77,53 @@ labor_chart,plus_hrs,Florence,4.27
 labor_chart,wtd_pm,Florence,37.52
 labor_chart,hours,Harrison,96.80
 labor_chart,chart,Harrison,104.39
+labor_chart,pm,Harrison,-7.59
+labor_chart,wtd_hrs,Harrison,575.14
+labor_chart,wtd_chart,Harrison,509.71
+labor_chart,plus_hrs,Harrison,0
+labor_chart,wtd_pm,Harrison,65.43
+labor_chart,hours,Union,72.45
+labor_chart,chart,Union,75.12
+labor_chart,pm,Union,-2.67
+labor_chart,wtd_hrs,Union,456.78
+labor_chart,wtd_chart,Union,389.12
+labor_chart,plus_hrs,Union,0
+labor_chart,wtd_pm,Union,67.66
+labor_chart,hours,Scott4,440.00
+labor_chart,chart,Scott4,465.27
+labor_chart,pm,Scott4,-25.27
+labor_chart,wtd_hrs,Scott4,2684.88
+labor_chart,wtd_chart,Scott4,2298.06
+labor_chart,plus_hrs,Scott4,5.26
+labor_chart,wtd_pm,Scott4,386.82
+cash,over_short,Anderson,-12.45
+cash,over_short,Crestview,3.20
+cash,over_short,Florence,-8.90
+cash,over_short,Harrison,1.15
+cash,over_short,Union,-5.60
+cash,over_short,Scott4,-22.60
+tickets,avg,Anderson,12.4
+tickets,avg,Crestview,11.8
+tickets,avg,Florence,13.1
+tickets,avg,Harrison,12.9
+tickets,avg,Union,11.2
+tickets,avg,Scott4,12.3
+86s,count,Anderson,6
+86s,count,Crestview,8
+86s,count,Florence,5
+86s,count,Harrison,18
+86s,count,Union,0
+86s,when,Scott Market,Sat 9/5 1:02pm
+coach,opp,Anderson,LC1 sanitizer 100 PPM (Kleyer). LC3 Turkey 41 (Molly; ice bath CA).
+coach,temps,Anderson,Turkey 41 LC3 (Molly); not all-day.
+coach,opp,Crestview,LC2 sanitizer 100 PPM (Kleyer). LC1 ice bath CA.
+coach,temps,Crestview,Turkey 41 LC3 (Molly); not all-day.
+coach,opp,Florence,LC1 sanitizer 100 PPM (Kleyer). LC3 Turkey 41 (Molly; ice bath CA).
+coach,temps,Florence,Turkey 41 LC3 (Molly); not all-day.
+coach,opp,Harrison,LC1 sanitizer 100 PPM (Kleyer). LC3 Turkey 41 (Molly; ice bath CA).
+coach,temps,Harrison,Turkey 41 LC3 (Molly); not all-day.
+coach,opp,Union,LC3 Turkey 41 (Molly; ice bath CA). LC1 sanitizer 100 PPM (Kleyer).
+coach,temps,Union,Turkey 41 LC3 (Molly); not all-day.
+coach,opp,Scott Market,"Lacey late Anderson Aug 17 + Aug 19 (2× week). Parker late Union twice Aug 23. Liam Florence TM-issue notes Aug 24, 30, and twice Aug 31 (≥3 month)."
+coach,guest,Anderson,9/6 3:12p FOOD SAFETY/EGREGIOUS: patio covered in literal human dung; child stepped in it. Guest demanded area roped off/closed + refund. (GF partial; login wall)
+coach,reviews,Crestview,9/6 11:33a 2★ Food cold and extremely salty (GF; no reward sent)
