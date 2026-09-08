@@ -17,7 +17,7 @@ lines,lc2,Union,1
 lines,sn1,Union,1
 midday,when,Market,9/7 4:00 PM ET
 midday,flag,Anderson,calloff|sanitizer|bank
-midday,note,Anderson,SN1 call-off Sarah; sanitizer OOB LC1+LC2; SN1 no bank run (Manager Sarah)
+midday,note,Anderson,LIVEPULL-2233 SN1 call-off Sarah; sanitizer OOB LC1+LC2; SN1 no bank run (Manager Sarah)
 midday,flag,Crestview,temps|sanitizer|bank
 midday,note,Crestview,LC2 Roast Beef 41 + Turkey 42; sanitizer OOB LC1+LC2; SN1 no bank run (Manager jessie)
 midday,flag,Florence,temps|sanitizer
