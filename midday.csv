@@ -17,12 +17,12 @@ lines,lc2,Union,1
 lines,sn1,Union,1
 midday,when,Market,9/7 4:00 PM ET
 midday,flag,Anderson,calloff|sanitizer|bank
-midday,note,Anderson,LIVE PULL — SN1 call-off Sarah; sanitizer OOB LC1+LC2; no bank run
+midday,note,Anderson,SN1 call-off Sarah; sanitizer OOB LC1+LC2; SN1 no bank run (Manager Sarah)
 midday,flag,Crestview,temps|sanitizer|bank
-midday,note,Crestview,LC2 Roast Beef 41 + Turkey 42; sanitizer OOB LC1+LC2; no bank run
+midday,note,Crestview,LC2 Roast Beef 41 + Turkey 42; sanitizer OOB LC1+LC2; SN1 no bank run (Manager jessie)
 midday,flag,Florence,temps|sanitizer
-midday,note,Florence,many LC1/LC2 temp fails; sanitizer 100 OOB both; bank Yaz DONE
+midday,note,Florence,many LC1/LC2 temp fails; sanitizer 100 OOB both; deposits Yes Yaz — no bank flag
 midday,flag,Harrison,calloff|sanitizer|bank
-midday,note,Harrison,SN1 call-off Cam; sanitizer OOB LC1+LC2; no bank run; Walk-In -10
+midday,note,Harrison,SN1 call-off Cam; sanitizer OOB LC1+LC2; SN1 no bank run (Manager Nat/Ethan)
 midday,flag,Union,temps|calloff|sanitizer|bank
-midday,note,Union,LC1 multi fails + LC2 thermometer -38; call-off Julie is sick; sanitizer OOB both; no bank run
+midday,note,Union,LC1 multi fails + LC2 thermometer -38; call-off Julie is sick; sanitizer OOB both; SN1 no bank run (Manager Jed and Molly)
