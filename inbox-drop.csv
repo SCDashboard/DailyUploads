@@ -65,3 +65,9 @@ gmail_id,source,store,when_et,field,value,subject
 1a085bd4989d2322,tc2,Harrison,2026-09-09 6:36 AM,disarm,Russell Ferguson,Disarmed
 heartbeat,heartbeat,Market,2026-09-09 1:14 PM,last_ok_et,2026-09-09 1:14 PM,gmail_ok
 1a08727703e1f861,catering,Anderson,2026-09-09 1:11 PM,new_order,ezCater Marketplace $1610.82 Delivery 09/16/2026 10:30 - 11:00 AM #3644690,Order 3644690 for 101301- NEW ezCater Order: Confirm & Accept now
+1a08755fdb43a15d,olo,Market,2026-09-09 2:00 PM,86s_2pm,attached,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a08755fdb43a15d,olo,Anderson,2026-09-09 2:00 PM,count,3,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a08755fdb43a15d,olo,Crestview,2026-09-09 2:00 PM,count,4,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a08755fdb43a15d,olo,Florence,2026-09-09 2:00 PM,count,1,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a08755fdb43a15d,olo,Harrison,2026-09-09 2:00 PM,count,4,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a08755fdb43a15d,olo,Union,2026-09-09 2:00 PM,count,0,Olo: Currently 86'ed Menu Items 2 pm  is attached
