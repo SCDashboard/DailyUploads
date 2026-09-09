@@ -148,4 +148,5 @@ gmail_id,source,store,when_et,field,value,subject
 1a085914d1962cd6,tc2,Union,2026-09-09 5:48 AM,low_battery,Front GlassBreak,Sensor Low Battery
 1a085914f36c7764,tc2,Union,2026-09-09 5:48 AM,low_battery,Side GlassBreak,Sensor Low Battery
 1a0859d1f1032e10,tc2,Crestview,2026-09-09 6:01 AM,disarmed,Johie Haney,Disarmed
-heartbeat,heartbeat,Market,2026-09-09 6:25 AM,last_ok_et,2026-09-09 6:25 AM,gmail_ok
+1a085bd4989d2322,tc2,Harrison,2026-09-09 6:36 AM,disarmed,Russell Ferguson,Disarmed
+heartbeat,heartbeat,Market,2026-09-09 6:40 AM,last_ok_et,2026-09-09 6:40 AM,gmail_ok
