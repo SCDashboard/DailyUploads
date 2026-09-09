@@ -1,2 +1,151 @@
 gmail_id,source,store,when_et,field,value,subject
 1a0747e5b8b53a40,tc2,Anderson,2026-09-05 10:13 PM,armed,Away Emma Cheuvront,Armed Away
+1a074855a97a6be3,tc2,Anderson,2026-09-05 10:21 PM,disarm,Emma Cheuvront,Disarmed
+1a0748635e3ee2a2,tc2,Anderson,2026-09-05 10:22 PM,armed,Away Emma Cheuvront,Armed Away
+1a0748a36c786d06,tc2,Union,2026-09-05 10:26 PM,armed,Away Bypass User 0,Armed Away (Bypass)
+1a0748a3685ee3e3,tc2,Union,2026-09-05 10:26 PM,bypass,Side GlassBreak,Sensor Bypass
+1a0748a39ad9cdd4,tc2,Union,2026-09-05 10:26 PM,bypass,Front GlassBreak,Sensor Bypass
+1a0748a36a433210,tc2,Union,2026-09-05 10:26 PM,low_batt_cleared,Side GlassBreak,Sensor Low Battery Cleared
+1a0748a3b8960300,tc2,Union,2026-09-05 10:26 PM,low_batt_cleared,Front GlassBreak,Sensor Low Battery Cleared
+1a0752d4a8335743,catering,Anderson,2026-09-06 01:24 AM,new_order,Taylor Cull $155.94 Pickup 10/15/2025 10:00-10:30 AM #3164284,Order 3164284 for 101301 - NEW ONLINE CATERING ORDER: Confirm & Accept now
+1a076217b9a1640c,tc2,Florence,2026-09-06 05:51 AM,disarm,Charlene Canada,Disarmed
+1a0748a38bc50843,tc2,Union,2026-09-05 10:26 PM,armed,Away Bypass User 0,Armed Away (Bypass)
+1a0763511ea7c62b,tc2,Crestview,2026-09-06 06:13 AM,disarm,Adrian Magers,Disarmed
+1a07639f68a670ae,tc2,Anderson,2026-09-06 06:18 AM,disarmed,Josh Jackson,Disarmed
+1a07645ddf0c7e91,tc2,Harrison,2026-09-06 06:31 AM,disarm,Built-In Camera,Default-Disarmed-Inbuilt Camera
+1a0742d22ada289a,olo,Market,2026-09-05 08:45 PM,86s_pm,attached,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0742d22ada289a,olo,Anderson,2026-09-05 08:45 PM,count,14,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0742d22ada289a,olo,Crestview,2026-09-05 08:45 PM,count,54,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0742d22ada289a,olo,Florence,2026-09-05 08:45 PM,count,174,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0742d22ada289a,olo,Harrison,2026-09-05 08:45 PM,count,385,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0742d22ada289a,olo,Union,2026-09-05 08:45 PM,count,0,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0762a36de08a0d,olo,Market,2026-09-06 06:01 AM,86s_am,attached,Olo: Currently 86'ed Menu Items is attached
+1a0762a36de08a0d,olo,Anderson,2026-09-06 06:01 AM,count,14,Olo: Currently 86'ed Menu Items is attached
+1a0762a36de08a0d,olo,Crestview,2026-09-06 06:01 AM,count,54,Olo: Currently 86'ed Menu Items is attached
+1a0762a36de08a0d,olo,Florence,2026-09-06 06:01 AM,count,174,Olo: Currently 86'ed Menu Items is attached
+1a0762a36de08a0d,olo,Harrison,2026-09-06 06:01 AM,count,385,Olo: Currently 86'ed Menu Items is attached
+1a0762a36de08a0d,olo,Union,2026-09-06 06:01 AM,count,0,Olo: Currently 86'ed Menu Items is attached
+1a076512c146846b,tc2,Harrison,2026-09-06 06:43 AM,disarm,Ethan Slot 6,Disarmed
+1a07660dee9bee55,tc2,Union,2026-09-06 07:00 AM,disarmed,JED Slot 3,Disarmed
+1a07660dedb422e9,tc2,Union,2026-09-06 07:00 AM,bypass_cleared,Front GlassBreak,Sensor Bypass Cleared
+1a07660dee2f491a,tc2,Union,2026-09-06 07:00 AM,bypass_cleared,Side GlassBreak,Sensor Bypass Cleared
+1a07660de2779666,tc2,Union,2026-09-06 07:00 AM,low_battery,Front GlassBreak,Sensor Low Battery
+1a07660ded07e202,tc2,Union,2026-09-06 07:00 AM,low_battery,Side GlassBreak,Sensor Low Battery
+1a0766105d5bc3a5,tc2,Union,2026-09-06 07:00 AM,disarm,Built-In Camera,Default-Disarmed-Inbuilt Camera
+1a077e0bee305a8d,olo,Market,2026-09-06 02:00 PM,86s_2pm,attached,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a077e0bee305a8d,olo,Anderson,2026-09-06 02:00 PM,count,14,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a077e0bee305a8d,olo,Crestview,2026-09-06 02:00 PM,count,54,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a077e0bee305a8d,olo,Florence,2026-09-06 02:00 PM,count,174,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a077e0bee305a8d,olo,Harrison,2026-09-06 02:00 PM,count,385,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a077e0bee305a8d,olo,Union,2026-09-06 02:00 PM,count,0,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a07945d43b8003b,olo,Market,2026-09-06 08:45 PM,86s_pm,attached,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a07945d43b8003b,olo,Anderson,2026-09-06 08:45 PM,count,8,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a07945d43b8003b,olo,Crestview,2026-09-06 08:45 PM,count,12,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a07945d43b8003b,olo,Florence,2026-09-06 08:45 PM,count,13,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a07945d43b8003b,olo,Harrison,2026-09-06 08:45 PM,count,14,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a07945d43b8003b,olo,Union,2026-09-06 08:45 PM,count,0,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a07971e504de057,tc2,Harrison,2026-09-06 9:18 PM,armed,Away Security Panel User [0],Armed Away
+1a0797f627cc66ce,tc2,Union,2026-09-06 9:33 PM,armed,Away Bypass User 0,Armed Away (Bypass)
+1a07983674ce7fa7,tc2,Crestview,2026-09-06 9:37 PM,armed,Away Adrianna Huddleston,Armed Away
+1a07986fb197b5cd,tc2,Anderson,2026-09-06 9:41 PM,armed,Away Emma Cheuvront,Armed Away
+1a07974f7ab740fb,tc2,Crestview,2026-09-06 9:21 PM,armed,Away Team Kenwood 2,Armed Away
+1a07975a41eb839f,tc2,Crestview,2026-09-06 9:22 PM,armed,Away Team Kenwood 2,Armed Away
+1a07985539b84b68,tc2,Harrison,2026-09-06 9:39 PM,armed,Away Security Panel User [0],Armed Away
+1a076297475873cd,tc2,Crestview,2026-09-06 06:00 AM,disarm,Team Kenwood 2,Disarmed
+1a07645b91c7673d,tc2,Harrison,2026-09-06 06:31 AM,disarm,Katri6 Slot 6,Disarmed
+1a079ba3eae28e63,tc2,Florence,2026-09-06 10:37 PM,armed,Away Security Panel User [0],Armed Away
+1a07b1e2d3d59a55,tc2,Crestview,2026-09-07 5:06 AM,disarmed,Jessie Stahl,Disarmed
+1a07b20a85b8357a,tc2,Florence,2026-09-07 5:08 AM,disarmed,Charles Kelshaw,Disarmed
+1a07b3d7e5ac2e21,tc2,Anderson,2026-09-07 5:40 AM,disarmed,Sarah Juterbock,Disarmed
+1a07b4d617179167,tc2,Harrison,2026-09-07 5:57 AM,disarmed,Russell Ferguson,Disarmed
+1a07b556715837ae,tc2,Union,2026-09-07 6:06 AM,disarmed,JED Slot 3,Disarmed
+1a07b556a0ee4b3a,tc2,Union,2026-09-07 6:06 AM,low_battery,Side GlassBreak,Sensor Low Battery
+1a07b55706b5f679,tc2,Union,2026-09-07 6:06 AM,low_battery,Front GlassBreak,Sensor Low Battery
+1a07c46c7fc641bc,olo,Market,2026-09-07 10:30 AM,86s_1030,attached,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a07c46c7fc641bc,olo,Anderson,2026-09-07 10:30 AM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a07c46c7fc641bc,olo,Crestview,2026-09-07 10:30 AM,count,2,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a07c46c7fc641bc,olo,Florence,2026-09-07 10:30 AM,count,1,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a07c46c7fc641bc,olo,Harrison,2026-09-07 10:30 AM,count,4,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a07c46c7fc641bc,olo,Union,2026-09-07 10:30 AM,count,0,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a07d07259134b84,olo,Market,2026-09-07 02:00 PM,86s_2pm,attached,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a07d07259134b84,olo,Anderson,2026-09-07 02:00 PM,count,3,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a07d07259134b84,olo,Crestview,2026-09-07 02:00 PM,count,2,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a07d07259134b84,olo,Florence,2026-09-07 02:00 PM,count,1,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a07d07259134b84,olo,Harrison,2026-09-07 02:00 PM,count,4,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a07d07259134b84,olo,Union,2026-09-07 02:00 PM,count,0,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a07e6c34b4fd895,olo,Market,2026-09-07 08:45 PM,86s_pm,attached,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a07e6c34b4fd895,olo,Anderson,2026-09-07 08:45 PM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a07e6c34b4fd895,olo,Crestview,2026-09-07 08:45 PM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a07e6c34b4fd895,olo,Florence,2026-09-07 08:45 PM,count,1,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a07e6c34b4fd895,olo,Harrison,2026-09-07 08:45 PM,count,4,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a07e6c34b4fd895,olo,Union,2026-09-07 08:45 PM,count,0,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a07e99f9267d46a,tc2,Anderson,2026-09-07 9:20 PM,armed,Away Josh Jackson,Armed Away
+1a07e9c40903e0d2,tc2,Union,2026-09-07 9:22 PM,armed,Away Bypass User 0,Armed Away (Bypass)
+1a07e9ca6d16946f,tc2,Crestview,2026-09-07 9:23 PM,armed,Away Kierstan Phelps,Armed Away
+1a07ea920b5f6698,tc2,Harrison,2026-09-07 9:36 PM,armed,Away Angie Sayre,Armed Away
+1a07eb778744e520,tc2,Florence,2026-09-07 9:52 PM,armed,Away Security Panel User [0],Armed Away
+1a0803ba8a536f85,tc2,Crestview,2026-09-08 4:56 AM,disarmed,Jessie Stahl,Disarmed
+1a08076674b39fa0,tc2,Anderson,2026-09-08 6:00 AM,disarmed,John Unsworth,Disarmed
+1a080764659a5211,olo,Market,2026-09-08 06:00 AM,86s_am,attached,Olo: Currently 86'ed Menu Items is attached
+1a080764659a5211,olo,Anderson,2026-09-08 06:00 AM,count,3,Olo: Currently 86'ed Menu Items is attached
+1a080764659a5211,olo,Crestview,2026-09-08 06:00 AM,count,3,Olo: Currently 86'ed Menu Items is attached
+1a080764659a5211,olo,Florence,2026-09-08 06:00 AM,count,1,Olo: Currently 86'ed Menu Items is attached
+1a080764659a5211,olo,Harrison,2026-09-08 06:00 AM,count,4,Olo: Currently 86'ed Menu Items is attached
+1a080764659a5211,olo,Union,2026-09-08 06:00 AM,count,0,Olo: Currently 86'ed Menu Items is attached
+1a080891cb197e90,tc2,Florence,2026-09-08 6:21 AM,disarmed,Charles Kelshaw,Disarmed
+1a0809341063e69c,tc2,Harrison,2026-09-08 6:32 AM,disarmed,Sygma Truck Harrison,Disarmed
+1a080aca8268b9e0,tc2,Union,2026-09-08 6:59 AM,disarmed,kleyer Slot 6,Disarmed
+1a080acaca218f41,tc2,Union,2026-09-08 6:59 AM,low_battery,Front GlassBreak,Sensor Low Battery
+1a080acad6c67cba,tc2,Union,2026-09-08 6:59 AM,low_battery,Side GlassBreak,Sensor Low Battery
+1a0816d38182d1ea,olo,Market,2026-09-08 10:30 AM,86s_1030,attached,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a0816d38182d1ea,olo,Anderson,2026-09-08 10:30 AM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a0816d38182d1ea,olo,Crestview,2026-09-08 10:30 AM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a0816d38182d1ea,olo,Florence,2026-09-08 10:30 AM,count,1,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a0816d38182d1ea,olo,Harrison,2026-09-08 10:30 AM,count,4,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a0816d38182d1ea,olo,Union,2026-09-08 10:30 AM,count,0,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a0818444327aae7,catering,Crestview,2026-09-08 10:55 AM,new_order,ezCater Marketplace $490.87 Pickup 09/09/2026 11:30 - 12:00 PM #3640726,Order 3640726 for 1192- NEW ezCater Order: Confirm & Accept now
+1a0819c8ca19371a,catering,Crestview,2026-09-08 11:21 AM,new_order,Molly Pflum $247.03 Pickup 09/09/2026 11:15 - 11:45 AM #3640813,Order 3640813 for 1192 - NEW ONLINE CATERING ORDER: Confirm & Accept now
+1a081c0bd12112b5,catering,Anderson,2026-09-08 12:01 PM,new_order,ezCater Marketplace $353.00 Pickup 09/09/2026 11:00 - 11:30 AM #3641023,Order 3641023 for 101301- NEW ezCater Order: Confirm & Accept now
+1a081e9cf503240c,catering,Union,2026-09-08 12:46 PM,new_order,ezCater Marketplace $215.85 Pickup 09/09/2026 7:15 - 7:45 AM #3641231,Order 3641231 for 102344- NEW ezCater Order: Confirm & Accept now
+1a082005e762bdd6,catering,Crestview,2026-09-08 1:10 PM,new_order,Nazar Pavlushyn Pavlushyn $100.00 Pickup 09/09/2026 10:30 - 11:00 AM #3641262,Order 3641262 for 1192 - NEW ONLINE CATERING ORDER: Confirm & Accept now
+1a08200e218737ef,catering,Crestview,2026-09-08 1:11 PM,new_order,ezCater Marketplace $151.85 Pickup 09/09/2026 12:00 - 12:30 PM #3641331,Order 3641331 for 1192- NEW ezCater Order: Confirm & Accept now
+1a0822db789d92e5,olo,Market,2026-09-08 2:00 PM,86s_2pm,attached,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a0822db789d92e5,olo,Anderson,2026-09-08 2:00 PM,count,3,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a0822db789d92e5,olo,Crestview,2026-09-08 2:00 PM,count,3,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a0822db789d92e5,olo,Florence,2026-09-08 2:00 PM,count,1,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a0822db789d92e5,olo,Harrison,2026-09-08 2:00 PM,count,4,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a0822db789d92e5,olo,Union,2026-09-08 2:00 PM,count,0,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a08266582ae314f,catering,Crestview,2026-09-08 3:02 PM,new_order,Lauren Willett $187.46 Pickup 09/10/2026 11:00 - 11:30 AM #3641556,Order 3641556 for 1192 - NEW ONLINE CATERING ORDER: Confirm & Accept now
+1a0834ec95699c80,catering,Anderson,2026-09-08 7:16 PM,new_order,Eileen Hay $210.93 Pickup 09/12/2026 11:15 - 11:45 AM #3642380,Order 3642380 for 101301 - NEW ONLINE CATERING ORDER: Confirm & Accept now
+1a0838de7e230d47,catering,Union,2026-09-08 8:25 PM,new_order,ezCater Marketplace $360.75 Pickup 09/09/2026 11:15 - 11:45 AM #3642459,Order 3642459 for 102344- NEW ezCater Order: Confirm & Accept now
+1a0839275b8db11e,olo,Market,2026-09-08 8:45 PM,86s_pm,attached,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0839275b8db11e,olo,Anderson,2026-09-08 8:45 PM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0839275b8db11e,olo,Crestview,2026-09-08 8:45 PM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0839275b8db11e,olo,Florence,2026-09-08 8:45 PM,count,1,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0839275b8db11e,olo,Harrison,2026-09-08 8:45 PM,count,4,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0839275b8db11e,olo,Union,2026-09-08 8:45 PM,count,0,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a083c9f72a323ef,tc2,Harrison,2026-09-08 9:30 PM,armed,Away Security Panel User [0],Armed Away
+1a083d42b2890e9d,tc2,Crestview,2026-09-08 9:41 PM,armed,Away Kierstan Phelps,Armed Away
+1a083d5f109fd320,tc2,Union,2026-09-08 9:43 PM,armed,Away Bypass User 0,Armed Away (Bypass)
+1a083d84ddbd2776,tc2,Anderson,2026-09-08 9:46 PM,armed,Away Emma Cheuvront,Armed Away
+1a083e6aaff2fe76,tc2,Florence,2026-09-08 10:02 PM,armed,Away Security Panel User [0],Armed Away
+1a0840237e3ebade,tc2,Anderson,2026-09-08 10:32 PM,disarmed,Delivery Slot 6,Disarmed
+1a0841f8909892cc,tc2,Anderson,2026-09-08 11:04 PM,armed,Away Delivery Slot 6,Armed Away
+1a08427c591b038f,tc2,Harrison,2026-09-08 11:13 PM,disarmed,Sygma Truck Harrison,Disarmed
+1a084413a889f25a,tc2,Harrison,2026-09-08 11:40 PM,armed,Away Sygma Truck Harrison,Armed Away
+1a0844285ad5a5a4,tc2,Union,2026-09-08 11:42 PM,disarmed,sygma Union,Disarmed
+1a0844284f153e7b,tc2,Union,2026-09-08 11:42 PM,low_battery,Side GlassBreak,Sensor Low Battery
+1a0844285219561b,tc2,Union,2026-09-08 11:42 PM,low_battery,Front GlassBreak,Sensor Low Battery
+1a0845bdab5dfe41,catering,Union,2026-09-09 12:10 AM,new_order,ezCater Marketplace $152.40 Pickup 09/09/2026 10:15 - 10:45 AM #3642608,Order 3642608 for 102344- NEW ezCater Order: Confirm & Accept now
+1a08459d00ec34d2,tc2,Union,2026-09-09 12:07 AM,armed,Security Panel User [0],Armed Away (Bypass)
+1a08459d3b06a3d1,tc2,Union,2026-09-09 12:07 AM,armed,Security Panel User [0],Armed Away (Bypass)
+1a085278f8f0ed8a,tc2,Florence,2026-09-09 3:52 AM,disarmed,Sygma Florence,Disarmed
+1a0854ad8e905bfa,tc2,Florence,2026-09-09 4:31 AM,armed,Security Panel User [0],Armed Away
+1a08588c72ff5fb9,tc2,Anderson,2026-09-09 5:38 AM,disarmed,Sarah Juterbock,Disarmed
+1a08590bbfef2023,tc2,Florence,2026-09-09 5:47 AM,disarmed,Yazmin Lowe,Disarmed
+1a085910d6c8e406,catering,Florence,2026-09-09 5:47 AM,new_order,Brandy Fowler $562.89 Pickup 09/09/2026 11:30 - 12:00 PM #3642637,Order 3642637 for 102341 - NEW ONLINE CATERING ORDER: Confirm & Accept now
+1a08591485f863e1,tc2,Union,2026-09-09 5:48 AM,disarmed,ANGIE Slot 5,Disarmed
+1a085914d1962cd6,tc2,Union,2026-09-09 5:48 AM,low_battery,Front GlassBreak,Sensor Low Battery
+1a085914f36c7764,tc2,Union,2026-09-09 5:48 AM,low_battery,Side GlassBreak,Sensor Low Battery
+1a0859d1f1032e10,tc2,Crestview,2026-09-09 6:01 AM,disarmed,Johie Haney,Disarmed
+heartbeat,heartbeat,Market,2026-09-09 6:05 AM,last_ok_et,2026-09-09 6:05 AM,gmail_ok
