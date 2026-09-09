@@ -132,4 +132,5 @@ gmail_id,source,store,when_et,field,value,subject
 1a0840237e3ebade,tc2,Anderson,2026-09-08 10:32 PM,disarmed,Delivery Slot 6,Disarmed
 1a0841f8909892cc,tc2,Anderson,2026-09-08 11:04 PM,armed,Away Delivery Slot 6,Armed Away
 1a08427c591b038f,tc2,Harrison,2026-09-08 11:13 PM,disarmed,Sygma Truck Harrison,Disarmed
-heartbeat,heartbeat,Market,2026-09-08 11:38 PM,last_ok_et,2026-09-08 11:38 PM,gmail_ok
+1a084413a889f25a,tc2,Harrison,2026-09-08 11:40 PM,armed,Away Sygma Truck Harrison,Armed Away
+heartbeat,heartbeat,Market,2026-09-08 11:43 PM,last_ok_et,2026-09-08 11:43 PM,gmail_ok
