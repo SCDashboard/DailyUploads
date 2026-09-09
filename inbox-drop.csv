@@ -33,11 +33,11 @@ gmail_id,source,store,when_et,field,value,subject
 1a07660ded07e202,tc2,Union,2026-09-06 07:00 AM,low_battery,Side GlassBreak,Sensor Low Battery
 1a0766105d5bc3a5,tc2,Union,2026-09-06 07:00 AM,disarm,Built-In Camera,Default-Disarmed-Inbuilt Camera
 1a077e0bee305a8d,olo,Market,2026-09-06 02:00 PM,86s_2pm,attached,Olo: Currently 86'ed Menu Items 2 pm  is attached
-1a077e0bee305a8d,olo,Anderson,2026-09-06 02:00 PM,count,14,Olo: Currently 86'ed Menu Items is attached
-1a077e0bee305a8d,olo,Crestview,2026-09-06 02:00 PM,count,54,Olo: Currently 86'ed Menu Items is attached
-1a077e0bee305a8d,olo,Florence,2026-09-06 02:00 PM,count,174,Olo: Currently 86'ed Menu Items is attached
-1a077e0bee305a8d,olo,Harrison,2026-09-06 02:00 PM,count,385,Olo: Currently 86'ed Menu Items is attached
-1a077e0bee305a8d,olo,Union,2026-09-06 02:00 PM,count,0,Olo: Currently 86'ed Menu Items is attached
+1a077e0bee305a8d,olo,Anderson,2026-09-06 02:00 PM,count,14,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a077e0bee305a8d,olo,Crestview,2026-09-06 02:00 PM,count,54,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a077e0bee305a8d,olo,Florence,2026-09-06 02:00 PM,count,174,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a077e0bee305a8d,olo,Harrison,2026-09-06 02:00 PM,count,385,Olo: Currently 86'ed Menu Items 2 pm  is attached
+1a077e0bee305a8d,olo,Union,2026-09-06 02:00 PM,count,0,Olo: Currently 86'ed Menu Items 2 pm  is attached
 1a07945d43b8003b,olo,Market,2026-09-06 08:45 PM,86s_pm,attached,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
 1a07945d43b8003b,olo,Anderson,2026-09-06 08:45 PM,count,8,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
 1a07945d43b8003b,olo,Crestview,2026-09-06 08:45 PM,count,12,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
@@ -119,3 +119,9 @@ gmail_id,source,store,when_et,field,value,subject
 1a0834ec95699c80,catering,Anderson,2026-09-08 7:16 PM,new_order,Eileen Hay $210.93 Pickup 09/12/2026 11:15 - 11:45 AM #3642380,Order 3642380 for 101301 - NEW ONLINE CATERING ORDER: Confirm & Accept now
 1a0838de7e230d47,catering,Union,2026-09-08 8:25 PM,new_order,ezCater Marketplace $360.75 Pickup 09/09/2026 11:15 - 11:45 AM #3642459,Order 3642459 for 102344- NEW ezCater Order: Confirm & Accept now
 heartbeat,heartbeat,Market,2026-09-08 8:18 PM,last_ok_et,2026-09-08 8:18 PM,gmail_ok
+1a0839275b8db11e,olo,Market,2026-09-08 8:45 PM,86s_pm,attached,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0839275b8db11e,olo,Anderson,2026-09-08 8:45 PM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0839275b8db11e,olo,Crestview,2026-09-08 8:45 PM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0839275b8db11e,olo,Florence,2026-09-08 8:45 PM,count,1,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0839275b8db11e,olo,Harrison,2026-09-08 8:45 PM,count,4,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
+1a0839275b8db11e,olo,Union,2026-09-08 8:45 PM,count,0,Olo: Currently 86'ed Menu Items Joe's Market 8:45 PM is attached
