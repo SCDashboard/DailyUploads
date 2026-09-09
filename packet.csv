@@ -43,5 +43,5 @@ schedules,task,Market,"Fri 9/11 4:30–5:00 PM — Make Waves Gala- Newport on t
 86s,count,Florence,1
 86s,count,Harrison,4
 86s,count,Union,0
-86s,when_et,Market,2026-09-09 6:00 AM
-86s,slot,Market,am
+86s,when_et,Market,2026-09-09 10:30 AM
+86s,slot,Market,1030
