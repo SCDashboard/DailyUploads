@@ -143,3 +143,5 @@ gmail_id,source,store,when_et,field,value,subject
 1a0854ad8e905bfa,tc2,Florence,2026-09-09 4:31 AM,armed,Security Panel User [0],Armed Away
 1a08588c72ff5fb9,tc2,Anderson,2026-09-09 5:38 AM,disarmed,Sarah Juterbock,Disarmed
 heartbeat,heartbeat,Market,2026-09-09 5:42 AM,last_ok_et,2026-09-09 5:42 AM,gmail_ok
+1a085914d1962cd6,tc2,Union,2026-09-09 5:48 AM,low_battery,Front GlassBreak,Sensor Low Battery
+1a085914f36c7764,tc2,Union,2026-09-09 5:48 AM,low_battery,Side GlassBreak,Sensor Low Battery
