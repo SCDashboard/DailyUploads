@@ -19,7 +19,6 @@ gmail_id,source,store,when_et,field,value,subject
 1a086c6ad8f65a52,catering,Harrison,2026-09-09 11:26 AM,new_order,Margaret Simon $186.89 Pickup 09/10/2026 11:30 - 12:00 PM #3643180,Order 3643180 for 101302 - NEW ONLINE CATERING ORDER: Confirm & Accept now
 1a086d3cde6b5f57,catering,Harrison,2026-09-09 11:40 AM,new_order,ezCater Marketplace $360.78 Delivery 09/10/2026 11:00 - 11:30 AM #3643382,Order 3643382 for 101302- NEW ezCater Order: Confirm & Accept now
 1a086d3d3cc1cf43,catering,Crestview,2026-09-09 11:40 AM,new_order,ezCater Marketplace $651.36 Delivery 09/11/2026 10:45 - 11:15 AM #3643383,Order 3643383 for 1192- NEW ezCater Order: Confirm & Accept now
-heartbeat,heartbeat,Market,2026-09-09 11:58 AM,last_ok_et,2026-09-09 11:58 AM,gmail_ok
 1a086938107670c7,olo,Market,2026-09-09 10:30 AM,86s_1030,attached,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
 1a086938107670c7,olo,Anderson,2026-09-09 10:30 AM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
 1a086938107670c7,olo,Crestview,2026-09-09 10:30 AM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
@@ -29,3 +28,39 @@ heartbeat,heartbeat,Market,2026-09-09 11:58 AM,last_ok_et,2026-09-09 11:58 AM,gm
 1a0870259d996da5,catering,Union,2026-09-09 12:31 PM,new_order,ezCater Marketplace $1245.59 Delivery 09/18/2026 8:00 - 8:30 AM #3644557,Order 3644557 for 102344- NEW ezCater Order: Confirm & Accept now
 1a0870d80c4b99d4,catering,Anderson,2026-09-09 12:43 PM,new_order,Kaitlyn McManus $179.78 Delivery 09/10/2026 11:00 - 11:30 AM #3643221,Order 3643221 for 101301 - NEW ONLINE CATERING ORDER: Confirm & Accept now
 1a0871034b7cb571,catering,Union,2026-09-09 12:46 PM,new_order,ezCater Marketplace $1187.18 Delivery 09/16/2026 12:00 - 12:30 PM #3644607,Order 3644607 for 102344- NEW ezCater Order: Confirm & Accept now
+1a07e99f9267d46a,tc2,Anderson,2026-09-07 9:20 PM,armed,Away Josh Jackson,Armed Away
+1a07e9c40903e0d2,tc2,Union,2026-09-07 9:22 PM,armed,Away Security Panel User [0],Armed Away (Bypass)
+1a07e9ca6d16946f,tc2,Crestview,2026-09-07 9:23 PM,armed,Away Kierstan Phelps,Armed Away
+1a07ea920b5f6698,tc2,Harrison,2026-09-07 9:36 PM,armed,Away Angie Sayre,Armed Away
+1a07eb778744e520,tc2,Florence,2026-09-07 9:52 PM,armed,Away Security Panel User [0],Armed Away
+1a083e6aaff2fe76,tc2,Florence,2026-09-08 10:02 PM,armed,Away Security Panel User [0],Armed Away
+1a0840237e3ebade,tc2,Anderson,2026-09-08 10:32 PM,disarm,Delivery Slot 6,Disarmed
+1a0841f8909892cc,tc2,Anderson,2026-09-08 11:04 PM,armed,Away Delivery Slot 6,Armed Away
+1a08427c591b038f,tc2,Harrison,2026-09-08 11:13 PM,disarm,Sygma Truck Harrison,Disarmed
+1a084413a889f25a,tc2,Harrison,2026-09-08 11:40 PM,armed,Away Sygma Truck Harrison,Armed Away
+1a0844284f153e7b,tc2,Union,2026-09-08 11:42 PM,low_battery,Union Side GlassBreak Sensor Low Battery,Sensor Low Battery
+1a0844285219561b,tc2,Union,2026-09-08 11:42 PM,low_battery,Union Front GlassBreak Sensor Low Battery,Sensor Low Battery
+1a0844285ad5a5a4,tc2,Union,2026-09-08 11:42 PM,disarm,sygma Union,Disarmed
+1a0803ba8a536f85,tc2,Crestview,2026-09-08 4:56 AM,disarm,Jessie Stahl,Disarmed
+1a08076674b39fa0,tc2,Anderson,2026-09-08 6:00 AM,disarm,John Unsworth,Disarmed
+1a080891cb197e90,tc2,Florence,2026-09-08 6:21 AM,disarm,Charles Kelshaw,Disarmed
+1a0809341063e69c,tc2,Harrison,2026-09-08 6:32 AM,disarm,Sygma Truck Harrison,Disarmed
+1a080acaca218f41,tc2,Union,2026-09-08 6:59 AM,low_battery,Union Front GlassBreak Sensor Low Battery,Sensor Low Battery
+1a080acad6c67cba,tc2,Union,2026-09-08 6:59 AM,low_battery,Union Side GlassBreak Sensor Low Battery,Sensor Low Battery
+1a080aca8268b9e0,tc2,Union,2026-09-08 6:59 AM,disarm,kleyer Slot 6,Disarmed
+1a083c9f72a323ef,tc2,Harrison,2026-09-08 9:30 PM,armed,Away Security Panel User [0],Armed Away
+1a083d42b2890e9d,tc2,Crestview,2026-09-08 9:41 PM,armed,Away Kierstan Phelps,Armed Away
+1a083d5f109fd320,tc2,Union,2026-09-08 9:43 PM,armed,Away Security Panel User [0],Armed Away (Bypass)
+1a083d84ddbd2776,tc2,Anderson,2026-09-08 9:46 PM,armed,Away Emma Cheuvront,Armed Away
+1a08459d00ec34d2,tc2,Union,2026-09-09 12:07 AM,armed,Away Security Panel User [0],Armed Away (Bypass)
+1a08459d3b06a3d1,tc2,Union,2026-09-09 12:07 AM,armed,Away Security Panel User [0],Armed Away (Bypass)
+1a085278f8f0ed8a,tc2,Florence,2026-09-09 3:52 AM,disarm,Sygma Florence,Disarmed
+1a0854ad8e905bfa,tc2,Florence,2026-09-09 4:31 AM,armed,Away Security Panel User [0],Armed Away
+1a08588c72ff5fb9,tc2,Anderson,2026-09-09 5:38 AM,disarm,Sarah Juterbock,Disarmed
+1a08590bbfef2023,tc2,Florence,2026-09-09 5:47 AM,disarm,Yazmin Lowe,Disarmed
+1a085914d1962cd6,tc2,Union,2026-09-09 5:48 AM,low_battery,Union Front GlassBreak Sensor Low Battery,Sensor Low Battery
+1a085914f36c7764,tc2,Union,2026-09-09 5:48 AM,low_battery,Union Side GlassBreak Sensor Low Battery,Sensor Low Battery
+1a08591485f863e1,tc2,Union,2026-09-09 5:48 AM,disarm,ANGIE Slot 5,Disarmed
+1a0859d1f1032e10,tc2,Crestview,2026-09-09 6:01 AM,disarm,Johie Haney,Disarmed
+1a085bd4989d2322,tc2,Harrison,2026-09-09 6:36 AM,disarm,Russell Ferguson,Disarmed
+heartbeat,heartbeat,Market,2026-09-09 1:14 PM,last_ok_et,2026-09-09 1:14 PM,gmail_ok
