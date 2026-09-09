@@ -3,23 +3,23 @@ gmail_id,source,store,when_et,field,value,subject
 1a074855a97a6be3,tc2,Anderson,2026-09-05 10:21 PM,disarm,Emma Cheuvront,Disarmed
 1a0748635e3ee2a2,tc2,Anderson,2026-09-05 10:22 PM,armed,Away Emma Cheuvront,Armed Away
 1a0748a36c786d06,tc2,Union,2026-09-05 10:26 PM,armed,Away Bypass User 0,Armed Away (Bypass)
-1a0818444327aae7,catering,Crestview,2026-09-08 10:55 AM,new_order,ezCater Marketplace $490.87 Pickup 09/09/2026 11:30 - 12:00 PM #3640726,Order 3640726 for 1192- NEW ezCater Order: Confirm & Accept now
-1a0819c8ca19371a,catering,Crestview,2026-09-08 11:21 AM,new_order,Molly Pflum $247.03 Pickup 09/09/2026 11:15 - 11:45 AM #3640813,Order 3640813 for 1192 - NEW ONLINE CATERING ORDER: Confirm & Accept now
+1a0818444327aae7,catering,Crestview,2026-09-08 10:55 AM,new_order,ezCater Marketplace $490.87 Delivery 09/09/2026 11:30 - 12:00 PM #3640726,Order 3640726 for 1192- NEW ezCater Order: Confirm & Accept now
+1a0819c8ca19371a,catering,Crestview,2026-09-08 11:21 AM,new_order,Molly Pflum $247.03 Delivery 09/09/2026 11:15 - 11:45 AM #3640813,Order 3640813 for 1192 - NEW ONLINE CATERING ORDER: Confirm & Accept now
 1a081c0bd12112b5,catering,Anderson,2026-09-08 12:01 PM,new_order,ezCater Marketplace $353.00 Pickup 09/09/2026 11:00 - 11:30 AM #3641023,Order 3641023 for 101301- NEW ezCater Order: Confirm & Accept now
-1a081e9cf503240c,catering,Union,2026-09-08 12:46 PM,new_order,ezCater Marketplace $215.85 Pickup 09/09/2026 7:15 - 7:45 AM #3641231,Order 3641231 for 102344- NEW ezCater Order: Confirm & Accept now
+1a081e9cf503240c,catering,Union,2026-09-08 12:46 PM,new_order,ezCater Marketplace $215.85 Delivery 09/09/2026 7:15 - 7:45 AM #3641231,Order 3641231 for 102344- NEW ezCater Order: Confirm & Accept now
 1a082005e762bdd6,catering,Crestview,2026-09-08 1:10 PM,new_order,Nazar Pavlushyn Pavlushyn $100.00 Pickup 09/09/2026 10:30 - 11:00 AM #3641262,Order 3641262 for 1192 - NEW ONLINE CATERING ORDER: Confirm & Accept now
-1a08200e218737ef,catering,Crestview,2026-09-08 1:11 PM,new_order,ezCater Marketplace $151.85 Pickup 09/09/2026 12:00 - 12:30 PM #3641331,Order 3641331 for 1192- NEW ezCater Order: Confirm & Accept now
+1a08200e218737ef,catering,Crestview,2026-09-08 1:11 PM,new_order,ezCater Marketplace $151.85 Delivery 09/09/2026 12:00 - 12:30 PM #3641331,Order 3641331 for 1192- NEW ezCater Order: Confirm & Accept now
 1a08266582ae314f,catering,Crestview,2026-09-08 3:02 PM,new_order,Lauren Willett $187.46 Pickup 09/10/2026 11:00 - 11:30 AM #3641556,Order 3641556 for 1192 - NEW ONLINE CATERING ORDER: Confirm & Accept now
 1a0834ec95699c80,catering,Anderson,2026-09-08 7:16 PM,new_order,Eileen Hay $210.93 Pickup 09/12/2026 11:15 - 11:45 AM #3642380,Order 3642380 for 101301 - NEW ONLINE CATERING ORDER: Confirm & Accept now
-1a0838de7e230d47,catering,Union,2026-09-08 8:25 PM,new_order,ezCater Marketplace $360.75 Pickup 09/09/2026 11:15 - 11:45 AM #3642459,Order 3642459 for 102344- NEW ezCater Order: Confirm & Accept now
-1a0845bdab5dfe41,catering,Union,2026-09-09 12:10 AM,new_order,ezCater Marketplace $152.40 Pickup 09/09/2026 10:15 - 10:45 AM #3642608,Order 3642608 for 102344- NEW ezCater Order: Confirm & Accept now
-1a085910d6c8e406,catering,Florence,2026-09-09 5:47 AM,new_order,Brandy Fowler $562.89 Pickup 09/09/2026 11:30 - 12:00 PM #3642637,Order 3642637 for 102341 - NEW ONLINE CATERING ORDER: Confirm & Accept now
-1a08638f2dc3df6a,catering,Anderson,2026-09-09 8:51 AM,new_order,Nicole Loehl $301.10 Pickup 09/11/2026 11:15 - 11:45 AM #3642764,Order 3642764 for 101301 - NEW ONLINE CATERING ORDER: Confirm & Accept now
-1a086a8f27cb0a2c,catering,Harrison,2026-09-09 10:53 AM,new_order,Michelle Noyes $496.40 Pickup 09/10/2026 2:45 - 3:15 PM #3643099,Order 3643099 for 101302 - NEW ONLINE CATERING ORDER: Confirm & Accept now
+1a0838de7e230d47,catering,Union,2026-09-08 8:25 PM,new_order,ezCater Marketplace $360.75 Delivery 09/09/2026 11:15 - 11:45 AM #3642459,Order 3642459 for 102344- NEW ezCater Order: Confirm & Accept now
+1a0845bdab5dfe41,catering,Union,2026-09-09 12:10 AM,new_order,ezCater Marketplace $152.40 Delivery 09/09/2026 10:15 - 10:45 AM #3642608,Order 3642608 for 102344- NEW ezCater Order: Confirm & Accept now
+1a085910d6c8e406,catering,Florence,2026-09-09 5:47 AM,new_order,Brandy Fowler $562.89 Delivery 09/09/2026 11:30 - 12:00 PM #3642637,Order 3642637 for 102341 - NEW ONLINE CATERING ORDER: Confirm & Accept now
+1a08638f2dc3df6a,catering,Anderson,2026-09-09 8:51 AM,new_order,Nicole Loehl $301.10 Delivery 09/11/2026 11:15 - 11:45 AM #3642764,Order 3642764 for 101301 - NEW ONLINE CATERING ORDER: Confirm & Accept now
+1a086a8f27cb0a2c,catering,Harrison,2026-09-09 10:53 AM,new_order,Michelle Noyes $496.40 Delivery 09/10/2026 2:45 - 3:15 PM #3643099,Order 3643099 for 101302 - NEW ONLINE CATERING ORDER: Confirm & Accept now
 1a086c6ad8f65a52,catering,Harrison,2026-09-09 11:26 AM,new_order,Margaret Simon $186.89 Pickup 09/10/2026 11:30 - 12:00 PM #3643180,Order 3643180 for 101302 - NEW ONLINE CATERING ORDER: Confirm & Accept now
-1a086d3cde6b5f57,catering,Harrison,2026-09-09 11:40 AM,new_order,ezCater Marketplace $360.78 Pickup 09/10/2026 11:00 - 11:30 AM #3643382,Order 3643382 for 101302- NEW ezCater Order: Confirm & Accept now
-1a086d3d3cc1cf43,catering,Crestview,2026-09-09 11:40 AM,new_order,ezCater Marketplace $651.36 Pickup 09/11/2026 10:45 - 11:15 AM #3643383,Order 3643383 for 1192- NEW ezCater Order: Confirm & Accept now
-heartbeat,heartbeat,Market,2026-09-09 11:46 AM,last_ok_et,2026-09-09 11:46 AM,gmail_ok
+1a086d3cde6b5f57,catering,Harrison,2026-09-09 11:40 AM,new_order,ezCater Marketplace $360.78 Delivery 09/10/2026 11:00 - 11:30 AM #3643382,Order 3643382 for 101302- NEW ezCater Order: Confirm & Accept now
+1a086d3d3cc1cf43,catering,Crestview,2026-09-09 11:40 AM,new_order,ezCater Marketplace $651.36 Delivery 09/11/2026 10:45 - 11:15 AM #3643383,Order 3643383 for 1192- NEW ezCater Order: Confirm & Accept now
+heartbeat,heartbeat,Market,2026-09-09 11:58 AM,last_ok_et,2026-09-09 11:58 AM,gmail_ok
 1a086938107670c7,olo,Market,2026-09-09 10:30 AM,86s_1030,attached,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
 1a086938107670c7,olo,Anderson,2026-09-09 10:30 AM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
 1a086938107670c7,olo,Crestview,2026-09-09 10:30 AM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
