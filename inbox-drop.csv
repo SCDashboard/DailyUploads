@@ -20,3 +20,9 @@ gmail_id,source,store,when_et,field,value,subject
 1a086d3cde6b5f57,catering,Harrison,2026-09-09 11:40 AM,new_order,ezCater Marketplace $360.78 Pickup 09/10/2026 11:00 - 11:30 AM #3643382,Order 3643382 for 101302- NEW ezCater Order: Confirm & Accept now
 1a086d3d3cc1cf43,catering,Crestview,2026-09-09 11:40 AM,new_order,ezCater Marketplace $651.36 Pickup 09/11/2026 10:45 - 11:15 AM #3643383,Order 3643383 for 1192- NEW ezCater Order: Confirm & Accept now
 heartbeat,heartbeat,Market,2026-09-09 11:46 AM,last_ok_et,2026-09-09 11:46 AM,gmail_ok
+1a086938107670c7,olo,Market,2026-09-09 10:30 AM,86s_1030,attached,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a086938107670c7,olo,Anderson,2026-09-09 10:30 AM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a086938107670c7,olo,Crestview,2026-09-09 10:30 AM,count,3,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a086938107670c7,olo,Florence,2026-09-09 10:30 AM,count,1,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a086938107670c7,olo,Harrison,2026-09-09 10:30 AM,count,4,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
+1a086938107670c7,olo,Union,2026-09-09 10:30 AM,count,0,Olo: Currently 86'ed Menu Items Joe's Market 10:30 AM is attached
