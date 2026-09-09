@@ -7,3 +7,4 @@ pm_status,COMPLETE_EARLY_PM_READY
 pm_delivery,EMAIL_AND_JOE_CHAT
 
 section,field,store,value
+sched_proj,day,Anderson,2026-09-07,82,5500,648,45000
