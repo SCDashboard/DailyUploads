@@ -141,4 +141,5 @@ gmail_id,source,store,when_et,field,value,subject
 1a08459d3b06a3d1,tc2,Union,2026-09-09 12:07 AM,armed,Security Panel User [0],Armed Away (Bypass)
 1a085278f8f0ed8a,tc2,Florence,2026-09-09 3:52 AM,disarmed,Sygma Florence,Disarmed
 1a0854ad8e905bfa,tc2,Florence,2026-09-09 4:31 AM,armed,Security Panel User [0],Armed Away
-heartbeat,heartbeat,Market,2026-09-09 5:22 AM,last_ok_et,2026-09-09 5:22 AM,gmail_ok
+1a08588c72ff5fb9,tc2,Anderson,2026-09-09 5:38 AM,disarmed,Sarah Juterbock,Disarmed
+heartbeat,heartbeat,Market,2026-09-09 5:42 AM,last_ok_et,2026-09-09 5:42 AM,gmail_ok
