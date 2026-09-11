@@ -1,8 +1,37 @@
 as_of_et,kind,when_et,what
-2026-09-11 6:00 AM,86s,2026-09-11 6:00 AM,updated 9/11 6:00 AM 86 list card
-2026-09-10 8:31 PM,86s,2026-09-10 8:45 PM,updated 9/10 8:45 PM 86 list card
-2026-09-10 2:02 PM,86s,2026-09-10 2:00 PM,updated 9/10 2:00 PM 86 list card
-2026-09-10 10:42 AM,86s,2026-09-10 10:30 AM,updated 9/10 10:30 AM 86 list card
+2026-09-11 9:25 AM,stamp,,9am rollup
+2026-09-11 9:25 AM,other,2026-09-11 8:37 AM,Rebuild alarms-30d.csv since 9/5 (Anderson flag +1, updated avgs)
+2026-09-11 9:25 AM,tc2,2026-09-11 7:30 AM,7:30 AM ET DISARM 2026-09-11
+2026-09-11 9:25 AM,tc2,2026-09-11 6:58 AM,Union DISARMED kleyer Slot 6
+2026-09-11 9:25 AM,tc2,2026-09-11 6:44 AM,Anderson DISARMED Sarah Juterbock
+2026-09-11 9:25 AM,tc2,2026-09-11 6:20 AM,Harrison DISARMED Russell Ferguson
+2026-09-11 9:25 AM,tc2,2026-09-11 6:19 AM,Florence DISARMED Charles Kelshaw
+2026-09-11 9:25 AM,tc2,2026-09-11 5:57 AM,Crestview DISARMED Kierstan Phelps
+2026-09-11 9:25 AM,86s,2026-09-11 6:00 AM,updated 9/11 6:00 AM 86 list card
+2026-09-11 9:25 AM,catering,2026-09-10 9:35 PM,Crestview new_order 3647638 Nancy Wood $239.71
+2026-09-11 9:25 AM,catering,2026-09-10 4:55 PM,Florence new_order 3647412 ezCater $457.77
+2026-09-11 9:25 AM,catering,2026-09-10 4:20 PM,Union new_order 3647333 ezCater $309.35
+2026-09-11 9:25 AM,catering,2026-09-10 3:29 PM,Florence new_order 3647178 Aimee Hendron $213.58
+2026-09-11 9:25 AM,catering,2026-09-10 2:40 PM,Crestview new_order 3646902 alexys alexander $521.08
+2026-09-11 9:25 AM,catering,2026-09-10 2:10 PM,Crestview new_order 3646197 Johnny Salazar $416.86
+2026-09-11 9:25 AM,catering,2026-09-10 1:21 PM,Anderson new_order 3646811 ezCater $235.12
+2026-09-11 9:25 AM,catering,2026-09-10 1:13 PM,Florence new_order 3646784 Annette Hampton $329.90
+2026-09-11 9:25 AM,catering,2026-09-10 1:09 PM,Florence new_order 3646767 Annette Hampton $177.45
+2026-09-11 9:25 AM,catering,2026-09-10 12:13 PM,Anderson new_order 3646103 Katie Stone $580.65
+2026-09-11 9:25 AM,catering,2026-09-10 9:33 AM,Crestview new_order 3646059 Stephanie Bishop $353.25
+2026-09-11 9:25 AM,catering,2026-09-10 9:06 AM,Anderson new_order 3645994 Joe Heidelberg $386.65
+2026-09-11 9:25 AM,catering,2026-09-10 8:59 AM,Harrison new_order 3645959 Jewel Garrison $423.73
+2026-09-11 9:25 AM,catering,2026-09-09 6:40 PM,Crestview new_order 3645611 ezCater $503.61
+2026-09-11 9:25 AM,catering,2026-09-09 6:40 PM,Anderson new_order 3645230 Michelle Andrews $246.66
+2026-09-11 9:25 AM,catering,2026-09-09 5:30 PM,Crestview new_order 3645483 ezCater $244.17
+2026-09-11 9:25 AM,catering,2026-09-09 5:20 PM,Crestview new_order 3645462 ezCater $782.72
+2026-09-11 9:25 AM,catering,2026-09-09 3:17 PM,Harrison new_order 3645044 Jessica Bryant $208.78
+2026-09-11 9:25 AM,catering,2026-09-09 3:01 PM,Anderson new_order 3645024 ezCater $119.78
+2026-09-11 9:25 AM,catering,2026-09-09 2:03 PM,Crestview new_order 3644831 ezCater $342.50
+2026-09-11 9:25 AM,tc2,2026-09-10 10:15 PM,10:15 PM ET ARM 2026-09-10
+2026-09-11 9:25 AM,86s,2026-09-10 8:45 PM,updated 9/10 8:45 PM 86 list card
+2026-09-11 9:25 AM,86s,2026-09-10 2:00 PM,updated 9/10 2:00 PM 86 list card
+2026-09-11 9:25 AM,86s,2026-09-10 10:30 AM,updated 9/10 10:30 AM 86 list card
 2026-09-10 9:07 AM,stamp,,9am rollup
 2026-09-10 9:07 AM,other,2026-09-10 8:37 AM,Rebuild alarms-30d.csv since 9/5 (Anderson flag +1, updated avgs)
 2026-09-10 9:07 AM,tc2,2026-09-10 7:03 AM,Union DISARMED JED Slot 3
