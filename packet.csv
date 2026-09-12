@@ -9,10 +9,10 @@ pm_delivery,EMAIL_AND_JOE_CHAT
 section,field,store,value
 sched_proj,day,Anderson,2026-09-07,82,5500,648,45000
 sched_proj,day,Anderson,2026-09-08,100.5,6000,648,45000
-86s,count,Anderson,3
-86s,count,Crestview,4
+86s,count,Anderson,4
+86s,count,Crestview,3
 86s,count,Florence,2
 86s,count,Harrison,5
 86s,count,Union,1
-86s,when_et,Market,2026-09-12 10:30 AM
-86s,slot,Market,1030
+86s,when_et,Market,2026-09-12 2:00 PM
+86s,slot,Market,2pm
