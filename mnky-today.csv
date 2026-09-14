@@ -1,7 +1,7 @@
 date,store,orders,sales,open,closed,names,flags,flag_detail,lock
-2026-09-07,Anderson,0,0,0,0,,0,,open
-2026-09-07,Crestview,1,348.61,0,1,Michael Bradley $348.61,0,,closed
-2026-09-07,Florence,1,56.45,0,1,Jake Fraiture $56.45,0,,closed
-2026-09-07,Harrison,0,0,0,0,,0,,open
-2026-09-07,Union,2,1452.02,1,1,Ted Beaver $114.38; ezCater Marketplace $1337.64,1 green,ezCater Marketplace green,open
-2026-09-07,ScottMarket,4,1857.08,1,3,,1,1 green,open
+2026-09-14,Anderson,2,1027.62,0,2,,0,,closed
+2026-09-14,Crestview,7,2967.53,0,7,,0,,closed
+2026-09-14,Florence,2,471.39,0,2,,0,,closed
+2026-09-14,Harrison,1,163.96,0,1,,0,,closed
+2026-09-14,Union,2,581.26,0,2,,0,,closed
+2026-09-14,ScottMarket,14,5211.76,0,14,,0,,closed
