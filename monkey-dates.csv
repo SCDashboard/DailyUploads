@@ -1,6 +1,6 @@
 card,date,label
-today,2026-09-06,Sun 9/6
-tomorrow,2026-09-07,Mon 9/7
-week_start,2026-09-07,Mon 9/7
-week_end,2026-09-13,Sun 9/13
-note,do_not_use_numbers_date,numbers_date is sales yesterday Sat 9/5
+today,2026-09-14,Mon 9/14
+tomorrow,2026-09-15,Tue 9/15
+week_start,2026-09-14,Mon 9/14
+week_end,2026-09-20,Sun 9/20
+note,do_not_use_numbers_date,numbers_date is sales yesterday Sun 9/13
