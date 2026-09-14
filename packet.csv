@@ -1,14 +1,79 @@
 key,value
 report_date,2026-09-14
 numbers_date,2026-09-13
-updated_at,9/14 7:33 AM
+updated_at,9/14 7:39 PM
 today_date,2026-09-14
 yesterday_date,2026-09-13
-slot,AM_COMPLETE
-86s,count,Anderson,4
-86s,count,Crestview,3
-86s,count,Florence,2
-86s,count,Harrison,5
-86s,count,Union,1
-86s,slot,Market,2pm
-86s,when_et,Market,2026-09-14 2:00 PM
+slot,PM_COMPLETE
+section,field,store,value
+sales,day$,Anderson,5590
+sales,vs_lw,Anderson,+1.35%
+sales,vs_lw$,Anderson,74
+sales,vs_ly,Anderson,-10.01%
+sales,vs_ly$,Anderson,-622
+sales,wtd$,Anderson,40700
+sales,vs_ly_wtd,Anderson,-5.56%
+sales,vs_ly_wtd$,Anderson,-2394
+sales,vs_lw_wtd$,Anderson,1034
+sales,day$,Crestview,8166
+sales,vs_lw,Crestview,+0.14%
+sales,vs_lw$,Crestview,11
+sales,vs_ly,Crestview,+6.71%
+sales,vs_ly$,Crestview,514
+sales,wtd$,Crestview,51655
+sales,vs_ly_wtd,Crestview,-18.41%
+sales,vs_ly_wtd$,Crestview,-11654
+sales,vs_lw_wtd$,Crestview,-1975
+sales,day$,Florence,5380
+sales,vs_lw,Florence,-8.45%
+sales,vs_lw$,Florence,-497
+sales,vs_ly,Florence,-13.94%
+sales,vs_ly$,Florence,-871
+sales,wtd$,Florence,46946
+sales,vs_ly_wtd,Florence,-15.56%
+sales,vs_ly_wtd$,Florence,-8653
+sales,vs_lw_wtd$,Florence,-5976
+sales,day$,Harrison,6843
+sales,vs_lw,Harrison,+2.42%
+sales,vs_lw$,Harrison,162
+sales,vs_ly,Harrison,+2.52%
+sales,vs_ly$,Harrison,168
+sales,wtd$,Harrison,50234
+sales,vs_ly_wtd,Harrison,-11.65%
+sales,vs_ly_wtd$,Harrison,-6622
+sales,vs_lw_wtd$,Harrison,-2884
+sales,day$,Union,5225
+sales,vs_lw,Union,-19.09%
+sales,vs_lw$,Union,-1233
+sales,vs_ly,Union,-18.45%
+sales,vs_ly$,Union,-1182
+sales,wtd$,Union,32860
+sales,vs_ly_wtd,Union,-24.43%
+sales,vs_ly_wtd$,Union,-10624
+sales,vs_lw_wtd$,Union,-3389
+sales,day$,Scott4,25979
+sales,wtd$,Scott4,189535
+sales,day$,ScottMarket,31204
+sales,wtd$,ScottMarket,222395
+alerts,open,Anderson,0
+alerts,open,Crestview,0
+alerts,open,Florence,0
+alerts,open,Harrison,2
+alerts,opened,Harrison,2026-09-13T20:21:00-04:00
+alerts,since,Harrison,2026-09-13T20:21:00-04:00
+alerts,open,Union,0
+alerts,at,Market,9/14 7:31 PM ET
+alerts,note,Harrison,2 open — cold melt; missing Doritos side
+opp,row,Harrison,9/14 4:56 PM Contact Us — Ham Cheese melt served cold expected hot melt · no reward sent · OPEN NEW
+opp,status,Harrison,OPEN NEW
+opp,reward,Harrison,no reward sent
+opp,row,Harrison,9/13 8:21 PM Contact Us — Paid Doritos side missing repeat · no reward sent · OPEN IN PROGRESS
+opp,status,Harrison,OPEN IN PROGRESS
+opp,reward,Harrison,no reward sent
+opp,row,Anderson,9/13 6:00 PM Contact Us — Bacon portion photo mismatch · reward Yes · CLOSED
+opp,status,Anderson,CLOSED
+opp,reward,Anderson,Yes
+opp,row,Crestview,9/12 9:43 PM Contact Us — Choose 2 portion too small · reward Yes · CLOSED
+opp,status,Crestview,CLOSED
+opp,reward,Crestview,Yes
+opp,at,Market,9/14 7:31 PM ET
