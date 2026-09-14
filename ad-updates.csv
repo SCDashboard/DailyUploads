@@ -1,21 +1,22 @@
-as_of_et,kind,when_et,what
-2026-09-14 6:00 AM,86s,2026-09-14 6:00 AM,updated 9/14 6:00 AM 86 list card
-2026-09-13 8:45 PM,86s,2026-09-13 8:45 PM,updated 9/13 8:45 PM 86 list card
-2026-09-13 2:00 PM,86s,2026-09-13 2:00 PM,updated 9/13 2:00 PM 86 list card
-2026-09-13 10:31 AM,86s,2026-09-13 10:31 AM,updated 9/13 10:30 AM 86 list card
-2026-09-13 9:30 AM,stamp,,9am rollup
-2026-09-13 9:30 AM,other,2026-09-13 8:38 AM,Rebuild alarms-30d.csv since 9/5 ET (Scott 5 only)
-2026-09-13 9:30 AM,tc2,2026-09-13 7:30 AM,7:30 AM ET DISARM 2026-09-13
-2026-09-13 9:30 AM,tc2,2026-09-13 7:05 AM,Harrison DISARMED Ethan Slot 6
-2026-09-13 9:30 AM,tc2,2026-09-13 6:45 AM,Union DISARMED JED Slot 3
-2026-09-13 9:30 AM,tc2,2026-09-13 6:16 AM,Anderson DISARMED John Unsworth
-2026-09-13 9:30 AM,tc2,2026-09-13 6:05 AM,Florence DISARMED Charlene Canada
-2026-09-13 9:30 AM,tc2,2026-09-13 5:59 AM,Crestview DISARMED Jessie Stahl
-2026-09-13 9:30 AM,86s,2026-09-13 6:00 AM,updated 9/13 6:00 AM 86 list card
-2026-09-13 9:30 AM,tc2,2026-09-12 10:17 PM,Anderson ARMED Away Emma Cheuvront
-2026-09-13 9:30 AM,tc2,2026-09-12 9:58 PM,Harrison ARMED Away Angie Sayre
-2026-09-13 9:30 AM,tc2,2026-09-12 9:48 PM,Florence ARMED Away User 0
-2026-09-13 9:30 AM,tc2,2026-09-12 9:30 PM,Crestview ARMED Away Maria Cooper
-2026-09-13 9:30 AM,86s,2026-09-12 8:45 PM,updated 9/12 8:45 PM 86 list card
-2026-09-13 9:30 AM,86s,2026-09-12 2:00 PM,updated 9/12 2:00 PM 86 list card
-2026-09-13 9:30 AM,86s,2026-09-12 10:30 AM,updated 9/12 10:30 AM 86 list card
+when_et,line
+2026-09-14 8:28 AM,updated 9/14 8:28 AM packet from Bot
+2026-09-14 6:00 AM,updated 9/14 6:00 AM 86 list card
+2026-09-13 8:45 PM,updated 9/13 8:45 PM 86 list card
+2026-09-13 2:00 PM,updated 9/13 2:00 PM 86 list card
+2026-09-13 10:31 AM,updated 9/13 10:30 AM 86 list card
+2026-09-13 9:30 AM,9am rollup
+2026-09-13 8:38 AM,Rebuild alarms-30d.csv since 9/5 ET (Scott 5 only)
+2026-09-13 7:30 AM,7:30 AM ET DISARM 2026-09-13
+2026-09-13 7:05 AM,Harrison DISARMED Ethan Slot 6
+2026-09-13 6:45 AM,Union DISARMED JED Slot 3
+2026-09-13 6:16 AM,Anderson DISARMED John Unsworth
+2026-09-13 6:05 AM,Florence DISARMED Charlene Canada
+2026-09-13 5:59 AM,Crestview DISARMED Jessie Stahl
+2026-09-13 6:00 AM,updated 9/13 6:00 AM 86 list card
+2026-09-12 10:17 PM,Anderson ARMED Away Emma Cheuvront
+2026-09-12 9:58 PM,Harrison ARMED Away Angie Sayre
+2026-09-12 9:48 PM,Florence ARMED Away User 0
+2026-09-12 9:30 PM,Crestview ARMED Away Maria Cooper
+2026-09-12 8:45 PM,updated 9/12 8:45 PM 86 list card
+2026-09-12 2:00 PM,updated 9/12 2:00 PM 86 list card
+2026-09-12 10:30 AM,updated 9/12 10:30 AM 86 list card
