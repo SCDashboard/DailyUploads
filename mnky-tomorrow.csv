@@ -1,7 +1,7 @@
 date,store,orders,sales,open,closed,names,flags,flag_detail
 2026-09-15,Anderson,5,1797.52,5,0,,,
-2026-09-15,Crestview,6,1246.38,6,0,,purple,purple
-2026-09-15,Florence,7,2309.16,7,0,,purple,purple
+2026-09-15,Crestview,6,1246.38,6,0,,1 purple,1 purple
+2026-09-15,Florence,7,2309.16,7,0,,4 purple,4 purple
 2026-09-15,Harrison,2,892.62,2,0,,,
-2026-09-15,Union,2,373.32,2,0,,purple,purple
+2026-09-15,Union,2,373.32,2,0,,2 purple,2 purple
 2026-09-15,ScottMarket,22,6619,22,0,,7 purple,7 purple CV/FL/UN
