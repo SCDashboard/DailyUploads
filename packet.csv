@@ -145,13 +145,13 @@ mnky_tomorrow,sales,Crestview,1246.38
 mnky_tomorrow,closed,Crestview,0
 mnky_tomorrow,open,Crestview,6
 mnky_tomorrow,total,Crestview,6
-mnky_tomorrow,flags,Crestview,purple
+mnky_tomorrow,flags,Crestview,1 purple
 mnky_tomorrow,orders,Florence,7
 mnky_tomorrow,sales,Florence,2309.16
 mnky_tomorrow,closed,Florence,0
 mnky_tomorrow,open,Florence,7
 mnky_tomorrow,total,Florence,7
-mnky_tomorrow,flags,Florence,purple
+mnky_tomorrow,flags,Florence,4 purple
 mnky_tomorrow,orders,Harrison,2
 mnky_tomorrow,sales,Harrison,892.62
 mnky_tomorrow,closed,Harrison,0
@@ -162,13 +162,12 @@ mnky_tomorrow,sales,Union,373.32
 mnky_tomorrow,closed,Union,0
 mnky_tomorrow,open,Union,2
 mnky_tomorrow,total,Union,2
-mnky_tomorrow,flags,Union,purple
+mnky_tomorrow,flags,Union,2 purple
 mnky_tomorrow,orders,ScottMarket,22
 mnky_tomorrow,sales,ScottMarket,6619
 mnky_tomorrow,closed,ScottMarket,0
 mnky_tomorrow,open,ScottMarket,22
 mnky_tomorrow,total,ScottMarket,22
-mnky_tomorrow,flags,ScottMarket,7 purple CV/FL/UN
 mnky_week,range,Market,Wed–Sun
 mnky_week,date,Market,2026-09-16
 mnky_week,note,Market,Wed–Sun rest of week
