@@ -1,1 +1,23 @@
-see file
+key,value
+today_date,2026-09-15
+yesterday_date,2026-09-14
+report_date,2026-09-15
+numbers_date,2026-09-14
+updated_at,9/15 10:01 PM ET
+slot,PM
+am_status,COMPLETE_AM_READY
+pm_status,COMPLETE_EARLY_PM
+pm_delivery,JOE_CHAT_ONLY_NO_EMAIL
+lane_split,PACKET_CUT
+packet_format,plain CSV; Lane A merge; no sched_proj; no managers; cash vs LW GAP
+cash_lw,GAP
+minors_flag,none — do not copy Sunday names onto Monday
+punch130,none
+section,field,store,value
+86s,count,Anderson,4
+86s,count,Crestview,11
+86s,count,Florence,3
+86s,count,Harrison,6
+86s,count,Union,1
+86s,slot,Market,am
+86s,when_et,Market,2026-09-16 6:00 AM
