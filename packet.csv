@@ -3,9 +3,10 @@ today_date,2026-09-15
 yesterday_date,2026-09-14
 report_date,2026-09-15
 numbers_date,2026-09-14
-updated_at,9/15 7:48 AM ET
-slot,AM
+updated_at,9/15 10:01 PM ET
+slot,PM
 am_status,COMPLETE_AM_READY
+pm_status,COMPLETE_EARLY_PM
 pm_delivery,JOE_CHAT_ONLY_NO_EMAIL
 lane_split,PACKET_CUT
 packet_format,plain CSV; Lane A merge; no sched_proj; no managers; cash vs LW GAP
@@ -243,6 +244,104 @@ punch130,none,Market,—
 punch130,note,Market,Mon 9/14 none
 minors,none,Market,—
 minors,note,Market,no new M-roster — do not copy Sunday names onto Monday
+ranker_30,window,Market,All-day Last30 dine-in · updated 9/13
+ranker_30,title,Market,Rolling 30 · updated 9/13
+ranker_30,at,Market,9/13 6:52 PM ET
+ranker_30,note,Market,Sun 9/13 Ranker — Accuracy ~90s verified; no Scott Market row
+ranker_30,n,Anderson,105
+ranker_30,osat,Anderson,69.6
+ranker_30,quality,Anderson,73.6
+ranker_30,acc,Anderson,92.4
+ranker_30,friend,Anderson,79.8
+ranker_30,speed,Anderson,72.1
+ranker_30,clean,Anderson,78.2
+ranker_30,ready,Anderson,68.2
+ranker_30,mngr,Anderson,60.7
+ranker_30,n,Crestview,105
+ranker_30,osat,Crestview,75.0
+ranker_30,quality,Crestview,77.7
+ranker_30,acc,Crestview,94.8
+ranker_30,friend,Crestview,83.2
+ranker_30,speed,Crestview,69.7
+ranker_30,clean,Crestview,79.1
+ranker_30,ready,Crestview,66.7
+ranker_30,mngr,Crestview,59.7
+ranker_30,n,Florence,97
+ranker_30,osat,Florence,79.8
+ranker_30,quality,Florence,81.0
+ranker_30,acc,Florence,95.2
+ranker_30,friend,Florence,79.8
+ranker_30,speed,Florence,81.2
+ranker_30,clean,Florence,76.9
+ranker_30,ready,Florence,85.0
+ranker_30,mngr,Florence,68.6
+ranker_30,n,Harrison,142
+ranker_30,osat,Harrison,74.0
+ranker_30,quality,Harrison,77.8
+ranker_30,acc,Harrison,89.8
+ranker_30,friend,Harrison,81.6
+ranker_30,speed,Harrison,82.4
+ranker_30,clean,Harrison,78.0
+ranker_30,ready,Harrison,77.1
+ranker_30,mngr,Harrison,43.4
+ranker_30,n,Union,110
+ranker_30,osat,Union,79.6
+ranker_30,quality,Union,82.5
+ranker_30,acc,Union,96.1
+ranker_30,friend,Union,89.1
+ranker_30,speed,Union,84.6
+ranker_30,clean,Union,90.4
+ranker_30,ready,Union,86.4
+ranker_30,mngr,Union,58.5
+ranker_pm,window,Market,PM Dinner After 5pm · updated 9/13
+ranker_pm,title,Market,PM Dinner · updated 9/13
+ranker_pm,at,Market,9/13 6:52 PM ET
+ranker_pm,note,Market,Sun 9/13 PM Dinner Ranker — no Scott Market row
+ranker_pm,n,Anderson,21
+ranker_pm,osat,Anderson,57.1
+ranker_pm,quality,Anderson,71.4
+ranker_pm,acc,Anderson,90.5
+ranker_pm,friend,Anderson,75.0
+ranker_pm,speed,Anderson,66.7
+ranker_pm,clean,Anderson,68.4
+ranker_pm,ready,Anderson,66.7
+ranker_pm,mngr,Anderson,41.7
+ranker_pm,n,Crestview,26
+ranker_pm,osat,Crestview,69.2
+ranker_pm,quality,Crestview,80.8
+ranker_pm,acc,Crestview,92.3
+ranker_pm,friend,Crestview,76.9
+ranker_pm,speed,Crestview,57.9
+ranker_pm,clean,Crestview,65.2
+ranker_pm,ready,Crestview,50.0
+ranker_pm,mngr,Crestview,66.7
+ranker_pm,n,Florence,20
+ranker_pm,osat,Florence,80.0
+ranker_pm,quality,Florence,75.0
+ranker_pm,acc,Florence,95.0
+ranker_pm,friend,Florence,75.0
+ranker_pm,speed,Florence,68.8
+ranker_pm,clean,Florence,75.0
+ranker_pm,ready,Florence,100.0
+ranker_pm,mngr,Florence,50.0
+ranker_pm,n,Harrison,45
+ranker_pm,osat,Harrison,71.1
+ranker_pm,quality,Harrison,77.8
+ranker_pm,acc,Harrison,84.4
+ranker_pm,friend,Harrison,73.3
+ranker_pm,speed,Harrison,79.3
+ranker_pm,clean,Harrison,67.7
+ranker_pm,ready,Harrison,68.8
+ranker_pm,mngr,Harrison,13.0
+ranker_pm,n,Union,15
+ranker_pm,osat,Union,86.7
+ranker_pm,quality,Union,93.3
+ranker_pm,acc,Union,93.3
+ranker_pm,friend,Union,85.7
+ranker_pm,speed,Union,70.0
+ranker_pm,clean,Union,83.3
+ranker_pm,ready,Union,75.0
+ranker_pm,mngr,Union,37.5
 panda,timer,Harrison,14
 panda,wo,Harrison,#00954|Approved For Quote Request|e105 mains supply frequency issue|opened 6/2 7:32pm
 panda,timer,Union,14
@@ -313,7 +412,7 @@ coach,shift_notes,Union,Weather Normal; Labor Day; Opening; Manager Jed and Moll
 coach,line_checks,Union,LC1 Molly — Country Pot 158, Chicken Tort 155, Broccoli Cheddar 158, Red Beans 162, Tomato Bisque 161, Mac 150, Rotel 163; sanitizer 200 OOB, 4.3 in-range. LC2 Molly — S1 thermometer -38°F; sanitizer 200 OOB, 4.3 in-range.
 coach,evening_brief,Anderson,LC3 ✓ Jj 4:07pm · SN2 ✓ John 7:12pm; bank Sarah; LC3 san 236/236 OOB; call-offs/late/team/guest No
 coach,evening_bank,Anderson,Sarah
-coach,failed_temps,Anderson,LC3 COLD turkey 44, ham 45, roast beef 42, pepperoni 42, spring mix 43; salad/spud 42; S2 chicken 44, ham 43, pork 46, romaine 46, salad mix 45, cheddar jack 44; HOT country pot 145, chicken tort 144, broccoli cheddar 136, red beans 140, fire roasted veg 137, chicken & dumpling 150, tomato bisque 150, LTO soup 150, mac 145, veggie chili 160; dish 200 OOB · 3-comp 750 OK; midday freezer 6° · bankRunBy —
+coach,failed_temps,Anderson,"LC3 COLD turkey 44, ham 45, roast beef 42, pepperoni 42, spring mix 43; salad/spud 42; S2 chicken 44, ham 43, pork 46, romaine 46, salad mix 45, cheddar jack 44; HOT country pot 145, chicken tort 144, broccoli cheddar 136, red beans 140, fire roasted veg 137, chicken & dumpling 150, tomato bisque 150, LTO soup 150, mac 145, veggie chili 160; dish 200 OOB · 3-comp 750 OK; midday freezer 6° · bankRunBy —"
 coach,evening_brief,Crestview,LC3 ✓ Adrian 4:46pm · SN2 ✓ kevin 7:06pm; bank maryssa; chicken breast 42 CA; dish 200 OOB; 3-comp 700 OK; SN2 call-off garrett/ritter; late persia; midday SN1 MISS
 coach,evening_bank,Crestview,maryssa
 coach,failed_temps,Crestview,LC3 no temp fails; dish 200 OOB · 3-comp 700 OK; midday Turkey 42 CA; chicken 41 CA; Red Beans 159/164; freezer 10°/6° · bankRunBy jk
@@ -329,64 +428,67 @@ coach,failed_temps,Union,LC3 no temp fails; dish 100 OOB · 3-comp 4.3 OK; midda
 coach,evening_note,Market,Mon 9/14 LC3+SN2 all 5 ✓ (4:30am confirm no change vs 10pm); CV SN1 miss midday; san OOB all 5; CV call-off+late
 coach,brief,ScottMarket,Sun 10pm Zenput — LC3 all 5 ✓; SN2 all ✓; sideways AN cold+hot fails headline; dish OOB AN/CV/HA/UN; Coach refreshed
 coach,brief,ScottMarket,Sun 4pm Zenput — FL SN1 miss only; others LC1/LC2/SN1 ✓
-coach,midday_brief,Anderson,LC1 ✓ John 10:27am · LC2 ✓ Jj 1:14pm · SN1 ✓ Jj 4:01pm; bank Sarah; san OOB LC1 200 LC2 235/236
-coach,bank_run_by,Anderson,Sarah
-coach,midday_brief,Crestview,LC1 ✓ Adrian 9:41am · LC2 ✓ Adrian 2:28pm · SN1 MISS (Joe confirmed); on duty Jessie/Johie/Adrian/Kevin; bank —; temps cold fails; san 200
-coach,bank_run_by,Crestview,—
-coach,midday_brief,Florence,LC1 ✓ Char 7:56am · LC2 ✓ Char 1:46pm · SN1 ✓ Yaztastic 2:04pm; bank —; hot-hold 154–160; rockstar Everyone! Great Monday.
+coach,brief,ScottMarket,Tue delayed 4pm Zenput — LC1/LC2/SN1 all ✓; 10pm LC3/SN2 cancelled; san OOB all 5
+coach,midday_brief,Anderson,LC1 ✓ John 10:32am · LC2 ✓ Jj 1:29pm · SN1 ✓ Opening 2:28pm; bank Adrianna; call-off Raykell; rockstar Everyone; san OOB LC1 0.55/200 LC2 236/235
+coach,bank_run_by,Anderson,Adrianna
+coach,midday_brief,Crestview,LC1 ✓ Johie Haney 9:36am · LC2 ✓ Johie Haney 3:05pm · SN1 ✓ 2:52pm; bank maryssa; water note left; dish 200 OOB; 3-comp 700 OK
+coach,bank_run_by,Crestview,maryssa
+coach,midday_brief,Florence,LC1 ✓ Charlene 7:43am · LC2 ✓ Yaz 1:30pm · SN1 ✓ 2:06pm; bank —; National Cheese Toast Day; LC1 soups 0°F; LC2 dish 100 OOB
 coach,bank_run_by,Florence,—
-coach,midday_brief,Harrison,LC1 ✓ Nat 9:28am · LC2 ✓ reese 1:49pm · SN1 ✓ nat/ethan 3:09pm; bank nat; LC2 san 100
-coach,bank_run_by,Harrison,nat
-coach,midday_brief,Union,LC1 ✓ Molly 10:01am · LC2 ✓ Molly 2:23pm · SN1 ✓ Molly and Jed 2:28pm; bank Jed; san OOB 200
+coach,midday_brief,Harrison,LC1 ✓ Ethan 9:14am · LC2 ✓ Heidy 1:17pm · SN1 ✓ Heidy Opening 2:10pm; bank Ethan; dish 100 OOB both; LC2 3-comp 700 OK
+coach,bank_run_by,Harrison,Ethan
+coach,midday_brief,Union,LC1 ✓ Kleyer Coxaj 10:09am · LC2 ✓ Desiree 1:54pm · SN1 ✓ 2:05pm; bank Jed; dish 100 OOB; LC2 220/220 OOB; mac 159
 coach,bank_run_by,Union,Jed
-coach,miss_managers,Crestview,Jessie·Johie·Adrian·Kevin
 coach,brief,ScottMarket,Mon 4pm Zenput — CV SN1 pending Joe verify; else LC1/LC2/SN1 ✓
-midday,when,Market,9/14 4:17 PM ET
-midday,note,Crestview,LC1 roast beef 41 corned beef 43; LC2 ham 41 pork 43; san 200; SN1 MISS (Joe confirmed) — Jessie/Johie/Adrian/Kevin
-midday,flag,Crestview,temps
-midday,flag,Crestview,sanitizer
-midday,note,Florence,LC1 hot-hold 154–160; bank —; rockstar Everyone! Great Monday.
-midday,flag,Florence,temps
-midday,flag,Florence,bank
-midday,note,Anderson,LC1 san 200; LC2 san 235/236
+midday,when,Market,9/15 ~10:01 PM ET
+midday,note,Anderson,call-off Raykell; rockstar Everyone; LC1 dish 0.55/3-comp 200 OOB; LC2 236/235 OOB
 midday,flag,Anderson,sanitizer
-midday,note,Union,LC1/LC2 san 200
+midday,flag,Anderson,calloff
+midday,note,Crestview,water note left; dish 200 OOB; 3-comp 700 OK
+midday,flag,Crestview,sanitizer
+midday,note,Florence,National Cheese Toast Day; LC1 soups 0°F; LC2 dish 100 OOB; bank —
+midday,flag,Florence,temps
+midday,flag,Florence,sanitizer
+midday,flag,Florence,bank
+midday,note,Harrison,dish 100 OOB both; LC2 3-comp 700 OK
+midday,flag,Harrison,sanitizer
+midday,note,Union,LC1 dish 100 OOB; LC2 220/220 OOB; mac 159
 midday,flag,Union,sanitizer
-midday,note,Harrison,LC2 dish-ish san 100; bank nat
-midday,bank_run_by,Anderson,Sarah
-midday,bank_run_by,Crestview,—
+midday,flag,Union,temps
+midday,bank_run_by,Anderson,Adrianna
+midday,bank_run_by,Crestview,maryssa
 midday,bank_run_by,Florence,—
-midday,bank_run_by,Harrison,nat
+midday,bank_run_by,Harrison,Ethan
 midday,bank_run_by,Union,Jed
-midday,note,Market,Crestview SN1 MISS Joe confirmed 4:26 PM; no email until draft approval
-midday,miss_managers,Crestview,Jessie·Johie·Adrian·Kevin
-midday,flag,Crestview,sn1_miss
+midday,note,Market,delayed 4pm pull ~10:01 PM ET; all LC1/LC2/SN1 ✓ — no misses; no guest complaints; no sn1_miss
 alerts,open,Anderson,0
 alerts,open,Crestview,0
 alerts,open,Florence,0
-alerts,open,Harrison,2
-alerts,open,Union,0
-alerts,at,Market,9/14 7:31 PM ET
-alerts,opened_at,Harrison,9/14 4:56 PM ET
-alerts,opened_at,Harrison,9/13 8:21 PM ET
-alerts,note,Harrison,2 open — cold melt (opened 9/14 4:56 PM); Doritos side (opened 9/13 8:21 PM)
-opp,row,Harrison,9/14 4:56 PM Contact Us — Ham Cheese melt served cold expected hot melt · no reward sent · OPEN NEW
-opp,status,Harrison,OPEN NEW
+alerts,open,Harrison,0
+alerts,open,Union,1
+alerts,at,Market,9/15 9:55 PM ET
+alerts,opened_at,Union,9/15 7:29 PM ET
+alerts,note,Union,1 open — Contact Us missing chili/nachos + lemonade + service (opened 9/15 7:29 PM ET)
+opp,row,Union,9/15 7:29 PM Contact Us — missing chili/nachos + lemonade + service · no reward · OPEN NEW
+opp,status,Union,OPEN NEW
+opp,reward,Union,no reward
+opp,row,Harrison,9/14 4:56 PM Contact Us — Ham Cheese melt served cold expected hot melt · no reward sent · CLOSED
+opp,status,Harrison,CLOSED
 opp,reward,Harrison,no reward sent
-opp,row,Harrison,9/13 8:21 PM Contact Us — Paid Doritos side missing repeat · no reward sent · OPEN IN PROGRESS
-opp,status,Harrison,OPEN IN PROGRESS
+opp,row,Harrison,9/13 8:21 PM Contact Us — Paid Doritos side missing repeat · no reward sent · CLOSED
+opp,status,Harrison,CLOSED
 opp,reward,Harrison,no reward sent
 opp,row,Anderson,9/13 6:00 PM Contact Us — Bacon portion photo mismatch · reward Yes · CLOSED
 opp,status,Anderson,CLOSED
 opp,reward,Anderson,Yes
-opp,row,Crestview,9/12 9:43 PM Contact Us — Choose 2 portion too small · reward Yes · CLOSED
-opp,status,Crestview,CLOSED
-opp,reward,Crestview,Yes
-opp,at,Market,9/14 7:31 PM ET
-opp,note,Market,MUST refresh Mon night — 4 rows (2 open HA)
-opp,count,Market,4
-opp,card_date,Market,2026-09-14
-opp,title,Market,Market Opportunities · updated 9/14
+opp,row,Florence,9/14 11:31 AM Contact Us — Jalapeno chips catering complaint · no reward · CLOSED
+opp,status,Florence,CLOSED
+opp,reward,Florence,no reward
+opp,at,Market,9/15 9:55 PM ET
+opp,note,Market,MUST refresh Tue night — 5 rows (1 open UN)
+opp,count,Market,5
+opp,card_date,Market,2026-09-15
+opp,title,Market,Market Opportunities · updated 9/15
 rockstars,2026-08-31,Florence,Louis — Louis learning more sandwiches!
 rockstars,2026-08-31,Harrison,Lil Maddie — Lil Maddie
 rockstars,2026-08-31,Anderson,Everyone — Everyone
@@ -407,30 +509,33 @@ rockstars,2026-09-07,Florence,Bianca — patient rewards help
 rockstars,2026-09-07,Union,Milinda — friendly service
 rockstars,2026-09-11,Anderson,Evelyn — CARRY
 rockstars,2026-09-12,Union,Melinda — CARRY
-rockstars,2026-09-14,Anderson,Sarah — NEW (Catering Rockstar)
+rockstars,2026-09-14,Anderson,Sarah — CARRY (Catering Rockstar)
 catering_guest_surveys,row,Anderson,9/14 6:32 PM 5★ sandwiches amazing shower guests happy
 catering_guest_surveys,row,Florence,9/14 11:31 AM 4★ Jalapeno Chips complaint Contact CLOSED
 catering_guest_surveys,row,Anderson,9/14 10:30 AM 5★ Sarah accommodating on-time presentation
-catering_guest_surveys,at,Market,9/14 7:31 PM ET
+catering_guest_surveys,at,Market,9/15 9:55 PM ET
 catering_guest_surveys,note,Market,Post Catering Experience only — not GF 5★/MO
-coach,guest,Harrison,9/14 4:56 PM OPEN NEW — Wrong temp prep on melt
-coach,guest,Harrison,9/13 8:21 PM OPEN IN PROGRESS — Missing paid side repeat
-gf,rockstars_today,Market,Sarah Anderson NEW (Catering)
-gf,at,Market,9/14 7:31 PM ET
-gf,note,Market,Market Opps refreshed; alerts HA2
-coach,bankRunBy,Anderson,Sarah
+coach,guest,Union,9/15 7:29 PM OPEN NEW — missing chili/nachos + lemonade + service
+coach,guest,Harrison,9/15 12:49 PM 1★ Post Meal — no comment; follow-up candidate
+coach,guest,Harrison,9/14 4:56 PM CLOSED — melt cold
+coach,guest,Harrison,9/13 8:21 PM CLOSED — Doritos side
+coach,guest,Anderson,9/13 6:00 PM CLOSED — Bacon portion photo mismatch
+gf,rockstars_today,Market,Sarah Anderson CARRY (Catering)
+gf,at,Market,9/15 9:55 PM ET
+gf,note,Market,Market Opps refreshed; alerts UN1 OPEN NEW; prior HA melt/Doritos CLOSED
+coach,bankRunBy,Anderson,Adrianna
 coach,temps,Anderson,LC3 san 236/236 OOB
 coach,other,Anderson,LC3 ✓ Jj 4:07p; SN2 ✓ John 7:12p; call-offs/late/team/guest No
 coach,bankRunBy,Crestview,maryssa
 coach,temps,Crestview,LC3 dish 200 OOB; chicken breast 42 CA; 3-comp 700 OK
 coach,other,Crestview,LC3 ✓ Adrian 4:46p; SN2 ✓ kevin 7:06p; call-offs Yes; late Yes (persia); team/guest No; midday SN1 miss carry Jessie·Johie·Adrian·Kevin
-coach,bankRunBy,Florence,Charles
+coach,bankRunBy,Florence,—
 coach,temps,Florence,LC3 dish/3-comp 100 OOB; Chicken & Dumpling/LTO 0°F shown
 coach,other,Florence,LC3 ✓ Yaz 4:38p; SN2 ✓ Yaz 7:13p; rockstar Everyone!; call-offs/late/team/guest No
-coach,bankRunBy,Harrison,Nat
+coach,bankRunBy,Harrison,Ethan
 coach,temps,Harrison,LC3 dish 100 OOB; 3-comp 700 OK; walk-in/freezer −10 shown
 coach,other,Harrison,LC3 ✓ reese 4:12p; SN2 ✓ Angie 7:15p; call-offs/late/team/guest No; GF open: melt cold NEW 4:56p; Doritos IN PROGRESS 9/13
-coach,bankRunBy,Union,jed
+coach,bankRunBy,Union,Jed
 coach,temps,Union,LC3 dish 100 OOB; 3-comp 4.3 OK
 coach,other,Union,LC3 ✓ Sofie 4:34p; SN2 ✓ sofie 7:27p; call-offs/late/team/guest No
 lines,date,Market,2026-09-04
@@ -599,217 +704,146 @@ lines,lc2,Union,1
 lines,lc3,Union,1
 lines,sn1,Union,1
 lines,sn2,Union,1
-lc_sn,date,Market,2026-09-14
-lc_sn,at,Market,9/15 5:22 AM ET 4:30am Zenput Mon 9/14 LC3+SN2
-lc_sn,source,Market,4:30am Zenput confirm Mon 9/14 LC3+SN2 all ✓ no change vs 10pm
-lc_sn,lc3,Anderson,1
-lc_sn,lc3_by,Anderson,Jj 4:07pm
-lc_sn,sn2,Anderson,1
-lc_sn,sn2_by,Anderson,John 7:12pm
-lc_sn,bank_run_by,Anderson,Sarah
-lc_sn,lc3,Crestview,1
-lc_sn,lc3_by,Crestview,Adrian 4:46pm
-lc_sn,sn2,Crestview,1
-lc_sn,sn2_by,Crestview,kevin 7:06pm
+lines,date,Market,2026-09-15
+lines,lc1,Anderson,1
+lines,lc2,Anderson,1
+lines,sn1,Anderson,1
+lines,lc1,Crestview,1
+lines,lc2,Crestview,1
+lines,sn1,Crestview,1
+lines,lc1,Florence,1
+lines,lc2,Florence,1
+lines,sn1,Florence,1
+lines,lc1,Harrison,1
+lines,lc2,Harrison,1
+lines,sn1,Harrison,1
+lines,lc1,Union,1
+lines,lc2,Union,1
+lines,sn1,Union,1
+lc_sn,lc1,Anderson,1
+lc_sn,lc2,Anderson,1
+lc_sn,sn1,Anderson,1
+lc_sn,lc1_by,Anderson,John 10:32am
+lc_sn,lc2_by,Anderson,Jj 1:29pm
+lc_sn,sn1_by,Anderson,Opening 2:28pm
+lc_sn,bank_run_by,Anderson,Adrianna
+lc_sn,lc1,Crestview,1
+lc_sn,lc2,Crestview,1
+lc_sn,sn1,Crestview,1
+lc_sn,lc1_by,Crestview,Johie Haney 9:36am
+lc_sn,lc2_by,Crestview,Johie Haney 3:05pm
+lc_sn,sn1_by,Crestview,2:52pm
 lc_sn,bank_run_by,Crestview,maryssa
-lc_sn,lc3,Florence,1
-lc_sn,lc3_by,Florence,Yaz 4:38pm
-lc_sn,sn2,Florence,1
-lc_sn,sn2_by,Florence,Yaz 7:13pm
-lc_sn,bank_run_by,Florence,Charles
-lc_sn,lc3,Harrison,1
-lc_sn,lc3_by,Harrison,reese 4:12pm
-lc_sn,sn2,Harrison,1
-lc_sn,sn2_by,Harrison,Angie 7:15pm
-lc_sn,bank_run_by,Harrison,Nat
-lc_sn,lc3,Union,1
-lc_sn,lc3_by,Union,Sofie 4:34pm
-lc_sn,sn2,Union,1
-lc_sn,sn2_by,Union,sofie 7:27pm
-lc_sn,bank_run_by,Union,jed
-lc_sn,evening_at,Market,9/15 5:22 AM ET
-lc_sn,evening_note,Market,Mon 9/14 LC3+SN2 all ✓ 4:30am confirm; no change vs 10pm; CV SN1 miss midday only
+lc_sn,lc1,Florence,1
+lc_sn,lc2,Florence,1
+lc_sn,sn1,Florence,1
+lc_sn,lc1_by,Florence,Charlene 7:43am
+lc_sn,lc2_by,Florence,Yaz 1:30pm
+lc_sn,sn1_by,Florence,2:06pm
+lc_sn,bank_run_by,Florence,—
+lc_sn,lc1,Harrison,1
+lc_sn,lc2,Harrison,1
+lc_sn,sn1,Harrison,1
+lc_sn,lc1_by,Harrison,Ethan 9:14am
+lc_sn,lc2_by,Harrison,Heidy 1:17pm
+lc_sn,sn1_by,Harrison,Heidy Opening 2:10pm
+lc_sn,bank_run_by,Harrison,Ethan
+lc_sn,lc1,Union,1
+lc_sn,lc2,Union,1
+lc_sn,sn1,Union,1
+lc_sn,lc1_by,Union,Kleyer Coxaj 10:09am
+lc_sn,lc2_by,Union,Desiree 1:54pm
+lc_sn,sn1_by,Union,2:05pm
+lc_sn,bank_run_by,Union,Jed
+lc_sn,at,Market,9/15 ~10:01 PM ET delayed 4pm Zenput Tue LC1+LC2+SN1
+lc_sn,source,Market,Zenput delayed 4pm Tue 9/15 LC1/LC2/SN1 all ✓; 10pm LC3/SN2 cancelled
+lc_sn,midday_at,Market,9/15 ~10:01 PM ET
+lc_sn,midday_note,Market,all LC1/LC2/SN1 ✓ — no misses; sanitizer OOB all 5; FL soups 0; AN call-off Raykell; no sn1_miss
 mnky_today,date,Market,2026-09-15
-mnky_today,closed,Anderson,—
-mnky_today,open,Anderson,5
-mnky_today,total,Anderson,5
-mnky_today,total_sales,Anderson,1797.52
+mnky_today,closed,Anderson,6
+mnky_today,open,Anderson,0
+mnky_today,total,Anderson,6
+mnky_today,total_sales,Anderson,2000.07
 mnky_today,flags,Anderson,—
-mnky_today,closed,Crestview,—
-mnky_today,open,Crestview,6
-mnky_today,total,Crestview,6
-mnky_today,total_sales,Crestview,1246.38
+mnky_today,closed,Crestview,8
+mnky_today,open,Crestview,0
+mnky_today,total,Crestview,8
+mnky_today,total_sales,Crestview,1833.79
 mnky_today,flags,Crestview,—
-mnky_today,closed,Florence,—
-mnky_today,open,Florence,6
+mnky_today,closed,Florence,6
+mnky_today,open,Florence,0
 mnky_today,total,Florence,6
-mnky_today,total_sales,Florence,2140.77
+mnky_today,total_sales,Florence,2170.77
 mnky_today,flags,Florence,—
-mnky_today,closed,Harrison,—
-mnky_today,open,Harrison,2
+mnky_today,closed,Harrison,2
+mnky_today,open,Harrison,0
 mnky_today,total,Harrison,2
 mnky_today,total_sales,Harrison,892.62
 mnky_today,flags,Harrison,—
-mnky_today,closed,Union,—
-mnky_today,open,Union,3
+mnky_today,closed,Union,3
+mnky_today,open,Union,0
 mnky_today,total,Union,3
 mnky_today,total_sales,Union,541.71
 mnky_today,flags,Union,—
-mnky_today,closed,ScottMarket,—
-mnky_today,open,ScottMarket,22
-mnky_today,total,ScottMarket,22
-mnky_today,total_sales,ScottMarket,6619.0
+mnky_today,closed,ScottMarket,25
+mnky_today,open,ScottMarket,0
+mnky_today,total,ScottMarket,25
+mnky_today,total_sales,ScottMarket,7438.96
 mnky_today,flags,ScottMarket,—
 mnky_today,unclosed_footer,Market,—
 mnky_tomorrow,date,Market,2026-09-16
 mnky_tomorrow,closed,Anderson,0
-mnky_tomorrow,open,Anderson,1
-mnky_tomorrow,total,Anderson,1
-mnky_tomorrow,orders,Anderson,1
-mnky_tomorrow,sales,Anderson,1610.82
-mnky_tomorrow,flags,Anderson,—
+mnky_tomorrow,open,Anderson,3
+mnky_tomorrow,total,Anderson,3
+mnky_tomorrow,orders,Anderson,3
+mnky_tomorrow,sales,Anderson,2120.47
+mnky_tomorrow,flags,Anderson,2 purple
 mnky_tomorrow,closed,Crestview,0
-mnky_tomorrow,open,Crestview,3
-mnky_tomorrow,total,Crestview,3
-mnky_tomorrow,orders,Crestview,3
-mnky_tomorrow,sales,Crestview,1173.41
-mnky_tomorrow,flags,Crestview,—
+mnky_tomorrow,open,Crestview,5
+mnky_tomorrow,total,Crestview,5
+mnky_tomorrow,orders,Crestview,5
+mnky_tomorrow,sales,Crestview,1598.47
+mnky_tomorrow,flags,Crestview,1 purple
 mnky_tomorrow,closed,Florence,0
-mnky_tomorrow,open,Florence,1
-mnky_tomorrow,total,Florence,1
-mnky_tomorrow,orders,Florence,1
-mnky_tomorrow,sales,Florence,239.2
+mnky_tomorrow,open,Florence,2
+mnky_tomorrow,total,Florence,2
+mnky_tomorrow,orders,Florence,2
+mnky_tomorrow,sales,Florence,483.49
 mnky_tomorrow,flags,Florence,—
 mnky_tomorrow,closed,Harrison,0
-mnky_tomorrow,open,Harrison,2
-mnky_tomorrow,total,Harrison,2
-mnky_tomorrow,orders,Harrison,2
-mnky_tomorrow,sales,Harrison,1386.19
+mnky_tomorrow,open,Harrison,3
+mnky_tomorrow,total,Harrison,3
+mnky_tomorrow,orders,Harrison,3
+mnky_tomorrow,sales,Harrison,1634.29
 mnky_tomorrow,flags,Harrison,—
 mnky_tomorrow,closed,Union,0
-mnky_tomorrow,open,Union,1
-mnky_tomorrow,total,Union,1
-mnky_tomorrow,orders,Union,1
-mnky_tomorrow,sales,Union,1187.18
-mnky_tomorrow,flags,Union,—
+mnky_tomorrow,open,Union,3
+mnky_tomorrow,total,Union,3
+mnky_tomorrow,orders,Union,3
+mnky_tomorrow,sales,Union,1722.69
+mnky_tomorrow,flags,Union,1 purple
 mnky_tomorrow,closed,ScottMarket,0
-mnky_tomorrow,open,ScottMarket,8
-mnky_tomorrow,total,ScottMarket,8
-mnky_tomorrow,orders,ScottMarket,8
-mnky_tomorrow,sales,ScottMarket,5596.8
-mnky_tomorrow,flags,ScottMarket,—
+mnky_tomorrow,open,ScottMarket,16
+mnky_tomorrow,total,ScottMarket,16
+mnky_tomorrow,orders,ScottMarket,16
+mnky_tomorrow,sales,ScottMarket,7559.41
+mnky_tomorrow,flags,ScottMarket,4 purple
 mnky_week,range,Market,Thu–Sun
 mnky_week,date,Market,2026-09-17
 mnky_week,note,Market,Thu 9/17–Sun 9/20 rest of week
 mnky_week,flags,Anderson,—
-mnky_week,orders,Crestview,2
-mnky_week,sales,Crestview,5535.36
-mnky_week,flags,Crestview,—
-mnky_week,orders,Florence,2
-mnky_week,sales,Florence,3553.58
+mnky_week,orders,Crestview,5
+mnky_week,sales,Crestview,7257.67
+mnky_week,flags,Crestview,1 purple
+mnky_week,orders,Florence,5
+mnky_week,sales,Florence,4813.40
 mnky_week,flags,Florence,—
+mnky_week,orders,Harrison,1
+mnky_week,sales,Harrison,246.21
 mnky_week,flags,Harrison,—
 mnky_week,orders,Union,1
 mnky_week,sales,Union,1245.59
 mnky_week,flags,Union,—
-mnky_week,orders,ScottMarket,5
-mnky_week,sales,ScottMarket,10334.53
-mnky_week,flags,ScottMarket,—
-ranker_30,window,Market,All-day Last30 dine-in · updated 9/13
-ranker_30,title,Market,Rolling 30 · updated 9/13
-ranker_30,at,Market,9/13 6:52 PM ET
-ranker_30,note,Market,Sun 9/13 Ranker — Accuracy ~90s verified; no Scott Market row
-ranker_30,n,Anderson,105
-ranker_30,osat,Anderson,69.6
-ranker_30,quality,Anderson,73.6
-ranker_30,acc,Anderson,92.4
-ranker_30,friend,Anderson,79.8
-ranker_30,speed,Anderson,72.1
-ranker_30,clean,Anderson,78.2
-ranker_30,ready,Anderson,68.2
-ranker_30,mngr,Anderson,60.7
-ranker_30,n,Crestview,105
-ranker_30,osat,Crestview,75.0
-ranker_30,quality,Crestview,77.7
-ranker_30,acc,Crestview,94.8
-ranker_30,friend,Crestview,83.2
-ranker_30,speed,Crestview,69.7
-ranker_30,clean,Crestview,79.1
-ranker_30,ready,Crestview,66.7
-ranker_30,mngr,Crestview,59.7
-ranker_30,n,Florence,97
-ranker_30,osat,Florence,79.8
-ranker_30,quality,Florence,81.0
-ranker_30,acc,Florence,95.2
-ranker_30,friend,Florence,79.8
-ranker_30,speed,Florence,81.2
-ranker_30,clean,Florence,76.9
-ranker_30,ready,Florence,85.0
-ranker_30,mngr,Florence,68.6
-ranker_30,n,Harrison,142
-ranker_30,osat,Harrison,74.0
-ranker_30,quality,Harrison,77.8
-ranker_30,acc,Harrison,89.8
-ranker_30,friend,Harrison,81.6
-ranker_30,speed,Harrison,82.4
-ranker_30,clean,Harrison,78.0
-ranker_30,ready,Harrison,77.1
-ranker_30,mngr,Harrison,43.4
-ranker_30,n,Union,110
-ranker_30,osat,Union,79.6
-ranker_30,quality,Union,82.5
-ranker_30,acc,Union,96.1
-ranker_30,friend,Union,89.1
-ranker_30,speed,Union,84.6
-ranker_30,clean,Union,90.4
-ranker_30,ready,Union,86.4
-ranker_30,mngr,Union,58.5
-ranker_pm,window,Market,PM Dinner After 5pm · updated 9/13
-ranker_pm,title,Market,PM Dinner · updated 9/13
-ranker_pm,at,Market,9/13 6:52 PM ET
-ranker_pm,note,Market,Sun 9/13 PM Dinner Ranker — no Scott Market row
-ranker_pm,n,Anderson,21
-ranker_pm,osat,Anderson,57.1
-ranker_pm,quality,Anderson,71.4
-ranker_pm,acc,Anderson,90.5
-ranker_pm,friend,Anderson,75.0
-ranker_pm,speed,Anderson,66.7
-ranker_pm,clean,Anderson,68.4
-ranker_pm,ready,Anderson,66.7
-ranker_pm,mngr,Anderson,41.7
-ranker_pm,n,Crestview,26
-ranker_pm,osat,Crestview,69.2
-ranker_pm,quality,Crestview,80.8
-ranker_pm,acc,Crestview,92.3
-ranker_pm,friend,Crestview,76.9
-ranker_pm,speed,Crestview,57.9
-ranker_pm,clean,Crestview,65.2
-ranker_pm,ready,Crestview,50.0
-ranker_pm,mngr,Crestview,66.7
-ranker_pm,n,Florence,20
-ranker_pm,osat,Florence,80.0
-ranker_pm,quality,Florence,75.0
-ranker_pm,acc,Florence,95.0
-ranker_pm,friend,Florence,75.0
-ranker_pm,speed,Florence,68.8
-ranker_pm,clean,Florence,75.0
-ranker_pm,ready,Florence,100.0
-ranker_pm,mngr,Florence,50.0
-ranker_pm,n,Harrison,45
-ranker_pm,osat,Harrison,71.1
-ranker_pm,quality,Harrison,77.8
-ranker_pm,acc,Harrison,84.4
-ranker_pm,friend,Harrison,73.3
-ranker_pm,speed,Harrison,79.3
-ranker_pm,clean,Harrison,67.7
-ranker_pm,ready,Harrison,68.8
-ranker_pm,mngr,Harrison,13.0
-ranker_pm,n,Union,15
-ranker_pm,osat,Union,86.7
-ranker_pm,quality,Union,93.3
-ranker_pm,acc,Union,93.3
-ranker_pm,friend,Union,85.7
-ranker_pm,speed,Union,70.0
-ranker_pm,clean,Union,83.3
-ranker_pm,ready,Union,75.0
-ranker_pm,mngr,Union,37.5
+mnky_week,orders,ScottMarket,12
+mnky_week,sales,ScottMarket,13562.87
+mnky_week,flags,ScottMarket,1 purple
