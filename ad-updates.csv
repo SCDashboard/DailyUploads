@@ -1,7 +1,39 @@
 as_of_et,kind,when_et,what
-2026-09-16 6:00 AM,86s,2026-09-16 6:00 AM,updated 9/16 6:00 AM 86 list card
-2026-09-15 8:45 PM,86s,2026-09-15 8:45 PM,updated 9/15 8:45 PM 86 list card
-2026-09-15 2:00 PM,86s,2026-09-15 2:00 PM,updated 9/15 2:00 PM 86 list card
+2026-09-16 9:13 AM,stamp,,9am rollup
+2026-09-16 9:13 AM,other,2026-09-16 8:38 AM,Rebuild alarms-30d.csv from TC2 9/5-9/16 panel arm/disarm
+2026-09-16 9:13 AM,packet,2026-09-16 7:53 AM,AM 9/16 BOT overlay Monkey/Coach/GF/EZ keep DL Tue 9/15 sales
+2026-09-16 9:13 AM,packet,2026-09-16 7:46 AM,AM 9/16 Lane A DL Tue 9/15 sales/labor/cash/tix + BOT Monkey/Coach/GF
+2026-09-16 9:13 AM,tc2,2026-09-16 7:30 AM,7:30 AM ET DISARM 2026-09-16
+2026-09-16 9:13 AM,tc2,2026-09-16 6:07 AM,Union DISARMED kleyer Slot 6
+2026-09-16 9:13 AM,86s,2026-09-16 6:00 AM,updated 9/16 6:00 AM 86 list card
+2026-09-16 9:13 AM,tc2,2026-09-16 5:55 AM,Crestview DISARMED Kierstan Phelps
+2026-09-16 9:13 AM,tc2,2026-09-16 5:14 AM,Anderson DISARMED Josh Jackson
+2026-09-16 9:13 AM,tc2,2026-09-16 4:12 AM,Harrison DISARMED Russell Ferguson
+2026-09-16 9:13 AM,tc2,2026-09-16 3:54 AM,Florence DISARMED Sygma Florence
+2026-09-16 9:13 AM,tc2,2026-09-15 10:19 PM,Anderson ARMED Away Emma Cheuvront
+2026-09-16 9:13 AM,packet,2026-09-15 10:01 PM,PM 9/15 Lane A BOT Monkey/Coach/GF/EZ/Panda + Union alert 7:29p keep DL sales/labor/cash/tix
+2026-09-16 9:13 AM,tc2,2026-09-15 10:03 PM,Harrison ARMED Away Heidy Anderson
+2026-09-16 9:13 AM,catering,2026-09-15 9:35 PM,Union new_order 3658181 ezCater $363.95
+2026-09-16 9:13 AM,86s,2026-09-15 8:45 PM,updated 9/15 8:45 PM 86 list card
+2026-09-16 9:13 AM,request,2026-09-15 8:51 PM,GV (513) 568-6711 Can you order me this + amazon link
+2026-09-16 9:13 AM,request,2026-09-15 6:47 PM,GV (859) 414-9849 I need my boss to get off AI for a bit
+2026-09-16 9:13 AM,catering,2026-09-15 6:16 PM,Anderson new_order 3657918 Tom Barry $180.70
+2026-09-16 9:13 AM,request,2026-09-15 5:56 PM,GV (513) 568-6711 Hello
+2026-09-16 9:13 AM,catering,2026-09-15 5:53 PM,Crestview new_order 3657758 Kevin Cook $272.34
+2026-09-16 9:13 AM,catering,2026-09-15 4:35 PM,Union new_order 3657656 ezCater $417.95
+2026-09-16 9:13 AM,catering,2026-09-15 4:29 PM,Crestview new_order 3657440 Cathee Boitman $1063.52
+2026-09-16 9:13 AM,tc2,2026-09-15 9:40 PM,Crestview ARMED Away Adrianna Huddleston
+2026-09-16 9:13 AM,catering,2026-09-15 3:04 PM,Florence new_order 3657165 Annette Hampton $329.90
+2026-09-16 9:13 AM,catering,2026-09-15 3:04 PM,Union new_order 3656833 Melanie Millson $171.56
+2026-09-16 9:13 AM,catering,2026-09-15 3:04 PM,Florence new_order 3656721 ezCater $527.53
+2026-09-16 9:13 AM,catering,2026-09-15 3:04 PM,Crestview new_order 3656565 Jenny Reinersman $152.72
+2026-09-16 9:13 AM,catering,2026-09-15 3:04 PM,Crestview new_order 3655241 Tyler Funk $498.39
+2026-09-16 9:13 AM,catering,2026-09-15 3:04 PM,Florence new_order 3655186 Alec Fisher $257.87
+2026-09-16 9:13 AM,catering,2026-09-15 3:04 PM,Crestview new_order 3654810 ezCater $291.96
+2026-09-16 9:13 AM,catering,2026-09-15 3:04 PM,Florence new_order 3654808 ezCater $244.29
+2026-09-16 9:13 AM,catering,2026-09-15 3:04 PM,Florence new_order 3654705 Katie Beiger $474.42
+2026-09-16 9:13 AM,catering,2026-09-15 3:04 PM,Crestview new_order 3651654 theresa gray $160.40
+2026-09-16 9:13 AM,86s,2026-09-15 2:00 PM,updated 9/15 2:00 PM 86 list card
 2026-09-15 9:17 AM,stamp,,9am rollup
 2026-09-15 9:17 AM,packet,2026-09-15 7:56 AM,AM 9/15 Lane A DL Mon 9/14 sales/labor/cash/tix + Director Monkey/Coach/EZ/Panda
 2026-09-15 9:17 AM,tc2,2026-09-15 7:30 AM,7:30 AM ET DISARM 2026-09-15
