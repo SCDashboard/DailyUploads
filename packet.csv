@@ -3,7 +3,7 @@ today_date,2026-09-16
 yesterday_date,2026-09-15
 report_date,2026-09-16
 numbers_date,2026-09-15
-updated_at,9/16 ~8:27 PM ET
+updated_at,9/16 ~8:54 PM ET
 slot,PM
 am_status,COMPLETE_AM_READY
 pm_status,COMPLETE_EARLY_PM
@@ -278,9 +278,9 @@ catering_guest_surveys,row,Florence,9/14 11:31 AM 4★ Jalapeno Chips complaint 
 catering_guest_surveys,row,Anderson,9/14 10:30 AM 5★ Sarah accommodating on-time presentation
 catering_guest_surveys,at,Market,9/16 8:24 PM ET
 catering_guest_surveys,note,Market,Post Catering Experience only — not GF 5★/MO
-catering_guest_surveys,row,Union,9/16 3:59 PM 5★ — Angie/team
+catering_guest_surveys,row,Union,9/16 3:59 PM 5★ — praised Angie and her team for confirming and arranging a late delivery and consistently excellent service
 catering_guest_surveys,row,Florence,9/16 10:13 AM 5★ — on time/fresh
-catering_guest_surveys,row,Anderson,9/16 9:22 AM 5★ — Adriana same-day
+catering_guest_surveys,row,Anderson,9/16 9:22 AM 5★ — Catering Coordinator Adriana friendly and accommodating a same-day delivery
 catering_guest_surveys,row,Crestview,9/16 9:07 AM 5★ — online order correct
 coach,guest,Union,9/15 7:29 PM OPEN NEW — missing chili/nachos + lemonade + service
 coach,guest,Harrison,9/15 12:49 PM 1★ Post Meal — no comment; follow-up candidate
@@ -785,5 +785,6 @@ rockstars,2026-09-07,Union,Milinda — friendly service
 rockstars,2026-09-11,Anderson,Evelyn — CARRY
 rockstars,2026-09-12,Union,Melinda — CARRY
 rockstars,2026-09-14,Anderson,Sarah — CARRY (Catering Rockstar)
-rockstars,2026-09-16,Union,Angie — NEW (Catering Rockstar 3:59 PM)
-rockstars,2026-09-16,Anderson,Adriana — NEW (Catering Rockstar 9:22 AM)
+rockstars,2026-09-16,Union,Angie — guest: praised Angie and her team for confirming and arranging a late delivery and consistently excellent service (catering 3:59 PM)
+rockstars,2026-09-16,Anderson,Adriana — guest: Catering Coordinator Adriana friendly and accommodating a same-day delivery (catering 9:22 AM)
+news,birthday,Anderson,9/14 Birthday: Lilli Wright — Anderson
