@@ -1,1 +1,10 @@
-PLACEHOLDER
+key,value
+today_date,2026-09-17
+yesterday_date,2026-09-16
+report_date,2026-09-17
+numbers_date,2026-09-16
+updated_at,9/17 ~7:52 PM ET
+slot,PM
+pm_status,COMPLETE_EARLY_PM
+lane_split,PACKET_CUT,Market,Director owns Monkey/Zenput/GF/EZ/Panda only — DL sales/labor/cash/tickets/schedules go to Grok chat
+packet_format,lock,Market,plain CSV; no quotes; omit missing; never invent; Lane B never
