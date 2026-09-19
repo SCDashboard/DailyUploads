@@ -1,1 +1,17 @@
-PLACEHOLDER
+key,value
+today_date,2026-09-18
+yesterday_date,2026-09-17
+report_date,2026-09-18
+numbers_date,2026-09-17
+updated_at,9/18 ~10:48 AM ET
+slot,AM
+am_status,COMPLETE_AM_READY
+lane_split,PACKET_CUT
+packet_format,plain CSV; Lane B never
+86s,count,Anderson,4
+86s,count,Crestview,3
+86s,count,Florence,3
+86s,count,Harrison,17
+86s,count,Union,2
+86s,slot,Market,pm
+86s,when_et,Market,2026-09-18 8:45 PM
