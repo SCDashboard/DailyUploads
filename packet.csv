@@ -1,1 +1,10 @@
-SEE_FILE
+key,value
+today_date,2026-09-19
+yesterday_date,2026-09-18
+report_date,2026-09-19
+numbers_date,2026-09-18
+updated_at,9/19 ~12:12 PM ET
+slot,AM
+am_status,COMPLETE_AM_READY
+lane_split,PACKET_CUT
+packet_format,plain CSV; Lane B never
