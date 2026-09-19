@@ -13,5 +13,5 @@ packet_format,plain CSV; Lane B never
 86s,count,Florence,3
 86s,count,Harrison,17
 86s,count,Union,2
-86s,slot,Market,am
-86s,when_et,Market,2026-09-19 6:00 AM
+86s,slot,Market,1030
+86s,when_et,Market,2026-09-19 10:30 AM
