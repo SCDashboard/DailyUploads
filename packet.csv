@@ -3,7 +3,7 @@ today_date,2026-09-20
 yesterday_date,2026-09-19
 report_date,2026-09-20
 numbers_date,2026-09-19
-updated_at,9/20 ~10:42 AM ET
+updated_at,9/20 11:11 AM ET
 slot,AM
 am_status,COMPLETE_AM_READY
 lane_split,PACKET_CUT
@@ -303,22 +303,22 @@ coach,guest,Florence,9/19 CLOSED 3★ cashier unfriendly — reward SENT Yes; 9/
 coach,guest,Crestview,9/18 CLOSED Contact Us wrong sandwich — reward SENT Yes; 9/17 4★ forgot chips
 gf,rockstars_today,Market,Angie UN×2 + Adriana AN (full comments)
 gf,at,Market,9/19 7:00 PM ET
-gf,note,Market,MO refreshed tonight: HA 2 OPEN (Diet Coke NEW 6:38 + Fri toppings still open); AN 2★ small sandwich; UN food-poisoning Contact Us; carry UN 9/16 2★ + 9/15 chili/lemonade; CLOSED FL 9/19 cashier reward Yes · CV 9/18 reward Yes · HA 9/17×3 · FL 9/16; alerts HA2; Monkey PM SKIPPED
-coach,bankRunBy,Anderson,Sarah
-coach,temps,Anderson,Fri 9/18 LC3 dish 200 OOB; walk-in 9; hots
-coach,other,Anderson,Fri 9/18 LC3 ✓ Emma Cheuvront 4:32pm; SN2 ✓ Emma Closing 9:56pm; bank Sarah
-coach,bankRunBy,Crestview,Maryssa
-coach,temps,Crestview,Fri 9/18 LC3 dish 200; freezer 7
-coach,other,Crestview,Fri 9/18 LC3 ✓ Adrian 4:26pm (Project=5PM counted); SN2 ✓ Adrian Closing 8:08pm; bank Maryssa; SN2 Natalie call-off; Lily NCNS; Maleah late 30
-coach,bankRunBy,Florence,Charles
-coach,temps,Florence,Fri 9/18 LC3 dish 150
-coach,other,Florence,Fri 9/18 LC3 ✓ Charles 5:07pm; SN2 ✓ Charles Closing 7:24pm; bank Charles
-coach,bankRunBy,Harrison,—
-coach,temps,Harrison,Fri 9/18 LC3 dish 100; walk-in 10; S1 42; chicken 40.9
-coach,other,Harrison,Fri 9/18 LC3 ✓ daniah 4:35pm; SN2 ✓ Angie Closing 7:11pm; bank — (deposits No); rockstars Robert/Naomi/Christian
+gf,note,Market,MO refreshed tonight: HA 2 OPEN (Diet Coke NEW 6:38 + Fri toppings still open); AN 2★ small sandwich; UN food-poisoning Contact Us; carry UN 9/16 2★ + 9/15 chili/lemonade; CLOSED FL 9/19 cashier reward Yes · CV 9/18 reward Yes · HA 9/17×3 · FL 9/16; alerts HA2; Monkey Sunday AM SKIPPED per Joe — no Sunday AM catering/Monkey; Sun PM only
+coach,bankRunBy,Anderson,John
+coach,temps,Anderson,Sat 9/19 LC3 dish 200 OOB; 3-comp 750 IN
+coach,other,Anderson,Sat 9/19 LC3 ✓ Emma 5:36pm 5PM; SN2 ✓ Emma Closing 9:54pm PM; bank John; fruit/veg wash No — Call Ecolab for service; S2=No
+coach,bankRunBy,Crestview,Kevin
+coach,temps,Crestview,Sat 9/19 LC3 S1 Roast Beef 44°F CA ice bath; S1 Corned Beef 41°F CA close lid; dish 200 OOB; 3-comp 700 IN; freezer 7°F recorded
+coach,other,Crestview,Sat 9/19 LC3 ✓ Adrian 4:14pm 5PM; SN2 ✓ Maria Closing 7:30pm PM; bank Kevin; Turkey portions 2/2/1.9 OUT (<2.1); blank hots; S2=No
+coach,bankRunBy,Florence,Kyle
+coach,temps,Florence,Sat 9/19 LC3 dish 150 OOB; 3-comp 700 IN
+coach,other,Florence,Sat 9/19 LC3 ✓ Charles 4:31pm 5PM; SN2 ✓ Kyle Closing 7:13pm PM; bank Kyle; Ham portions 1.9/2/1.9 OUT (<2.1); Alley Rally No; S2=No
+coach,bankRunBy,Harrison,nat
+coach,temps,Harrison,Sat 9/19 LC3 dish 100 OOB; 3-comp 700 IN
+coach,other,Harrison,Sat 9/19 LC3 ✓ Angie 4:54pm 5PM; SN2 ✓ angie Closing 7:16pm PM; bank nat; fruit/veg wash No — Replace solution at source; S2=No
 coach,bankRunBy,Union,—
-coach,temps,Union,Fri 9/18 LC3 dish 100
-coach,other,Union,Fri 9/18 LC3 ✓ sofie 4:29pm; SN2 miss locked X/0 (only AM Kleyer); bank —; miss screenshot /workspace/shots/sat-919-am/sn2-fri918-list-union-miss.png
+coach,temps,Union,Sat 9/19 LC3 dish 200 OOB; 3-comp 4.3 OUT
+coach,other,Union,Sat 9/19 LC3 ✓ Molly 5:31pm 5PM; SN2 ✓ Desiree 7:01pm PM (Opening Manager on PM — counts); bank —; blank hots; S2=No
 lines,date,Market,2026-09-04
 lines,lc3,Anderson,1
 lines,sn2,Anderson,1
@@ -592,28 +592,54 @@ lines,sn2,Union,0
 lines,date,Market,2026-09-19
 lines,lc1,Anderson,1
 lines,lc2,Anderson,1
-lines,lc3,Anderson,0
+lines,lc3,Anderson,1
 lines,sn1,Anderson,1
-lines,sn2,Anderson,0
+lines,sn2,Anderson,1
 lines,lc1,Crestview,1
 lines,lc2,Crestview,1
-lines,lc3,Crestview,0
+lines,lc3,Crestview,1
 lines,sn1,Crestview,1
-lines,sn2,Crestview,0
+lines,sn2,Crestview,1
 lines,lc1,Florence,1
 lines,lc2,Florence,1
-lines,lc3,Florence,0
+lines,lc3,Florence,1
 lines,sn1,Florence,1
-lines,sn2,Florence,0
+lines,sn2,Florence,1
 lines,lc1,Harrison,1
 lines,lc2,Harrison,1
-lines,lc3,Harrison,0
+lines,lc3,Harrison,1
 lines,sn1,Harrison,1
-lines,sn2,Harrison,0
+lines,sn2,Harrison,1
 lines,lc1,Union,1
 lines,lc2,Union,1
-lines,lc3,Union,0
+lines,lc3,Union,1
 lines,sn1,Union,1
+lines,sn2,Union,1
+lines,date,Market,2026-09-20
+lines,lc1,Anderson,0
+lines,lc2,Anderson,0
+lines,lc3,Anderson,0
+lines,sn1,Anderson,0
+lines,sn2,Anderson,0
+lines,lc1,Crestview,0
+lines,lc2,Crestview,0
+lines,lc3,Crestview,0
+lines,sn1,Crestview,0
+lines,sn2,Crestview,0
+lines,lc1,Florence,0
+lines,lc2,Florence,0
+lines,lc3,Florence,0
+lines,sn1,Florence,0
+lines,sn2,Florence,0
+lines,lc1,Harrison,0
+lines,lc2,Harrison,0
+lines,lc3,Harrison,0
+lines,sn1,Harrison,0
+lines,sn2,Harrison,0
+lines,lc1,Union,0
+lines,lc2,Union,0
+lines,lc3,Union,0
+lines,sn1,Union,0
 lines,sn2,Union,0
 ez_cater,star,Anderson,5
 ez_cater,rockstar,Anderson,YES
@@ -646,41 +672,41 @@ ez_cater,on_time,ScottMarket,99.4
 ez_cater,acc,ScottMarket,99.7
 ez_cater,tracking,ScottMarket,94.8
 ez_cater,at,Market,9/18 5:38 AM ET
-ez_cater,note,Market,Fri 9/18 EZ cols preserved (Sat not MWF); osat30+osat90 folded from Fri night GF HOLD; HA Rockstar still NO
-lc_sn,lc1,Anderson,1
-lc_sn,lc1_by,Anderson,John 10:38am
-lc_sn,lc2,Anderson,1
-lc_sn,lc2_by,Anderson,John 2:54pm
-lc_sn,sn1,Anderson,1
-lc_sn,sn1_by,Anderson,John Opening 3:28pm
-lc_sn,bank_run_by,Anderson,—
-lc_sn,lc1,Crestview,1
-lc_sn,lc1_by,Crestview,Adrian 9:19am
-lc_sn,lc2,Crestview,1
-lc_sn,lc2_by,Crestview,Adrian 2:36pm
-lc_sn,sn1,Crestview,1
-lc_sn,sn1_by,Crestview,kevin Opening 2:36pm
-lc_sn,bank_run_by,Crestview,kevin
-lc_sn,lc1,Florence,1
-lc_sn,lc1_by,Florence,Charles 9:47am
-lc_sn,lc2,Florence,1
-lc_sn,lc2_by,Florence,Charles 2:55pm
-lc_sn,sn1,Florence,1
-lc_sn,sn1_by,Florence,Charles Opening 2:02pm
-lc_sn,bank_run_by,Florence,Charles
-lc_sn,lc1,Harrison,1
-lc_sn,lc1_by,Harrison,Nat 9:34am
-lc_sn,lc2,Harrison,1
-lc_sn,lc2_by,Harrison,Nat 2:00pm
-lc_sn,sn1,Harrison,1
-lc_sn,sn1_by,Harrison,Nat Opening 2:09pm
-lc_sn,bank_run_by,Harrison,Nat
-lc_sn,lc1,Union,1
-lc_sn,lc1_by,Union,Desiree 10:02am
-lc_sn,lc2,Union,1
-lc_sn,lc2_by,Union,Desiree 3:07pm
-lc_sn,sn1,Union,1
-lc_sn,sn1_by,Union,Molly 3:24pm AM Project (Closing Manager label)
+ez_cater,note,Market,Sun 9/20 skip (not MWF); Fri 9/18 EZ cols + osat30/osat90 preserved; HA Rockstar still NO
+lc_sn,lc1,Anderson,0
+lc_sn,lc1_by,Anderson,—
+lc_sn,lc2,Anderson,0
+lc_sn,lc2_by,Anderson,—
+lc_sn,sn1,Anderson,0
+lc_sn,sn1_by,Anderson,—
+lc_sn,bank_run_by,Anderson,John
+lc_sn,lc1,Crestview,0
+lc_sn,lc1_by,Crestview,—
+lc_sn,lc2,Crestview,0
+lc_sn,lc2_by,Crestview,—
+lc_sn,sn1,Crestview,0
+lc_sn,sn1_by,Crestview,—
+lc_sn,bank_run_by,Crestview,Kevin
+lc_sn,lc1,Florence,0
+lc_sn,lc1_by,Florence,—
+lc_sn,lc2,Florence,0
+lc_sn,lc2_by,Florence,—
+lc_sn,sn1,Florence,0
+lc_sn,sn1_by,Florence,—
+lc_sn,bank_run_by,Florence,Kyle
+lc_sn,lc1,Harrison,0
+lc_sn,lc1_by,Harrison,—
+lc_sn,lc2,Harrison,0
+lc_sn,lc2_by,Harrison,—
+lc_sn,sn1,Harrison,0
+lc_sn,sn1_by,Harrison,—
+lc_sn,bank_run_by,Harrison,nat
+lc_sn,lc1,Union,0
+lc_sn,lc1_by,Union,—
+lc_sn,lc2,Union,0
+lc_sn,lc2_by,Union,—
+lc_sn,sn1,Union,0
+lc_sn,sn1_by,Union,—
 lc_sn,bank_run_by,Union,—
 lc_sn,at,Market,9/19 ~4:18 PM ET
 lc_sn,source,Market,Sat 9/19 4pm LC1/LC2/SN1 all ✓; no misses
@@ -750,10 +776,10 @@ coach,guest_followup,Anderson,9/19 2★ small sandwich no pickle (no alert)
 coach,guest_followup,Union,9/18 food-poisoning Contact Us; 9/16 2★ + 9/15 Contact Us chili/lemonade still on MO
 coach,guest_followup,Florence,9/19 CLOSED cashier 3★ reward SENT Yes; 9/16 CLOSED score 4
 coach,guest_followup,Crestview,9/18 CLOSED wrong sandwich reward SENT Yes; 9/17 forgot chips 4★
-coach,bankRunBy,Anderson,—
-coach,bankRunBy,Crestview,kevin
-coach,bankRunBy,Florence,Charles
-coach,bankRunBy,Harrison,Nat
+coach,bankRunBy,Anderson,John
+coach,bankRunBy,Crestview,Kevin
+coach,bankRunBy,Florence,Kyle
+coach,bankRunBy,Harrison,nat
 coach,bankRunBy,Union,—
 coach,temps,Anderson,TODAY 3-comp 200 OOB both LCs
 coach,temps,Crestview,TODAY LC1 turkey 42°F / ham 41°F / salad turkey 41°F CA; LC2 potato salad 68°F
@@ -765,56 +791,55 @@ coach,other,Crestview,TODAY SN1 ✓ kevin Opening 2:36pm; bank kevin (deposits Y
 coach,other,Florence,TODAY SN1 ✓ Charles Opening 2:02pm; bank Charles (deposits Yes); Leo call-off; Jose late; rockstars Charlene/Yaz
 coach,other,Harrison,TODAY SN1 ✓ Nat Opening 2:09pm; bank Nat (deposits Yes); rockstar Ron (trainee Yani)
 coach,other,Union,TODAY SN1 ✓ Molly 3:24pm AM Project (Closing Manager label); bank — (deposits N/A); smooth shift; guests happy (guest field No)
-lc_sn,date,Market,2026-09-18
+lc_sn,date,Market,2026-09-19
 lc_sn,lc3,Anderson,1
-lc_sn,lc3_by,Anderson,Emma Cheuvront 4:32pm
+lc_sn,lc3_by,Anderson,Emma
 lc_sn,lc3,Florence,1
-lc_sn,lc3_by,Florence,Charles 5:07pm
+lc_sn,lc3_by,Florence,Charles
 lc_sn,sn2,Florence,1
-lc_sn,sn2_by,Florence,Charles Closing 7:24pm
-lc_sn,bank_run_by,Florence,—
+lc_sn,sn2_by,Florence,Kyle
+lc_sn,bank_run_by,Florence,Kyle
 lc_sn,lc3,Harrison,1
-lc_sn,lc3_by,Harrison,daniah 4:35pm
+lc_sn,lc3_by,Harrison,Angie
 lc_sn,lc3,Union,1
-lc_sn,lc3_by,Union,sofie 4:29pm
-lc_sn,sn2,Union,0
-lc_sn,sn2_by,Union,MISS locked — only AM Kleyer 2:32pm
-lc_sn,bank_run_by,Union,Jed
-lc_sn,evening_at,Market,9/19 ~4:49 AM ET
-lc_sn,evening_note,Market,Fri 9/18 Ops Bot: LC3 AN/CV/FL/HA/UN all ✓; SN2 AN/CV/FL/HA ✓; UN SN2 miss locked (0) — only AM Kleyer 2:32pm; banks AN Sarah, CV Maryssa, FL Charles, HA — (deposits No), UN —; Union evidence /workspace/shots/sat-919-am/sn2-fri918-list-union-miss.png
-coach,evening_brief,Anderson,Fri 9/18 LC3 ✓ Emma Cheuvront 4:32pm · SN2 ✓ Emma Closing 9:56pm · bank Sarah · dish 200 OOB · walk-in 9 · hots
-coach,evening_brief,Crestview,Fri 9/18 LC3 ✓ Adrian 4:26pm (Project=5PM counted) · SN2 ✓ Adrian Closing 8:08pm · bank Maryssa · dish 200 · freezer 7 · call-offs/NCNS/late: Natalie / Lily / Maleah 30
-coach,evening_brief,Florence,Fri 9/18 LC3 ✓ Charles 5:07pm · SN2 ✓ Charles Closing 7:24pm · bank Charles · dish 150
-coach,evening_bank,Florence,Charles
-coach,evening_brief,Harrison,Fri 9/18 LC3 ✓ daniah 4:35pm · SN2 ✓ Angie Closing 7:11pm · bank — (deposits No) · dish 100 · walk-in 10 · S1 42 · chicken 40.9 · rockstars Robert/Naomi/Christian
-coach,evening_brief,Union,Fri 9/18 LC3 ✓ sofie 4:29pm · SN2 miss locked (0); only AM Kleyer 2:32pm · bank — · dish 100 · shot /workspace/shots/sat-919-am/sn2-fri918-list-union-miss.png
-coach,evening_bank,Union,—
-coach,evening_note,Market,Fri 9/18 Ops Bot: LC3 AN/CV/FL/HA/UN all ✓; SN2 AN/CV/FL/HA ✓; UN SN2 miss locked (0) — only AM Kleyer 2:32pm; banks AN Sarah, CV Maryssa, FL Charles, HA — (deposits No), UN —; Union evidence /workspace/shots/sat-919-am/sn2-fri918-list-union-miss.png
-lc_sn,sn2,Anderson,1
-lc_sn,sn2_by,Anderson,Emma Closing 9:56pm
-coach,miss_managers,Union,SN2 miss locked; only AM Kleyer; no PM SN2 manager
-midday,miss,Crestview,LC3 Joe confirmed Thu 9/17 evening
-packet,hold,Market,Lane A PM COMPLETE Sat 9/19: Monkey PM SKIPPED (AM Closed nums kept); Zenput midday LC1/LC2/SN1 all ✓; GF OA HA2 · MO refreshed · rockstars; EZ/Panda Fri carry; Lane B preserve; no email; chat attach only; no Publish
-lc_sn,bank_run_by,Anderson,Sarah
-lc_sn,bank_run_by,Crestview,Maryssa
-lc_sn,bank_run_by,Florence,Charles
-lc_sn,bank_run_by,Harrison,—
+lc_sn,lc3_by,Union,Molly
+lc_sn,sn2,Union,1
+lc_sn,sn2_by,Union,Desiree
 lc_sn,bank_run_by,Union,—
-coach,bankRunBy,Anderson,Sarah
-coach,temps,Anderson,Fri 9/18 LC3 dish 200 OOB; walk-in 9; hots
-coach,other,Anderson,Fri 9/18 LC3 ✓ Emma Cheuvront 4:32pm; SN2 ✓ Emma Closing 9:56pm; bank Sarah
-coach,bankRunBy,Crestview,Maryssa
-coach,temps,Crestview,Fri 9/18 LC3 dish 200; freezer 7
-coach,other,Crestview,Fri 9/18 LC3 ✓ Adrian 4:26pm (Project=5PM counted); SN2 ✓ Adrian Closing 8:08pm; bank Maryssa; SN2 Natalie call-off; Lily NCNS; Maleah late 30
-coach,bankRunBy,Florence,Charles
-coach,temps,Florence,Fri 9/18 LC3 dish 150
-coach,other,Florence,Fri 9/18 LC3 ✓ Charles 5:07pm; SN2 ✓ Charles Closing 7:24pm; bank Charles
-coach,bankRunBy,Harrison,—
-coach,temps,Harrison,Fri 9/18 LC3 dish 100; walk-in 10; S1 42; chicken 40.9
-coach,other,Harrison,Fri 9/18 LC3 ✓ daniah 4:35pm; SN2 ✓ Angie Closing 7:11pm; bank — (deposits No); rockstars Robert/Naomi/Christian
+lc_sn,evening_at,Market,9/20 ~4:30 AM ET
+lc_sn,evening_note,Market,Sat 9/19 Ops Bot: LC3 all 5 ✓; SN2 all 5 ✓; banks AN John, CV Kevin, FL Kyle, HA nat, UN —; dish sanitizer OOB AN/CV/HA/UN/FL; CV roast/corned beef CA; UN 3-comp 4.3 OUT; FL Ham + CV Turkey portions <2.1 OUT; AN/HA fruit/veg wash No; misses none
+coach,evening_brief,Anderson,Sat 9/19 LC3 ✓ Emma 5:36pm · SN2 ✓ Emma Closing 9:54pm · bank John · dish 200 OOB · 3-comp 750 IN · fruit/veg wash No
+coach,evening_brief,Crestview,Sat 9/19 LC3 ✓ Adrian 4:14pm · SN2 ✓ Maria Closing 7:30pm · bank Kevin · Roast Beef 44°F CA ice bath · Corned Beef 41°F CA close lid · dish 200 OOB · 3-comp 700 IN · Turkey portions <2.1 OUT
+coach,evening_brief,Florence,Sat 9/19 LC3 ✓ Charles 4:31pm · SN2 ✓ Kyle Closing 7:13pm · bank Kyle · dish 150 OOB · 3-comp 700 IN · Ham portions <2.1 OUT
+coach,evening_bank,Florence,Kyle
+coach,evening_brief,Harrison,Sat 9/19 LC3 ✓ Angie 4:54pm · SN2 ✓ angie Closing 7:16pm · bank nat · dish 100 OOB · 3-comp 700 IN · fruit/veg wash No
+coach,evening_brief,Union,Sat 9/19 LC3 ✓ Molly 5:31pm · SN2 ✓ Desiree 7:01pm (Opening Manager on PM counts) · bank — · dish 200 OOB · 3-comp 4.3 OUT
+coach,evening_bank,Union,—
+coach,evening_note,Market,Sat 9/19 Ops Bot: LC3 all 5 ✓; SN2 all 5 ✓; banks AN John, CV Kevin, FL Kyle, HA nat, UN —; dish sanitizer OOB AN/CV/HA/UN/FL; CV roast/corned beef CA; UN 3-comp 4.3 OUT; FL Ham + CV Turkey portions <2.1 OUT; AN/HA fruit/veg wash No; misses none
+lc_sn,sn2,Anderson,1
+lc_sn,sn2_by,Anderson,Emma
+midday,miss,Crestview,LC3 Joe confirmed Thu 9/17 evening
+packet,hold,Market,Lane A Sun 9/20 AM: Monkey Sunday AM SKIPPED per Joe (no Sunday AM catering/Monkey; Sun PM only; stale AM nums kept); Zenput Sat 9/19 LC3/SN2 all ✓; GF OA HA2 · MO refreshed · rockstars; EZ/Panda Fri carry; Lane B preserve; no email; chat attach only; no Publish
+lc_sn,bank_run_by,Anderson,John
+lc_sn,bank_run_by,Crestview,Kevin
+lc_sn,bank_run_by,Florence,Kyle
+lc_sn,bank_run_by,Harrison,nat
+lc_sn,bank_run_by,Union,—
+coach,bankRunBy,Anderson,John
+coach,temps,Anderson,Sat 9/19 LC3 dish 200 OOB; 3-comp 750 IN
+coach,other,Anderson,Sat 9/19 LC3 ✓ Emma 5:36pm 5PM; SN2 ✓ Emma Closing 9:54pm PM; bank John; fruit/veg wash No — Call Ecolab for service; S2=No
+coach,bankRunBy,Crestview,Kevin
+coach,temps,Crestview,Sat 9/19 LC3 S1 Roast Beef 44°F CA ice bath; S1 Corned Beef 41°F CA close lid; dish 200 OOB; 3-comp 700 IN; freezer 7°F recorded
+coach,other,Crestview,Sat 9/19 LC3 ✓ Adrian 4:14pm 5PM; SN2 ✓ Maria Closing 7:30pm PM; bank Kevin; Turkey portions 2/2/1.9 OUT (<2.1); blank hots; S2=No
+coach,bankRunBy,Florence,Kyle
+coach,temps,Florence,Sat 9/19 LC3 dish 150 OOB; 3-comp 700 IN
+coach,other,Florence,Sat 9/19 LC3 ✓ Charles 4:31pm 5PM; SN2 ✓ Kyle Closing 7:13pm PM; bank Kyle; Ham portions 1.9/2/1.9 OUT (<2.1); Alley Rally No; S2=No
+coach,bankRunBy,Harrison,nat
+coach,temps,Harrison,Sat 9/19 LC3 dish 100 OOB; 3-comp 700 IN
+coach,other,Harrison,Sat 9/19 LC3 ✓ Angie 4:54pm 5PM; SN2 ✓ angie Closing 7:16pm PM; bank nat; fruit/veg wash No — Replace solution at source; S2=No
 coach,bankRunBy,Union,—
-coach,temps,Union,Fri 9/18 LC3 dish 100
-coach,other,Union,Fri 9/18 LC3 ✓ sofie 4:29pm; SN2 miss locked X/0 (only AM Kleyer); bank —; miss screenshot /workspace/shots/sat-919-am/sn2-fri918-list-union-miss.png
+coach,temps,Union,Sat 9/19 LC3 dish 200 OOB; 3-comp 4.3 OUT
+coach,other,Union,Sat 9/19 LC3 ✓ Molly 5:31pm 5PM; SN2 ✓ Desiree 7:01pm PM (Opening Manager on PM — counts); bank —; blank hots; S2=No
 my_schedule,Sat 9/19,Market,All day — Russ Vacay (thru Sun 9/20; Harrison)
 my_schedule,Sat 9/19,Market,9:00–10:30 AM — South Cincy Reverb
 my_schedule,Sat 9/19,Market,2:00–2:30 PM — South Cincy make-up Reverb
@@ -834,18 +859,17 @@ action_items,Sun 9/20,Market,Russ Vacay
 action_items,note,Market,Diff vs Fri fold: Opportunity Tue 9/15 now 2:30–6:00 w/ Kito Cody (was 2:30–5:00); else matches
 outlook,at,Market,9/19 ~5:45 AM ET
 lc_sn,lc3,Crestview,1
-lc_sn,lc3_by,Crestview,Adrian 4:26pm (Project=5PM counted)
+lc_sn,lc3_by,Crestview,Adrian
 lc_sn,sn2,Crestview,1
-lc_sn,sn2_by,Crestview,Adrian Closing 8:08pm
+lc_sn,sn2_by,Crestview,Maria
 lc_sn,sn2,Harrison,1
-lc_sn,sn2_by,Harrison,Angie Closing 7:11pm
-coach,evening_bank,Crestview,Maryssa
-coach,evening_bank,Harrison,—
-coach,evening_bank,Anderson,Sarah
+lc_sn,sn2_by,Harrison,angie
+coach,evening_bank,Crestview,Kevin
+coach,evening_bank,Harrison,nat
+coach,evening_bank,Anderson,John
 market_news,window,Market,21d
-market_news,window_start,Market,2026-09-19
-market_news,window_end,Market,2026-10-09
-market_news,birthday,Crestview,Caylee Mullins|9/19
+market_news,window_start,Market,2026-09-20
+market_news,window_end,Market,2026-10-10
 market_news,birthday,Crestview,Christine Moore|9/20
 market_news,birthday,Crestview,William Beagles|9/25
 market_news,birthday,Florence,Jahmir Ackerson|9/25
@@ -858,6 +882,8 @@ market_news,birthday,Harrison,Ethan Myers|10/6
 market_news,birthday,Crestview,Kyle Larkin|10/7
 market_news,birthday,Harrison,Theorie Troxell|10/8
 market_news,birthday,Florence,Jennifer Zepahua|10/9
+market_news,birthday,Crestview,Christopher Brown|10/10
+market_news,birthday,Crestview,Jaquale Miller|10/10
 market_news,anniversary,Florence,Barb Trimble|5yr|9/21
 market_news,anniversary,Crestview,Jameera Grove|1yr|9/22
 market_news,anniversary,Crestview,Caylee Mullins|1yr|9/23
@@ -868,7 +894,7 @@ market_news,anniversary,Harrison,James Patrick|5yr|9/28
 market_news,anniversary,Crestview,Karen Shields|12yr|9/30
 market_news,anniversary,Harrison,Raven Horton|1yr|10/2
 market_news,anniversary,Harrison,Eriquana Price|1yr|10/9
-market_news,at,Market,9/19 ~7:06 AM ET
+market_news,at,Market,9/20 ~7:14 AM ET
 gf,rolling30_n,ScottMarket,494
 gf,rolling30_osat,ScottMarket,76.3
 gf,rolling30_brand,ScottMarket,69.6
@@ -955,32 +981,6 @@ catering_osat90,n,ScottMarket,92
 ez_cater,osat90,ScottMarket,94.6 (n92)
 catering_osat90,brand,Market,84.0
 catering_osat90,at,Market,9/18 Fri night · folded 9/19 7:06 AM ET
-lines,date,Market,2026-09-20
-lines,lc1,Anderson,0
-lines,lc2,Anderson,0
-lines,lc3,Anderson,0
-lines,sn1,Anderson,0
-lines,sn2,Anderson,0
-lines,lc1,Crestview,0
-lines,lc2,Crestview,0
-lines,lc3,Crestview,0
-lines,sn1,Crestview,0
-lines,sn2,Crestview,0
-lines,lc1,Florence,0
-lines,lc2,Florence,0
-lines,lc3,Florence,0
-lines,sn1,Florence,0
-lines,sn2,Florence,0
-lines,lc1,Harrison,0
-lines,lc2,Harrison,0
-lines,lc3,Harrison,0
-lines,sn1,Harrison,0
-lines,sn2,Harrison,0
-lines,lc1,Union,0
-lines,lc2,Union,0
-lines,lc3,Union,0
-lines,sn1,Union,0
-lines,sn2,Union,0
 mnky_today,date,Market,2026-09-20
 mnky_today,closed,Anderson,0
 mnky_today,open,Anderson,2
