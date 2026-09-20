@@ -1014,3 +1014,55 @@ mnky_today,total_sales,ScottMarket,508.87
 mnky_today,flags,ScottMarket,—
 mnky,at,Market,9/20 ~10:42 AM ET
 mnky,note,Market,Sun today = Sat tomorrow fold; Monday not pulled
+ranker_pm,window,Market,PM Dinner After 5pm · 9/13 6:52 PM ET
+ranker_pm,title,Market,PM Dinner · 9/13 6:52 PM ET
+ranker_pm,at,Market,9/13 6:52 PM ET
+ranker_pm,note,Market,last PM Dinner Ranker 9/13 — bot has not sent a newer PM 30d
+ranker_pm,n,Anderson,21
+ranker_pm,osat,Anderson,57.1
+ranker_pm,quality,Anderson,71.4
+ranker_pm,acc,Anderson,90.5
+ranker_pm,friend,Anderson,75.0
+ranker_pm,speed,Anderson,66.7
+ranker_pm,ready,Anderson,66.7
+ranker_pm,mngr,Anderson,41.7
+ranker_pm,n,Crestview,26
+ranker_pm,osat,Crestview,69.2
+ranker_pm,quality,Crestview,80.8
+ranker_pm,acc,Crestview,92.3
+ranker_pm,friend,Crestview,76.9
+ranker_pm,speed,Crestview,57.9
+ranker_pm,ready,Crestview,50.0
+ranker_pm,mngr,Crestview,66.7
+ranker_pm,n,Florence,20
+ranker_pm,osat,Florence,80.0
+ranker_pm,quality,Florence,75.0
+ranker_pm,acc,Florence,95.0
+ranker_pm,friend,Florence,75.0
+ranker_pm,speed,Florence,68.8
+ranker_pm,ready,Florence,100.0
+ranker_pm,mngr,Florence,50.0
+ranker_pm,n,Harrison,45
+ranker_pm,osat,Harrison,71.1
+ranker_pm,quality,Harrison,77.8
+ranker_pm,acc,Harrison,84.4
+ranker_pm,friend,Harrison,73.3
+ranker_pm,speed,Harrison,79.3
+ranker_pm,ready,Harrison,68.8
+ranker_pm,mngr,Harrison,13.0
+ranker_pm,n,Union,15
+ranker_pm,osat,Union,86.7
+ranker_pm,quality,Union,93.3
+ranker_pm,acc,Union,93.3
+ranker_pm,friend,Union,85.7
+ranker_pm,speed,Union,70.0
+ranker_pm,ready,Union,75.0
+ranker_pm,mngr,Union,37.5
+ranker_pm,n,ScottMarket,127
+ranker_pm,osat,ScottMarket,71.6
+ranker_pm,quality,ScottMarket,78.7
+ranker_pm,acc,ScottMarket,89.7
+ranker_pm,friend,ScottMarket,76.1
+ranker_pm,speed,ScottMarket,70.1
+ranker_pm,ready,ScottMarket,70.3
+ranker_pm,mngr,ScottMarket,37.5
