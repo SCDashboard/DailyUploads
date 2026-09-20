@@ -71,10 +71,10 @@ labor_chart,pct,Anderson,21.00%
 labor_chart,wtd_hrs,Anderson,509.95
 labor_chart,ot_wtd,Anderson,0
 labor_chart,pto,Anderson,8
-labor_chart,prj_ot,Anderson,3.40
-labor_chart,prj_ot,Crestview,15.71
-labor_chart,prj_ot,Florence,5.44
-labor_chart,prj_ot,Harrison,3.47
+labor_chart,prj_ot,Anderson,8.52
+labor_chart,prj_ot,Crestview,15.26
+labor_chart,prj_ot,Florence,6.32
+labor_chart,prj_ot,Harrison,3.19
 labor_chart,prj_ot,Union,0
 labor_chart,hours,Crestview,86.57
 labor_chart,pct,Crestview,16.47%
