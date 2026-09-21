@@ -24,3 +24,83 @@ as_of_et,kind,when_et,what
 2026-09-21 9:44 AM,86s,2026-09-20 2:00 PM,updated 9/20 2:00 PM 86 list card
 2026-09-21 9:44 AM,catering,2026-09-20 11:53 AM,Crestview new_order 3666593 Jen Wilham $120.73
 2026-09-21 9:44 AM,86s,2026-09-20 10:30 AM,updated 9/20 10:30 AM 86 list card
+2026-09-20 9:26 AM,stamp,,9am rollup
+2026-09-20 9:26 AM,other,2026-09-20 8:43 AM,Rebuild alarms-30d.csv from TC2 since 9/5
+2026-09-20 9:26 AM,tc2,2026-09-20 7:30 AM,7:30 AM ET DISARM 2026-09-20
+2026-09-20 9:26 AM,tc2,2026-09-20 7:05 AM,Harrison DISARMED Ethan Slot 6
+2026-09-20 9:26 AM,tc2,2026-09-20 6:49 AM,Anderson DISARMED John Unsworth
+2026-09-20 9:26 AM,tc2,2026-09-20 6:35 AM,Union DISARMED JED Slot 3
+2026-09-20 9:26 AM,tc2,2026-09-20 6:06 AM,Crestview DISARMED Johie Haney
+2026-09-20 9:26 AM,86s,2026-09-20 6:00 AM,updated 9/20 6:00 AM 86 list card
+2026-09-20 9:26 AM,tc2,2026-09-20 5:32 AM,Florence DISARMED Charlene Canada
+2026-09-20 9:26 AM,catering,2026-09-20 5:08 AM,Anderson new_order 3666108 Tina Reichert $136.15
+2026-09-20 9:26 AM,tc2,2026-09-19 10:30 PM,10:30 PM ET ARM 2026-09-19
+2026-09-20 9:26 AM,tc2,2026-09-19 10:24 PM,Union ARMED Away User 0 Bypass
+2026-09-20 9:26 AM,tc2,2026-09-19 10:18 PM,Anderson ARMED Away Emma Cheuvront
+2026-09-20 9:26 AM,tc2,2026-09-19 10:02 PM,Harrison ARMED Away Angie Sayre
+2026-09-20 9:26 AM,tc2,2026-09-19 9:49 PM,Florence ARMED Away User 0
+2026-09-20 9:26 AM,tc2,2026-09-19 9:25 PM,Crestview ARMED Away Maria Cooper
+2026-09-20 9:26 AM,86s,2026-09-19 8:45 PM,updated 9/19 8:45 PM 86 list card
+2026-09-20 9:26 AM,packet,2026-09-19 7:09 PM,PM Sat 9/19 midday LC1-SN1 all HA 2 OPEN keep Fri DL monkey AM
+2026-09-20 9:26 AM,catering,2026-09-19 5:05 PM,Harrison new_order 3666355 ezCater $234.57
+2026-09-20 9:26 AM,catering,2026-09-19 4:45 PM,Harrison new_order 3666346 ezCater $420.21
+2026-09-20 9:26 AM,86s,2026-09-19 2:00 PM,updated 9/19 2:00 PM 86 list card
+2026-09-20 9:26 AM,catering,2026-09-19 1:54 PM,Crestview new_order 3666243 Travis Cecil $390.50
+2026-09-20 9:26 AM,packet,2026-09-19 12:49 PM,Sat 9/19 PRJ OT HRS week 9/14 AN 3.40 CV 15.71 FL 5.44 HA 3.47 UN 0
+2026-09-20 9:26 AM,packet,2026-09-19 12:30 PM,Sat 9/19 OT WTD CV 7.23 keep Fri DL + current BOT
+2026-09-20 9:26 AM,packet,2026-09-19 12:18 PM,Sat 9/19 12:12 DL Fri 9/18 sales/labor keep BOT monkey/LC/alerts
+2026-09-20 9:26 AM,86s,2026-09-19 10:30 AM,updated 9/19 10:30 AM 86 list card
+2026-09-19 9:30 AM,stamp,,9am rollup
+2026-09-19 9:30 AM,other,2026-09-19 8:41 AM,Rebuild alarms-30d.csv from TC2 since 9/5
+2026-09-19 9:30 AM,tc2,2026-09-19 7:30 AM,7:30 AM ET DISARM 2026-09-19
+2026-09-19 9:30 AM,86s,2026-09-19 6:00 AM,updated 9/19 6:00 AM 86 list card
+2026-09-19 9:30 AM,tc2,2026-09-19 5:59 AM,Union DISARMED kleyer Slot 6
+2026-09-19 9:30 AM,tc2,2026-09-19 5:59 AM,Crestview DISARMED Kierstan Phelps
+2026-09-19 9:30 AM,tc2,2026-09-19 5:31 AM,Anderson DISARMED Delivery Slot 6
+2026-09-19 9:30 AM,tc2,2026-09-19 4:13 AM,Florence DISARMED Sygma Florence
+2026-09-19 9:30 AM,tc2,2026-09-18 10:30 PM,10:30 PM ET ARM 2026-09-18
+2026-09-19 9:30 AM,tc2,2026-09-18 10:06 PM,Anderson ARMED Away Emma Cheuvront
+2026-09-19 9:30 AM,tc2,2026-09-18 10:04 PM,Harrison ARMED Away Angie Sayre
+2026-09-19 9:30 AM,tc2,2026-09-18 9:48 PM,Crestview ARMED Away Adrian Magers
+2026-09-19 9:30 AM,tc2,2026-09-18 9:44 PM,Union ARMED Away User 0 Bypass
+2026-09-19 9:30 AM,86s,2026-09-18 8:45 PM,updated 9/18 8:45 PM 86 list card
+2026-09-19 9:30 AM,catering,2026-09-18 2:14 PM,Florence new_order 3665325 Ariana Chappell $80.85
+2026-09-19 9:30 AM,86s,2026-09-18 2:00 PM,updated 9/18 2:00 PM 86 list card
+2026-09-19 9:30 AM,catering,2026-09-18 11:31 AM,Crestview new_order 3664921 ezCater $343.78
+2026-09-19 9:30 AM,catering,2026-09-18 11:10 AM,Florence new_order 3664847 ezCater $593.01
+2026-09-19 9:30 AM,packet,2026-09-18 10:56 AM,AM 9/18 10:48 BOT CV LC3 miss Panda UN #01334 monkey 15 keep DL
+2026-09-19 9:30 AM,catering,2026-09-18 10:55 AM,Crestview new_order 3664802 ezCater $109.99
+2026-09-19 9:30 AM,packet,2026-09-18 10:52 AM,AM 9/18 Lane A DL Thu 9/17 sales/labor/cash/tix BOT overlay
+2026-09-19 9:30 AM,catering,2026-09-18 10:39 AM,Florence new_order 3664714 Alicia Turner $250.97
+2026-09-19 9:30 AM,86s,2026-09-18 10:30 AM,updated 9/18 10:30 AM 86 list card
+2026-09-19 9:30 AM,catering,2026-09-18 8:13 AM,Crestview new_order 3664461 Stephanie Bishop $416.67
+2026-09-19 9:30 AM,catering,2026-09-18 8:04 AM,Anderson new_order 3663124 lorrie hays $357.11
+2026-09-19 9:30 AM,catering,2026-09-18 7:53 AM,Florence new_order 3664449 Candice Allen $226.34
+2026-09-18 9:23 AM,stamp,,9am rollup
+2026-09-18 9:23 AM,other,2026-09-18 8:42 AM,Rebuild alarms-30d.csv from TC2 since 9/5
+2026-09-18 9:23 AM,tc2,2026-09-18 7:30 AM,7:30 AM ET DISARM 2026-09-18
+2026-09-18 9:23 AM,tc2,2026-09-18 7:01 AM,Anderson DISARMED Sarah Juterbock
+2026-09-18 9:23 AM,86s,2026-09-18 6:00 AM,updated 9/18 6:00 AM 86 list card
+2026-09-18 9:23 AM,tc2,2026-09-18 5:54 AM,Union DISARMED ANGIE Slot 5
+2026-09-18 9:23 AM,tc2,2026-09-18 5:00 AM,Crestview DISARMED Kierstan Phelps
+2026-09-18 9:23 AM,tc2,2026-09-18 4:44 AM,Florence DISARMED Allison Traylor
+2026-09-18 9:23 AM,tc2,2026-09-18 4:43 AM,Harrison DISARMED Belle Zimmerman
+2026-09-18 9:23 AM,catering,2026-09-17 11:10 PM,Crestview new_order 3664377 ezCater $865.98
+2026-09-18 9:23 AM,request,2026-09-17 10:42 PM,GV (513) 568-6711 Testing
+2026-09-18 9:23 AM,tc2,2026-09-17 10:30 PM,10:30 PM ET ARM 2026-09-17
+2026-09-18 9:23 AM,tc2,2026-09-17 10:28 PM,Anderson ARMED Away Emma Cheuvront
+2026-09-18 9:23 AM,catering,2026-09-17 10:28 PM,Union new_order 3664342 Trevor Rosenbaum $54.36
+2026-09-18 9:23 AM,tc2,2026-09-17 10:20 PM,Union ARMED Away User 0 Bypass
+2026-09-18 9:23 AM,tc2,2026-09-17 9:54 PM,Crestview ARMED Away Johie Haney
+2026-09-18 9:23 AM,tc2,2026-09-17 9:40 PM,Florence ARMED Away User 0
+2026-09-18 9:23 AM,tc2,2026-09-17 9:39 PM,Harrison ARMED Away Reese Rosselott
+2026-09-18 9:23 AM,86s,2026-09-17 8:45 PM,updated 9/17 8:45 PM 86 list card
+2026-09-18 9:23 AM,packet,2026-09-17 8:25 PM,PM 9/17 BOT HA 3 OPEN timers monkey closed keep DL
+2026-09-18 9:23 AM,catering,2026-09-17 5:13 PM,Anderson new_order 3663029 Nathan Doppes $151.76
+2026-09-18 9:23 AM,catering,2026-09-17 4:35 PM,Crestview new_order 3662958 ezCater $367.86
+2026-09-18 9:23 AM,catering,2026-09-17 3:22 PM,Crestview new_order 3662735 Shelby Dawson $252.48
+2026-09-18 9:23 AM,catering,2026-09-17 2:09 PM,Union new_order 3661468 Jannell Delanovic $601.43
+2026-09-18 9:23 AM,86s,2026-09-17 2:00 PM,updated 9/17 2:00 PM 86 list card
+2026-09-18 9:23 AM,86s,2026-09-17 10:30 AM,updated 9/17 10:30 AM 86 list card
+2026-09-18 9:23 AM,catering,2026-09-17 9:37 AM,Florence new_order 3660630 Nichole Jackson $316.02
+2026-09-18 9:23 AM,catering,2026-09-17 9:13 AM,Florence new_order 3660619 Lindsey Wilkinson $317.25
