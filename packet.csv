@@ -3,7 +3,7 @@ today_date,2026-09-21
 yesterday_date,2026-09-20
 report_date,2026-09-21
 numbers_date,2026-09-20
-updated_at,9/21 7:15 PM ET
+updated_at,9/21 7:41 PM ET
 slot,PM
 pm_status,COMPLETE_PM_READY
 lane_split,PACKET_CUT
@@ -1218,4 +1218,16 @@ action_items,Tue 9/22,Market,2:30–3:30 PM — South Cinci Weekly GM Call (Joe 
 action_items,Wed 9/23,Market,All day — Ohmar's Anniversary · 2:30–4:00 PM — Q3 Results GM Meeting Downam Region
 action_items,Fri 9/25,Market,10:30–11:00 AM — Joe Weekly Recap · 2:00–3:00 PM — New Hire / Sales Calls Follow-up
 action_items,Sun 9/27,Market,12:00–12:30 PM — Jed Chill day (Union KY McAlisters)
-packet,hold,Market,Lane A Mon 9/21 PM: Monkey + GF Feedback; Ranker skipped; HA soup OPEN; CV chicken salad CLOSED
+packet,hold,Market,Lane A Mon 9/21 PM: Monkey + GF Feedback; Ranker skipped; HA soup OPEN; CV chicken salad CLOSED; Panda 7:41 PM
+panda,timer,Harrison,21
+panda,wo,Harrison,#00954|Approved For Quote Request|e105 mains supply frequency issue|opened 6/2 7:32pm|landed 9/1
+panda,timer,Union,1
+panda,wo,Union,#01362|New (Submitted)|Not holding temp. Steady mid 40s|opened 9/21 7:23pm|landed 9/21
+panda,timer,Union,4
+panda,wo,Union,#01334|Under Warranty - Service Call Placed|Crisper holds between 41-45|opened 9/14 1:36pm|landed 9/18
+panda,timer,Union,21
+panda,wo,Union,#01261|Under Warranty - Service Call Placed|Unit iced over inside; digital 32 / probe 43|opened 8/23 12:23pm|landed 9/1
+panda,count,ScottMarket,4
+panda,note,Market,#01142 still gone; NEW UN #01362; HA#00954 + UN#01261 day 21; UN#01334 day 4
+panda,at,Market,9/21 ~7:41 PM ET
+
