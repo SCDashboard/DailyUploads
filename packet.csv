@@ -653,45 +653,11 @@ ez_cater,acc,ScottMarket,99.7
 ez_cater,tracking,ScottMarket,94.8
 ez_cater,at,Market,9/18 5:38 AM ET
 ez_cater,note,Market,Sun 9/20 skip (not MWF); Fri 9/18 EZ cols + osat30/osat90 preserved; HA Rockstar still NO
-lc_sn,lc1,Anderson,0
-lc_sn,lc1_by,Anderson,—
-lc_sn,lc2,Anderson,0
-lc_sn,lc2_by,Anderson,—
-lc_sn,sn1,Anderson,0
-lc_sn,sn1_by,Anderson,—
 lc_sn,bank_run_by,Anderson,John
-lc_sn,lc1,Crestview,0
-lc_sn,lc1_by,Crestview,—
-lc_sn,lc2,Crestview,0
-lc_sn,lc2_by,Crestview,—
-lc_sn,sn1,Crestview,0
-lc_sn,sn1_by,Crestview,—
 lc_sn,bank_run_by,Crestview,Kevin
-lc_sn,lc1,Florence,0
-lc_sn,lc1_by,Florence,—
-lc_sn,lc2,Florence,0
-lc_sn,lc2_by,Florence,—
-lc_sn,sn1,Florence,0
-lc_sn,sn1_by,Florence,—
 lc_sn,bank_run_by,Florence,Kyle
-lc_sn,lc1,Harrison,0
-lc_sn,lc1_by,Harrison,—
-lc_sn,lc2,Harrison,0
-lc_sn,lc2_by,Harrison,—
-lc_sn,sn1,Harrison,0
-lc_sn,sn1_by,Harrison,—
 lc_sn,bank_run_by,Harrison,nat
-lc_sn,lc1,Union,0
-lc_sn,lc1_by,Union,—
-lc_sn,lc2,Union,0
-lc_sn,lc2_by,Union,—
-lc_sn,sn1,Union,0
-lc_sn,sn1_by,Union,—
 lc_sn,bank_run_by,Union,—
-lc_sn,at,Market,9/19 ~4:18 PM ET
-lc_sn,source,Market,Sat 9/19 4pm LC1/LC2/SN1 all ✓; no misses
-lc_sn,midday_at,Market,9/19 ~4:18 PM ET
-lc_sn,midday_note,Market,CV temps; FL calloff; AN/CV/FL/UN sanitizer; AN/UN bank; guest complaints none
 midday,when,Market,9/19 ~4:18 PM ET
 midday,flag,Crestview,temps
 midday,flag,Florence,calloff
@@ -732,19 +698,7 @@ coach,other,Crestview,TODAY SN1 ✓ kevin Opening 2:36pm; bank kevin (deposits Y
 coach,other,Florence,TODAY SN1 ✓ Charles Opening 2:02pm; bank Charles (deposits Yes); Leo call-off; Jose late; rockstars Charlene/Yaz
 coach,other,Harrison,TODAY SN1 ✓ Nat Opening 2:09pm; bank Nat (deposits Yes); rockstar Ron (trainee Yani)
 coach,other,Union,TODAY SN1 ✓ Molly 3:24pm AM Project (Closing Manager label); bank — (deposits N/A); smooth shift; guests happy (guest field No)
-lc_sn,lc3,Anderson,0
-lc_sn,lc3_by,Anderson,—
-lc_sn,lc3,Florence,0
-lc_sn,lc3_by,Florence,—
-lc_sn,sn2,Florence,0
-lc_sn,sn2_by,Florence,—
 lc_sn,bank_run_by,Florence,Kyle
-lc_sn,lc3,Harrison,0
-lc_sn,lc3_by,Harrison,—
-lc_sn,lc3,Union,0
-lc_sn,lc3_by,Union,—
-lc_sn,sn2,Union,0
-lc_sn,sn2_by,Union,—
 lc_sn,bank_run_by,Union,—
 lc_sn,evening_at,Market,9/20 ~4:30 AM ET
 lc_sn,evening_note,Market,Sat 9/19 Ops Bot: LC3 all 5 ✓; SN2 all 5 ✓; banks AN John |  CV Kevin |  FL Kyle |  HA nat |  UN —; dish sanitizer OOB AN/CV/HA/UN/FL; CV roast/corned beef CA; UN 3-comp 4.3 OUT; FL Ham + CV Turkey portions <2.1 OUT; AN/HA fruit/veg wash No; misses none
@@ -756,8 +710,6 @@ coach,evening_brief,Harrison,Sat 9/19 LC3 ✓ Angie 4:54pm · SN2 ✓ angie Clos
 coach,evening_brief,Union,Sat 9/19 LC3 ✓ Molly 5:31pm · SN2 ✓ Desiree 7:01pm (Opening Manager on PM counts) · bank — · dish 200 OOB · 3-comp 4.3 OUT
 coach,evening_bank,Union,—
 coach,evening_note,Market,Sat 9/19 Ops Bot: LC3 all 5 ✓; SN2 all 5 ✓; banks AN John |  CV Kevin |  FL Kyle |  HA nat |  UN —; dish sanitizer OOB AN/CV/HA/UN/FL; CV roast/corned beef CA; UN 3-comp 4.3 OUT; FL Ham + CV Turkey portions <2.1 OUT; AN/HA fruit/veg wash No; misses none
-lc_sn,sn2,Anderson,0
-lc_sn,sn2_by,Anderson,—
 midday,miss,Crestview,LC3 Joe confirmed Thu 9/17 evening
 lc_sn,bank_run_by,Anderson,John
 lc_sn,bank_run_by,Crestview,Kevin
@@ -780,12 +732,6 @@ coach,bankRunBy,Union,—
 coach,temps,Union,Sat 9/19 LC3 dish 200 OOB; 3-comp 4.3 OUT
 coach,other,Union,Sat 9/19 LC3 ✓ Molly 5:31pm 5PM; SN2 ✓ Desiree 7:01pm PM (Opening Manager on PM — counts); bank —; blank hots; S2=No
 outlook,at,Market,9/19 ~5:45 AM ET
-lc_sn,lc3,Crestview,0
-lc_sn,lc3_by,Crestview,—
-lc_sn,sn2,Crestview,0
-lc_sn,sn2_by,Crestview,—
-lc_sn,sn2,Harrison,0
-lc_sn,sn2_by,Harrison,—
 coach,evening_bank,Crestview,Kevin
 coach,evening_bank,Harrison,nat
 coach,evening_bank,Anderson,John
