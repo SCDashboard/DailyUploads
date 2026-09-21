@@ -3,9 +3,9 @@ today_date,2026-09-21
 yesterday_date,2026-09-20
 report_date,2026-09-21
 numbers_date,2026-09-20
-updated_at,9/21 6:55 AM ET
-slot,AM
-am_status,COMPLETE_AM_READY
+updated_at,9/21 7:15 PM ET
+slot,PM
+pm_status,COMPLETE_PM_READY
 lane_split,PACKET_CUT
 packet_format,plain CSV; Lane B never
 section,field,store,value
@@ -279,11 +279,6 @@ coach,brief,ScottMarket,Sun 10pm Zenput — LC3 all 5 ✓; SN2 all ✓; sideways
 coach,brief,ScottMarket,Sun 4pm Zenput — FL SN1 miss only; others LC1/LC2/SN1 ✓
 coach,brief,ScottMarket,Tue delayed 4pm Zenput — LC1/LC2/SN1 all ✓; 10pm LC3/SN2 cancelled; san OOB all 5
 coach,brief,ScottMarket,Mon 4pm Zenput — CV SN1 pending Joe verify; else LC1/LC2/SN1 ✓
-coach,guest,Harrison,9/19 OPEN Contact Us NEW — Diet Coke forgotten online order dispute; 9/18 OPEN Contact Us still — missing butter/sour cream Spud Max + nachos (dour cream); 9/17×3 CLOSED
-coach,guest,Anderson,9/19 2★ very small sandwich no pickle (no alert; reward –)
-coach,guest,Union,9/18 Contact Us food-poisoning (potato salad guess; staff nice; no money wanted; no alert); 9/16 2★ + 9/15 Contact Us chili/lemonade carry
-coach,guest,Florence,9/19 CLOSED 3★ cashier unfriendly — reward SENT Yes; 9/16 CLOSED score 4 no comment
-coach,guest,Crestview,9/18 CLOSED Contact Us wrong sandwich — reward SENT Yes; 9/17 4★ forgot chips
 coach,bankRunBy,Anderson,John
 coach,temps,Anderson,Sat 9/19 LC3 dish 200 OOB; 3-comp 750 IN
 coach,other,Anderson,Sat 9/19 LC3 ✓ Emma 5:36pm 5PM; SN2 ✓ Emma Closing 9:54pm PM; bank John; fruit/veg wash No — Call Ecolab for service; S2=No
@@ -803,75 +798,6 @@ catering_osat90,n,ScottMarket,92
 ez_cater,osat90,ScottMarket,94.6 (n92)
 catering_osat90,brand,Market,84.0
 catering_osat90,at,Market,9/18 Fri night · folded 9/19 7:06 AM ET
-alerts,open,Anderson,0
-alerts,open,Crestview,1
-alerts,open,Florence,0
-alerts,open,Harrison,1
-alerts,open,Union,0
-alerts,at,Market,09/20/2026 8:00 PM ET
-alerts,opened_at,Crestview,09/20/2026 2:28 PM ET | There was hardly any Chicken Salad on my sandwich. It was mostly lettuce. | not shown | OPEN Post Meal score 2 / NEW Contact Request; activity 3; reward_sent not shown
-alerts,opened_at,Harrison,09/20/2026 9:57 AM ET | no guest comment visible | not shown | OPEN Post Meal score 4 / NEW Contact Request; activity 3; UI Cincinnati = Harrison; reward_sent not shown
-alerts,note,Market,OA All Open = 2; new open rows: Crestview + Harrison
-opp,card_date,Market,2026-09-20
-opp,open,Crestview,09/20/2026 2:28 PM ET | There was hardly any Chicken Salad on my sandwich. It was mostly lettuce. | not shown | OPEN NEW Contact Request; score 2
-opp,open,Harrison,09/20/2026 9:57 AM ET | no guest comment visible | not shown | OPEN NEW Contact Request; score 4
-opp,open,Anderson,09/20/2026 5:59 PM ET | I have always loved the Memphis chop salad. This time as always I added avocado. Normally there would be about one half sliced avacado. At first it was so small I didn’t see it. A worker did bring me more. There was such a small amount of chicken I barely had a noticeable amount in any bite. This is the first time I have gone on a weekend. I am wondering if the person working the weekend didn’t know what to do or was t trained properly. I probably wouldn’t go back on a weekend didn’t. | – | 3; Marketing Opt-Out; no alert
-opp,open,Harrison,"09/19/2026 8:57 PM ET | I asked for one of my items (four cheese melt) to be made with white bread and they used Ciabatta instead. Normally this wouldn't be an issue, but it was for my toddler and the sandwich was too thick for her to eat due to the thickness of the bread used. | – | 2; no alert"
-opp,open,Harrison,"09/19/2026 7:28 PM ET | This was the first time I’ve been disappointed with my experience at McAlister’s. When I arrived, all of the booth tables were unbussed, so I had to sit at a regular table instead. My peach tea barely tasted like peach, and my BLT+A was served on bread that was not toasted… which really does make a difference. I do not mind having pickles on my plate, even though I don’t eat them. However, there was so much pickle juice on the plate that it soaked into my sandwich bread. The tables were gradually cleared while I was there, but no one checked to see whether everything was okay. If someone had asked, I would have mentioned the untoasted, pickle-soaked bread and possibly requested a refill of iced tea. | – | 2; no alert"
-opp,open,Crestview,09/19/2026 12:45 PM ET | Spicy Green Chili Aioli Pork Spud was disappointing. Thank Goodness for the potato and extra butter. It is a one timer. Tea is still a great and a must have at McAlester's. | – | 3; no alert
-opp,open,Anderson,09/19/2026 1:00 PM ET | Very small sandwich. No pickle | – | 2; no alert
-opp,open,Union,"09/18/2026 10:01 PM ET | Hi. I got the club, potato salad, and carrot cake tonight. My wife got the potato soup. I got food poisoning tonight. I have ate there before and had no issues. I don't want money or anything, and I don't know which item caused it. The staff was very nice. I am sure I will be better tomorrow. My guess is that the potato salad got me. | – | Contact Us; no alert"
-opp,open,Union,09/18/2026 6:05 PM ET | no comment visible | – | 4; no alert
-opp,open,Florence,09/20/2026 8:43 AM ET | We enjoyed our visit everything was great. The staff was friendly enough. The staff was less attentive but not unfriendly. | – | 4; no alert
-opp,open,Crestview,09/20/2026 10:36 AM ET | Special offers/discounts always appreciated. Portion was large. Taste was okay…bbq pork spud. Not my favorite. | – | 4; no alert
-opp,open,Union,09/16/2026 11:57 AM ET | Ordered take out from inside and my ultimate nachos did not have the chili in the bag and ordered a black cherry lemonade that I had to request a second time when the food order was brought. She gave me a strawberry lemonade and she knew it was wrong but she gave it to me anyway. | – | 2; page 4; not in All Open
-opp,contact_us,Union,"09/15/2026 7:29 PM ET | Gentleman that took my order was great. The food was great except that my nachos did not have the chili in the bag (this was a Togo order), but what really chapped my ass was that I ordered a black cherry lemonade and did not receive it when the girl brought my Togo bag, so I asked for it and she acted like I was really putting her out, she made it, clearly realized she made a strawberry lemonade, so she stood by the various syrups and acted like she was putting syrup in, but did not, and handed me my lemonade knowing it was wrong. Not happy with this visit. | – | page 4; not in All Open"
-opp,closed,Harrison,09/19/2026 6:38 PM ET | My Diet Coke was forget in my online order. I would like to disput this charge! | – | CLOSED Contact Request; was OPEN 9/19
-opp,closed,Harrison,09/18/2026 4:48 PM ET | Just picked up my order and there was no butter or sour cream for my spud Max's and no dour cream for the Nachos. | Yes | CLOSED Contact Request; reward_sent Yes
-opp,closed,Florence,09/19/2026 4:15 PM ET | Cashier not friendly and had issues with order | Yes | CLOSED Contact Request; score 3; reward_sent Yes
-opp,closed,Crestview,09/18/2026 4:12 AM ET | I received the wrong sandwich in my order. I would like a replacement or refund | Yes | CLOSED Contact Request; reward_sent Yes
-opp,closed,Harrison,"09/17/2026 5:00 PM ET | They could not except cash, staff was rude! Out of Diet Coke and gave me incorrect dressing for my salad. Worse experience there ever. | – | CLOSED Contact Request"
-opp,closed,Harrison,"09/17/2026 1:58 PM ET | Placed an order online, picked up order got home. Starting eating and am missing my salted Carmel cookie that I was really looking forward to and did not receive it. | – | CLOSED Contact Request"
-opp,closed,Harrison,09/17/2026 1:30 PM ET | I ordered a grilled chicken Caesar wrap with no cheese and no dressing as my son has a dairy sensitivity. It is not an allergy but he avoids dairy as it makes him ill. Today’s order contained dressing and cheese and he was unable to eat it. Very disappointed to have paid over $10 for something he was unable to eat. Wasn’t discovered until my husband brought home our food and did not have time to return to the restaurant to get it fixed. | – | CLOSED Contact Request
-opp,closed,Florence,09/16/2026 4:19 PM ET | no comment visible | not shown | CLOSED Contact Request; score 4
-rockstars,guest_comment,Union,Angie | Union | 09/17/2026 9:11 AM ET | I had put this last minute order in and McAlister's team did wonderfully with everything! We will definitely be using them again. Thanks Angie and team!
-rockstars,guest_comment,Union,Angie | Union | 09/16/2026 3:59 PM ET | Angie and her team at the Florence KY McAlister's are excellent. I placed a very late order and was called to confirm and arrange time for delivery. McAlister's has been my go-to for a while now .. always top notch service.
-rockstars,guest_comment,Anderson,"Adriana | Anderson | 09/16/2026 9:22 AM ET | Easy to order. Catering Coordinator, Adriana was very friendly and was able to accommodate a last minute order request for a same day delivery."
-catering_guest,survey,Harrison,09/19/2026 11:31 PM ET | 5★ | no comment visible
-catering_guest,survey,Crestview,09/18/2026 10:28 AM ET | 5★ | no comment visible
-catering_guest,survey,Florence,09/18/2026 9:06 AM ET | 5★ | The process for placing an order was very easy. I loved all the options available. The order was delivered on time and the delivery person was very professional and friendly! The food was great! Everyone in the office was really happy with our lunch. Thank you!
-catering_guest,survey,Union,09/17/2026 9:11 AM ET | 5★ | I had put this last minute order in and McAlister's team did wonderfully with everything! We will definitely be using them again. Thanks Angie and team!
-catering_guest,survey,Anderson,09/16/2026 10:42 PM ET | 5★ | Everything was well prepared.
-catering_guest,survey,Union,09/16/2026 3:59 PM ET | 5★ | Angie and her team at the Florence KY McAlister's are excellent. I placed a very late order and was called to confirm and arrange time for delivery. McAlister's has been my go-to for a while now .. always top notch service.
-catering_guest,survey,Florence,"09/16/2026 10:13 AM ET | 5★ | My orders are always on time, and fresh"
-catering_guest,survey,Anderson,"09/16/2026 9:22 AM ET | 5★ | Easy to order. Catering Coordinator, Adriana was very friendly and was able to accommodate a last minute order request for a same day delivery."
-catering_guest,survey,Crestview,09/16/2026 9:07 AM ET | 5★ | McAlister's Crestview Hills was great to work with and easy to place my order online. Order was ready when I arrived and all were correct. The ease of the ordering process and friendliness of the employees is what keeps us coming back! Thank you!
-catering_guest_surveys,row,Harrison,09/19/2026 11:31 PM ET 5★ | no comment visible
-catering_guest_surveys,row,Crestview,09/18/2026 10:28 AM ET 5★ | no comment visible
-catering_guest_surveys,row,Florence,09/18/2026 9:06 AM ET 5★ | The process for placing an order was very easy. I loved all the options available. The order was delivered on time and the delivery person was very professional and friendly! The food was great! Everyone in the office was really happy with our lunch. Thank you!
-catering_guest_surveys,row,Union,09/17/2026 9:11 AM ET 5★ | I had put this last minute order in and McAlister's team did wonderfully with everything! We will definitely be using them again. Thanks Angie and team!
-catering_guest_surveys,row,Anderson,09/16/2026 10:42 PM ET 5★ | Everything was well prepared.
-catering_guest_surveys,row,Union,09/16/2026 3:59 PM ET 5★ | Angie and her team at the Florence KY McAlister's are excellent. I placed a very late order and was called to confirm and arrange time for delivery. McAlister's has been my go-to for a while now .. always top notch service.
-catering_guest_surveys,row,Florence,"09/16/2026 10:13 AM ET 5★ | My orders are always on time, and fresh"
-catering_guest_surveys,row,Anderson,"09/16/2026 9:22 AM ET 5★ | Easy to order. Catering Coordinator, Adriana was very friendly and was able to accommodate a last minute order request for a same day delivery."
-catering_guest_surveys,row,Crestview,09/16/2026 9:07 AM ET 5★ | McAlister's Crestview Hills was great to work with and easy to place my order online. Order was ready when I arrived and all were correct. The ease of the ordering process and friendliness of the employees is what keeps us coming back! Thank you!
-catering_guest_surveys,at,Market,9/20 ~8:00 PM ET
-catering_guest_surveys,note,Market,Post Catering Experience only — not GF 5★/Market Opps
-coach,candidate,Crestview,09/20/2026 2:28 PM ET | There was hardly any Chicken Salad on my sandwich. It was mostly lettuce. | OPEN | score 2
-coach,candidate,Harrison,09/20/2026 9:57 AM ET | no guest comment visible | OPEN | score 4
-coach,candidate,Harrison,09/19/2026 6:38 PM ET | My Diet Coke was forget in my online order. I would like to disput this charge! | CLOSED | reward –
-coach,candidate,Harrison,09/18/2026 4:48 PM ET | Just picked up my order and there was no butter or sour cream for my spud Max's and no dour cream for the Nachos. | CLOSED | reward sent Yes
-coach,candidate,Anderson,09/20/2026 5:59 PM ET | Memphis chop: tiny avocado and almost no chicken. See market_opps full wording. | 3 | no alert
-coach,candidate,Harrison,09/19/2026 8:57 PM ET | Ciabatta instead of white bread; toddler could not eat sandwich. See market_opps full wording. | 2 | no alert
-coach,candidate,Harrison,"09/19/2026 7:28 PM ET | Unbussed booths, weak peach tea, untoasted pickle-soaked BLT. See market_opps full wording. | 2 | no alert"
-coach,candidate,Crestview,09/19/2026 12:45 PM ET | Spicy Green Chili Aioli Pork Spud was disappointing. Thank Goodness for the potato and extra butter. It is a one timer. Tea is still a great and a must have at McAlester's. | 3 | no alert
-coach,candidate,Anderson,09/19/2026 1:00 PM ET | Very small sandwich. No pickle | 2 | reward –
-coach,candidate,Union,09/18/2026 10:01 PM ET | Food poisoning claim; potato salad guess; staff nice; does not want money. See market_opps full wording. | Contact Us | no alert
-coach,candidate,Florence,09/19/2026 4:15 PM ET | Cashier not friendly and had issues with order | CLOSED | reward sent Yes | score 3
-coach,candidate,Union,09/16/2026 11:57 AM ET | Ordered take out from inside and my ultimate nachos did not have the chili in the bag and ordered a black cherry lemonade that I had to request a second time when the food order was brought. She gave me a strawberry lemonade and she knew it was wrong but she gave it to me anyway. | 2 | no alert
-coach,candidate,Union,09/15/2026 7:29 PM ET | Nachos missing chili and wrong lemonade after dismissive handoff. See market_opps contact_us full wording. | Contact Us | no alert
-gf,rockstars_today,Market,Angie Union x2 + Adriana Anderson (full comments)
-gf,at,Market,9/20 ~8:00 PM ET
 gf,rolling30_n,ScottMarket,506
 gf,rolling30_osat,ScottMarket,76.5
 gf,rolling30_brand,ScottMarket,69.4
@@ -1043,23 +969,6 @@ managers,tomorrow,Harrison,Natalie 6 · Belle 7-2 · Russ 930 · Angi 10-2 · Et
 managers,today,Union,Jed 6-4p · Molly 6-4p · Angi 8-3 · Sofia 9:30 · Jess 4-cl
 managers,tomorrow,Union,Kleyer 7-3p · Angi 8-3 · Des 3-cl · Jed 10:30-cl
 managers,at,Market,9/21 ~6:50 AM ET — Today Mon 9/21 + Tomorrow Tue 9/22 (P10W3)
-my_schedule,Mon 9/21,Market,2:00–2:30 PM — RD's AD Game Plan (Ryan Downam)
-my_schedule,Tue 9/22,Market,2:30–3:30 PM — South Cinci Weekly GM Call (Joe Scott)
-my_schedule,Wed 9/23,Market,All day — Ohmar’s Anniversary (Busy; recurring)
-my_schedule,Wed 9/23,Market,2:30–4:00 PM — Q3 Results GM Meeting Downam Region (Ryan Downam; Tentative)
-my_schedule,Thu 9/24,Market,—
-my_schedule,Fri 9/25,Market,10:30–11:00 AM — Joe Weekly Recap (Ryan Downam)
-my_schedule,Fri 9/25,Market,2:00–3:00 PM — New Hire / Sales Calls Follow-up
-my_schedule,Sat 9/26,Market,—
-action_items,week,Market,Mon 9/21–Sun 9/27
-action_items,Mon 9/21,Market,2:00–2:30 PM — RD's AD Game Plan (Ryan Downam)
-action_items,Tue 9/22,Market,2:30–3:30 PM — South Cinci Weekly GM Call (Joe Scott)
-action_items,Wed 9/23,Market,All day — Ohmar’s Anniversary · 2:30–4:00 PM — Q3 Results GM Meeting Downam Region (Ryan Downam; Tentative)
-action_items,Thu 9/24,Market,—
-action_items,Fri 9/25,Market,10:30–11:00 AM — Joe Weekly Recap (Ryan Downam) · 2:00–3:00 PM — New Hire / Sales Calls Follow-up
-action_items,Sat 9/26,Market,—
-action_items,Sun 9/27,Market,12:00–12:30 PM — Jed Chill day (Union KY McAlisters)
-action_items,note,Market,Mon 9/21 Outlook fold — month view Sep; meetings Tasks/My Schedule only
 news,birthday,Market,Birthday: Jahmir Ackerson — Florence (9/25)
 news,birthday,Market,Birthday: William Beagles — Crestview (9/25)
 news,birthday,Market,Birthday: Andrew Miller — Crestview (9/26)
@@ -1083,101 +992,6 @@ news,anniversary,Market,Anniversary (5 year): James Patrick — Harrison (9/28)
 news,anniversary,Market,Anniversary (12 year): Karen Shields — Crestview (9/30)
 news,anniversary,Market,Anniversary (1 year): Raven Horton — Harrison (10/2)
 news,anniversary,Market,Anniversary (1 year): Eriquana Price — Harrison (10/9)
-packet,hold,Market,Lane A Mon 9/21 AM COMPLETE (Panda SKIPPED per Joe): Monkey AM · Zenput Sun ALL5 · EZ Mon · Outlook week · managers Today/Tomorrow · birthdays 21d; HA LC3 + FL SN2 miss pending Joe; no email; chat attach
-mnky_today,closed,Anderson,1
-mnky_today,open,Anderson,0
-mnky_today,total,Anderson,1
-mnky_today,total_sales,Anderson,$2,059.25
-mnky_today,flags,Anderson,1 green
-mnky_today,closed,Crestview,6
-mnky_today,open,Crestview,0
-mnky_today,total,Crestview,6
-mnky_today,total_sales,Crestview,$2,020.76
-mnky_today,flags,Crestview,—
-mnky_today,closed,Florence,2
-mnky_today,open,Florence,0
-mnky_today,total,Florence,2
-mnky_today,total_sales,Florence,$586.05
-mnky_today,flags,Florence,—
-mnky_today,closed,Harrison,3
-mnky_today,open,Harrison,0
-mnky_today,total,Harrison,3
-mnky_today,total_sales,Harrison,$2,569.05
-mnky_today,flags,Harrison,1 green
-mnky_today,closed,Union,0
-mnky_today,open,Union,0
-mnky_today,total,Union,0
-mnky_today,total_sales,Union,$0.00
-mnky_today,flags,Union,—
-mnky_today,closed,ScottMarket,12
-mnky_today,open,ScottMarket,0
-mnky_today,total,ScottMarket,12
-mnky_today,total_sales,ScottMarket,$7,235.11
-mnky_today,flags,ScottMarket,2 green
-mnky_tomorrow,closed,Anderson,0
-mnky_tomorrow,open,Anderson,0
-mnky_tomorrow,orders,Anderson,0
-mnky_tomorrow,sales,Anderson,$0.00
-mnky_tomorrow,flags,Anderson,—
-mnky_tomorrow,closed,Crestview,0
-mnky_tomorrow,open,Crestview,0
-mnky_tomorrow,orders,Crestview,0
-mnky_tomorrow,sales,Crestview,$0.00
-mnky_tomorrow,flags,Crestview,—
-mnky_tomorrow,closed,Florence,2
-mnky_tomorrow,open,Florence,0
-mnky_tomorrow,orders,Florence,2
-mnky_tomorrow,sales,Florence,$352.78
-mnky_tomorrow,flags,Florence,1 purple
-mnky_tomorrow,closed,Harrison,0
-mnky_tomorrow,open,Harrison,0
-mnky_tomorrow,orders,Harrison,0
-mnky_tomorrow,sales,Harrison,$0.00
-mnky_tomorrow,flags,Harrison,—
-mnky_tomorrow,closed,Union,0
-mnky_tomorrow,open,Union,0
-mnky_tomorrow,orders,Union,0
-mnky_tomorrow,sales,Union,$0.00
-mnky_tomorrow,flags,Union,—
-mnky_tomorrow,closed,ScottMarket,2
-mnky_tomorrow,open,ScottMarket,0
-mnky_tomorrow,orders,ScottMarket,2
-mnky_tomorrow,sales,ScottMarket,$352.78
-mnky_tomorrow,flags,ScottMarket,1 purple
-mnky_week,closed,Anderson,2
-mnky_week,open,Anderson,0
-mnky_week,orders,Anderson,2
-mnky_week,sales,Anderson,$1,327.65
-mnky_week,flags,Anderson,1 green
-mnky_week,closed,Crestview,1
-mnky_week,open,Crestview,2
-mnky_week,orders,Crestview,3
-mnky_week,sales,Crestview,$912.02
-mnky_week,flags,Crestview,3 purple
-mnky_week,closed,Florence,3
-mnky_week,open,Florence,0
-mnky_week,orders,Florence,3
-mnky_week,sales,Florence,$716.34
-mnky_week,flags,Florence,1 purple
-mnky_week,closed,Harrison,4
-mnky_week,open,Harrison,0
-mnky_week,orders,Harrison,4
-mnky_week,sales,Harrison,$1,234.79
-mnky_week,flags,Harrison,2 purple
-mnky_week,closed,Union,4
-mnky_week,open,Union,0
-mnky_week,orders,Union,4
-mnky_week,sales,Union,$1,195.58
-mnky_week,flags,Union,—
-mnky_week,closed,ScottMarket,14
-mnky_week,open,ScottMarket,2
-mnky_week,orders,ScottMarket,16
-mnky_week,sales,ScottMarket,$5,386.38
-mnky_week,flags,ScottMarket,6 purple + 1 green
-mnky_today,date,Market,2026-09-21
-mnky_tomorrow,date,Market,2026-09-22
-mnky_week,date,Market,2026-09-23
-packet,hold,Market,Lane A Mon 9/21 AM: Sun DL + Sun Zenput ALL5; HA LC3 miss · FL SN2 miss
 lc_sn,date,Market,2026-09-20
 lc_sn,bank_run_by,Anderson,John
 lc_sn,bank_run_by,Crestview,KS
@@ -1264,3 +1078,144 @@ managers,Sun 9/27,Florence,Charlene 6-4 · Kyle 9-7 · Nick 11-3 · Olivia 12-4/
 managers,Sun 9/27,Harrison,Ethan 6 · Russ 1130
 managers,Sun 9/27,Union,Molly 6a · Sofia 8-4 · Des 11:30 · Jed Chill
 managers,note,Market,Tue 9/22 Joe Zoom @2:30 all stores · Wed 9/23 Rachel Zoom @3 Harrison only · Florence Wed Charles also Ryan qtr meet
+mnky_today,date,Market,2026-09-21
+mnky_today,closed,Anderson,3
+mnky_today,open,Anderson,0
+mnky_today,total,Anderson,3
+mnky_today,total_sales,Anderson,$2,294.09
+mnky_today,flags,Anderson,1 green
+mnky_today,closed,Crestview,10
+mnky_today,open,Crestview,0
+mnky_today,total,Crestview,10
+mnky_today,total_sales,Crestview,$3,352.11
+mnky_today,flags,Crestview,—
+mnky_today,closed,Florence,3
+mnky_today,open,Florence,0
+mnky_today,total,Florence,3
+mnky_today,total_sales,Florence,$776.44
+mnky_today,flags,Florence,—
+mnky_today,closed,Harrison,3
+mnky_today,open,Harrison,0
+mnky_today,total,Harrison,3
+mnky_today,total_sales,Harrison,$2,570.75
+mnky_today,flags,Harrison,1 green
+mnky_today,closed,Union,0
+mnky_today,open,Union,0
+mnky_today,total,Union,0
+mnky_today,total_sales,Union,$0.00
+mnky_today,flags,Union,—
+mnky_today,closed,ScottMarket,19
+mnky_today,open,ScottMarket,0
+mnky_today,total,ScottMarket,19
+mnky_today,total_sales,ScottMarket,$8,993.39
+mnky_today,flags,ScottMarket,2 green
+mnky_tomorrow,date,Market,2026-09-22
+mnky_tomorrow,closed,Anderson,0
+mnky_tomorrow,open,Anderson,2
+mnky_tomorrow,total,Anderson,2
+mnky_tomorrow,orders,Anderson,2
+mnky_tomorrow,sales,Anderson,$971.40
+mnky_tomorrow,flags,Anderson,1 purple
+mnky_tomorrow,closed,Crestview,0
+mnky_tomorrow,open,Crestview,1
+mnky_tomorrow,total,Crestview,1
+mnky_tomorrow,orders,Crestview,1
+mnky_tomorrow,sales,Crestview,$186.38
+mnky_tomorrow,flags,Crestview,—
+mnky_tomorrow,closed,Florence,0
+mnky_tomorrow,open,Florence,3
+mnky_tomorrow,total,Florence,3
+mnky_tomorrow,orders,Florence,3
+mnky_tomorrow,sales,Florence,$610.24
+mnky_tomorrow,flags,Florence,1 purple
+mnky_tomorrow,closed,Harrison,0
+mnky_tomorrow,open,Harrison,4
+mnky_tomorrow,total,Harrison,4
+mnky_tomorrow,orders,Harrison,4
+mnky_tomorrow,sales,Harrison,$1,411.55
+mnky_tomorrow,flags,Harrison,2 purple
+mnky_tomorrow,closed,Union,0
+mnky_tomorrow,open,Union,1
+mnky_tomorrow,total,Union,1
+mnky_tomorrow,orders,Union,1
+mnky_tomorrow,sales,Union,$692.12
+mnky_tomorrow,flags,Union,—
+mnky_tomorrow,closed,ScottMarket,0
+mnky_tomorrow,open,ScottMarket,11
+mnky_tomorrow,total,ScottMarket,11
+mnky_tomorrow,orders,ScottMarket,11
+mnky_tomorrow,sales,ScottMarket,$3,871.69
+mnky_tomorrow,flags,ScottMarket,4 purple
+mnky_week,date,Market,2026-09-23
+mnky_week,closed,Anderson,0
+mnky_week,open,Anderson,3
+mnky_week,total,Anderson,3
+mnky_week,orders,Anderson,3
+mnky_week,sales,Anderson,$1,841.17
+mnky_week,flags,Anderson,1 green
+mnky_week,closed,Crestview,0
+mnky_week,open,Crestview,5
+mnky_week,total,Crestview,5
+mnky_week,orders,Crestview,5
+mnky_week,sales,Crestview,$1,443.19
+mnky_week,flags,Crestview,3 purple
+mnky_week,closed,Florence,0
+mnky_week,open,Florence,4
+mnky_week,total,Florence,4
+mnky_week,orders,Florence,4
+mnky_week,sales,Florence,$1,422.07
+mnky_week,flags,Florence,1 purple
+mnky_week,closed,Harrison,0
+mnky_week,open,Harrison,5
+mnky_week,total,Harrison,5
+mnky_week,orders,Harrison,5
+mnky_week,sales,Harrison,$1,714.32
+mnky_week,flags,Harrison,—
+mnky_week,closed,Union,0
+mnky_week,open,Union,5
+mnky_week,total,Union,5
+mnky_week,orders,Union,5
+mnky_week,sales,Union,$1,703.91
+mnky_week,flags,Union,—
+mnky_week,closed,ScottMarket,0
+mnky_week,open,ScottMarket,22
+mnky_week,total,ScottMarket,22
+mnky_week,orders,ScottMarket,22
+mnky_week,sales,ScottMarket,$8,124.66
+mnky_week,flags,ScottMarket,4 purple + 1 green
+mnky,at,Market,9/21 7:15 PM ET
+alerts,open,Anderson,0
+alerts,open,Crestview,0
+alerts,open,Florence,0
+alerts,open,Harrison,1
+alerts,open,Union,0
+alerts,at,Market,09/21/2026 6:49 PM ET
+alerts,opened_at,Harrison,09/21/2026 2:14 PM ET | Would have given a 5 but the fire roasted vegetable soup I got was 90% broth and only about 10% vegetables. | OPEN Post Meal score 4 / NEW Contact Request; activity 3; reward –
+alerts,note,Market,OA All Open = 1; Harrison soup Contact Request NEW; Crestview chicken salad closed Yes reward
+opp,card_date,Market,2026-09-21
+opp,open,Harrison,09/21/2026 2:14 PM ET | Would have given a 5 but the fire roasted vegetable soup I got was 90% broth and only about 10% vegetables. | reward – | OPEN Post Meal score 4 / NEW Contact Request
+opp,closed,Crestview,09/20/2026 2:28 PM ET | There was hardly any Chicken Salad on my sandwich. It was mostly lettuce. | Yes | CLOSED Contact Request reward Yes
+opp,closed,Harrison,09/19/2026 6:38 PM ET | My Diet Coke was forget in my online order. I would like to disput[e] this charge! | – | CLOSED
+opp,closed,Harrison,09/18/2026 4:48 PM ET | no butter or sour cream for my spud Max’s and no dour cream for the Nachos. | Yes | CLOSED reward Yes
+rockstars,2026-09-21,Anderson,Sarah and Rachel — guest: Food is always good, and service was great! Sarah and Rachel are always friendly when I go in and I enjoy interacting with them. (11:58 AM)
+gf,rockstars_today,Market,Sarah + Rachel Anderson
+catering_guest_surveys,row,Harrison,09/21/2026 9:16 AM ET 4★ | wording not shown
+catering_guest_surveys,row,Harrison,09/19/2026 11:31 PM ET 5★ | wording not shown
+catering_guest_surveys,at,Market,9/21 6:49 PM ET
+coach,guest,Harrison,9/21 OPEN Contact Request NEW — fire roasted veg soup 90% broth 10% vegetables score 4
+coach,guest,Anderson,9/20 score 3 Memphis chop weekend portion/training concern (no open alert)
+coach,guest,Union,9/18 Contact Us food-poisoning potato salad guess; staff nice; no money wanted (no open alert)
+my_schedule,Mon 9/21,Market,8:00 AM–2:00 PM — Clermont Charity Golf Scramble
+my_schedule,Mon 9/21,Market,2:00–2:30 PM — RD's AD Game Plan (Ryan Downam)
+my_schedule,Tue 9/22,Market,2:30–3:30 PM — South Cinci Weekly GM Call (Joe Scott)
+my_schedule,Wed 9/23,Market,All day — Ohmar's Anniversary (Busy; recurring)
+my_schedule,Wed 9/23,Market,2:30–4:00 PM — Q3 Results GM Meeting Downam Region (Ryan Downam; Tentative)
+my_schedule,Fri 9/25,Market,10:30–11:00 AM — Joe Weekly Recap (Ryan Downam)
+my_schedule,Fri 9/25,Market,2:00–3:00 PM — New Hire / Sales Calls Follow-up
+action_items,week,Market,Mon 9/21–Sun 9/27
+action_items,Mon 9/21,Market,8:00 AM–2:00 PM — Clermont Charity Golf Scramble · 2:00–2:30 PM — RD's AD Game Plan (Ryan Downam)
+action_items,Tue 9/22,Market,2:30–3:30 PM — South Cinci Weekly GM Call (Joe Scott)
+action_items,Wed 9/23,Market,All day — Ohmar's Anniversary · 2:30–4:00 PM — Q3 Results GM Meeting Downam Region
+action_items,Fri 9/25,Market,10:30–11:00 AM — Joe Weekly Recap · 2:00–3:00 PM — New Hire / Sales Calls Follow-up
+action_items,Sun 9/27,Market,12:00–12:30 PM — Jed Chill day (Union KY McAlisters)
+packet,hold,Market,Lane A Mon 9/21 PM: Monkey + GF Feedback; Ranker skipped; HA soup OPEN; CV chicken salad CLOSED
