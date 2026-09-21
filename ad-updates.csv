@@ -1,1 +1,26 @@
-PLACEHOLDER3
+as_of_et,kind,when_et,what
+2026-09-21 9:44 AM,stamp,,9am rollup
+2026-09-21 9:44 AM,other,2026-09-21 8:48 AM,Rebuild alarms-30d.csv from TC2 through 9/21
+2026-09-21 9:44 AM,tc2,2026-09-21 7:30 AM,7:30 AM ET DISARM 2026-09-21
+2026-09-21 9:44 AM,packet,2026-09-21 6:55 AM,Mon 9/21 AM Sun 9/20 DL keep Sun PM BOT HA LC3 miss FL SN2 miss
+2026-09-21 9:44 AM,packet,2026-09-21 6:01 AM,Mon 9/21 AM BOT Sun Zenput HA LC3 miss FL SN2 miss Monkey fold
+2026-09-21 9:44 AM,86s,2026-09-21 6:00 AM,updated 9/21 6:00 AM 86 list card
+2026-09-21 9:44 AM,tc2,2026-09-21 5:57 AM,Union DISARMED JED Slot 3
+2026-09-21 9:44 AM,tc2,2026-09-21 5:50 AM,Harrison DISARMED Russell Ferguson
+2026-09-21 9:44 AM,tc2,2026-09-21 5:21 AM,Florence DISARMED Charles Kelshaw
+2026-09-21 9:44 AM,tc2,2026-09-21 4:41 AM,Anderson DISARMED Sarah Juterbock
+2026-09-21 9:44 AM,tc2,2026-09-21 4:37 AM,Crestview DISARMED Jessie Stahl
+2026-09-21 9:44 AM,catering,2026-09-20 10:31 PM,Anderson new_order 3666468 Emily Fehr $1039.00
+2026-09-21 9:44 AM,tc2,2026-09-20 10:30 PM,10:30 PM ET ARM 2026-09-20
+2026-09-21 9:44 AM,packet,2026-09-20 10:18 PM,P10W3 manager schedules Mon 9/21-Sun 9/27
+2026-09-21 9:44 AM,tc2,2026-09-20 10:04 PM,Crestview ARMED Away Adrianna Huddleston
+2026-09-21 9:44 AM,tc2,2026-09-20 9:53 PM,Florence ARMED Away User 0
+2026-09-21 9:44 AM,tc2,2026-09-20 9:43 PM,Anderson ARMED Away Emma Cheuvront
+2026-09-21 9:44 AM,tc2,2026-09-20 9:23 PM,Harrison ARMED Away User 0
+2026-09-21 9:44 AM,catering,2026-09-20 9:03 PM,Crestview new_order 3667008 Caroline Kinsman $232.39
+2026-09-21 9:44 AM,86s,2026-09-20 8:45 PM,updated 9/20 8:45 PM 86 list card
+2026-09-21 9:44 AM,catering,2026-09-20 8:42 PM,Harrison new_order 3666982 Erin Evans $1764.49
+2026-09-21 9:44 AM,packet,2026-09-20 8:15 PM,Sun 9/20 PM Monkey Mon 9/21 + GF rolling30 keep Sat DL
+2026-09-21 9:44 AM,86s,2026-09-20 2:00 PM,updated 9/20 2:00 PM 86 list card
+2026-09-21 9:44 AM,catering,2026-09-20 11:53 AM,Crestview new_order 3666593 Jen Wilham $120.73
+2026-09-21 9:44 AM,86s,2026-09-20 10:30 AM,updated 9/20 10:30 AM 86 list card
