@@ -1,7 +1,48 @@
 as_of_et,kind,when_et,what
-2026-09-22 6:00 AM,86s,2026-09-22 6:00 AM,updated 9/22 6:00 AM 86 list card
-2026-09-21 8:30 PM,86s,2026-09-21 8:30 PM,updated 9/21 8:45 PM 86 list card
-2026-09-21 10:33 AM,86s,2026-09-21 10:33 AM,updated 9/21 10:30 AM 86 list card
+2026-09-22 9:55 AM,stamp,,9am rollup
+2026-09-22 9:55 AM,other,2026-09-22 8:49 AM,Rebuild alarms-30d.csv from TC2 since 9/6
+2026-09-22 9:55 AM,tc2,2026-09-22 7:30 AM,7:30 AM ET DISARM 2026-09-22
+2026-09-22 9:55 AM,packet,2026-09-22 7:35 AM,Tue 9/22 AM BOT overlay Monkey/LC 9/21 all checks/birthdays/managers
+2026-09-22 9:55 AM,packet,2026-09-22 7:33 AM,Tue 9/22 AM Mon 9/21 DL keep Mon PM BOT cash LW roll
+2026-09-22 9:55 AM,86s,2026-09-22 6:00 AM,updated 9/22 6:00 AM 86 list card
+2026-09-22 9:55 AM,tc2,2026-09-22 6:52 AM,Union DISARMED kleyer Slot 6
+2026-09-22 9:55 AM,tc2,2026-09-22 6:37 AM,Anderson DISARMED Sarah Juterbock
+2026-09-22 9:55 AM,tc2,2026-09-22 6:34 AM,Harrison DISARMED Sygma Truck Harrison
+2026-09-22 9:55 AM,tc2,2026-09-22 6:03 AM,Florence DISARMED Yazmin Lowe
+2026-09-22 9:55 AM,tc2,2026-09-22 5:06 AM,Crestview DISARMED Jessie Stahl
+2026-09-22 9:55 AM,catering,2026-09-21 9:40 PM,Florence new_order 3670607 ezCater $197.24
+2026-09-22 9:55 AM,catering,2026-09-21 8:28 PM,Harrison new_order 3669409 Betty Burt $193.17
+2026-09-22 9:55 AM,86s,2026-09-21 8:45 PM,updated 9/21 8:45 PM 86 list card
+2026-09-22 9:55 AM,tc2,2026-09-21 10:30 PM,10:30 PM ET ARM 2026-09-21
+2026-09-22 9:55 AM,tc2,2026-09-21 9:50 PM,Florence ARMED Away User 0
+2026-09-22 9:55 AM,tc2,2026-09-21 9:43 PM,Harrison ARMED Away Angie Sayre
+2026-09-22 9:55 AM,tc2,2026-09-21 9:39 PM,Anderson ARMED Away John Unsworth
+2026-09-22 9:55 AM,tc2,2026-09-21 9:32 PM,Crestview ARMED Away Kierstan Phelps
+2026-09-22 9:55 AM,tc2,2026-09-21 9:31 PM,Union ARMED Away User 0 Bypass
+2026-09-22 9:55 AM,packet,2026-09-21 7:44 PM,Mon 9/21 PM Panda UN #01362 new timers 21/4/1 count 4
+2026-09-22 9:55 AM,packet,2026-09-21 7:22 PM,Mon 9/21 PM Monkey fold + HA soup OPEN keep Sun DL
+2026-09-22 9:55 AM,catering,2026-09-21 6:02 PM,Union new_order 3670319 John Fountain $692.12
+2026-09-22 9:55 AM,catering,2026-09-21 5:22 PM,Harrison new_order 3670219 Shelby Riley $483.19
+2026-09-22 9:55 AM,catering,2026-09-21 4:35 PM,Union new_order 3670095 ezCater $508.33
+2026-09-22 9:55 AM,catering,2026-09-21 4:03 PM,Crestview new_order 3669908 Melissa Jacobs $257.37
+2026-09-22 9:55 AM,catering,2026-09-21 3:37 PM,Anderson new_order 3669613 Geriann Taylor $285.79
+2026-09-22 9:55 AM,catering,2026-09-21 3:02 PM,Florence new_order 3669464 OLIVIA LAUER $214.27
+2026-09-22 9:55 AM,catering,2026-09-21 2:18 PM,Harrison new_order 3669503 Jessica Beck $238.42
+2026-09-22 9:55 AM,catering,2026-09-21 2:13 PM,Harrison new_order 3668895 Beth McSkimming $504.24
+2026-09-22 9:55 AM,catering,2026-09-21 1:46 PM,Anderson new_order 3669431 ezCater $685.61
+2026-09-22 9:55 AM,catering,2026-09-21 1:11 PM,Harrison new_order 3669301 ezCater $577.98
+2026-09-22 9:55 AM,catering,2026-09-21 12:54 PM,Crestview new_order 3668830 Jami Levy $334.17
+2026-09-22 9:55 AM,catering,2026-09-21 12:10 PM,Anderson new_order 3669040 ezCater $513.52
+2026-09-22 9:55 AM,catering,2026-09-21 11:43 AM,Crestview new_order 3668773 Lonnie Alden $186.38
+2026-09-22 9:55 AM,catering,2026-09-21 11:36 AM,Crestview new_order 3668819 Emmy Sergent $224.32
+2026-09-22 9:55 AM,catering,2026-09-21 11:18 AM,Florence new_order 3668741 Chelsea Smitson $433.12
+2026-09-22 9:55 AM,catering,2026-09-21 11:05 AM,Crestview new_order 3668706 ezCater $217.94
+2026-09-22 9:55 AM,catering,2026-09-21 10:35 AM,Florence new_order 3668584 ezCater $491.46
+2026-09-22 9:55 AM,86s,2026-09-21 10:33 AM,updated 9/21 10:30 AM 86 list card
+2026-09-22 9:55 AM,catering,2026-09-21 9:48 AM,Crestview new_order 3667379 Candice Allen $332.89
+2026-09-22 9:55 AM,catering,2026-09-21 9:40 AM,Florence new_order 3667261 Megan Bicking $190.39
+2026-09-22 9:55 AM,catering,2026-09-21 9:01 AM,Crestview new_order 3667241 Jodi Steczynski $347.37
+2026-09-22 9:55 AM,catering,2026-09-21 8:25 AM,Crestview new_order 3667187 ezCater $330.37
 2026-09-21 9:44 AM,stamp,,9am rollup
 2026-09-21 9:44 AM,other,2026-09-21 8:48 AM,Rebuild alarms-30d.csv from TC2 through 9/21
 2026-09-21 9:44 AM,tc2,2026-09-21 7:30 AM,7:30 AM ET DISARM 2026-09-21
