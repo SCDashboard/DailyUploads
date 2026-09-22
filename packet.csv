@@ -3,9 +3,9 @@ today_date,2026-09-22
 yesterday_date,2026-09-21
 report_date,2026-09-22
 numbers_date,2026-09-21
-updated_at,9/22 ~7:24 AM ET
-slot,AM
-am_status,COMPLETE_AM_READY
+updated_at,9/22 ~7:33 PM ET
+slot,PM
+pm_status,COMPLETE_PM
 lane_split,PACKET_CUT
 packet_format,plain CSV; Lane B never
 section,field,store,value
@@ -845,88 +845,6 @@ panda,wo,Union,#01261|Under Warranty - Service Call Placed|Unit iced over inside
 panda,count,ScottMarket,4
 panda,note,Market,#01142 still gone; NEW UN #01362; HA#00954 + UN#01261 day 21; UN#01334 day 4
 panda,at,Market,9/21 ~7:41 PM ET
-mnky_today,date,Market,2026-09-22
-mnky_today,closed,Anderson,—
-mnky_today,open,Anderson,2
-mnky_today,total,Anderson,2
-mnky_today,total_sales,Anderson,$971.40
-mnky_today,flags,Anderson,—
-mnky_today,closed,Crestview,—
-mnky_today,open,Crestview,1
-mnky_today,total,Crestview,1
-mnky_today,total_sales,Crestview,$186.38
-mnky_today,flags,Crestview,—
-mnky_today,closed,Florence,—
-mnky_today,open,Florence,4
-mnky_today,total,Florence,4
-mnky_today,total_sales,Florence,$807.48
-mnky_today,flags,Florence,2 purple
-mnky_today,closed,Harrison,—
-mnky_today,open,Harrison,5
-mnky_today,total,Harrison,5
-mnky_today,total_sales,Harrison,$1615.11
-mnky_today,flags,Harrison,—
-mnky_today,closed,Union,—
-mnky_today,open,Union,1
-mnky_today,total,Union,1
-mnky_today,total_sales,Union,$692.12
-mnky_today,flags,Union,—
-mnky_today,closed,ScottMarket,—
-mnky_today,open,ScottMarket,13
-mnky_today,total,ScottMarket,13
-mnky_today,total_sales,ScottMarket,$4272.49
-mnky_today,flags,ScottMarket,2 purple
-mnky_tomorrow,date,Market,2026-09-23
-mnky_tomorrow,closed,Anderson,0
-mnky_tomorrow,open,Anderson,1
-mnky_tomorrow,orders,Anderson,1
-mnky_tomorrow,sales,Anderson,$1039.00
-mnky_tomorrow,flags,Anderson,1 green
-mnky_tomorrow,closed,Crestview,0
-mnky_tomorrow,open,Crestview,2
-mnky_tomorrow,orders,Crestview,2
-mnky_tomorrow,sales,Crestview,$456.14
-mnky_tomorrow,flags,Crestview,1 purple
-mnky_tomorrow,closed,Florence,0
-mnky_tomorrow,open,Florence,1
-mnky_tomorrow,orders,Florence,1
-mnky_tomorrow,sales,Florence,$214.27
-mnky_tomorrow,flags,Florence,1 purple
-mnky_tomorrow,closed,Harrison,0
-mnky_tomorrow,open,Harrison,2
-mnky_tomorrow,orders,Harrison,2
-mnky_tomorrow,sales,Harrison,$862.61
-mnky_tomorrow,flags,Harrison,—
-mnky_tomorrow,closed,Union,0
-mnky_tomorrow,open,Union,1
-mnky_tomorrow,orders,Union,1
-mnky_tomorrow,sales,Union,$508.33
-mnky_tomorrow,flags,Union,—
-mnky_tomorrow,closed,ScottMarket,0
-mnky_tomorrow,open,ScottMarket,7
-mnky_tomorrow,orders,ScottMarket,7
-mnky_tomorrow,sales,ScottMarket,$3080.35
-mnky_tomorrow,flags,ScottMarket,2 purple + 1 green
-mnky_week,date,Market,2026-09-24
-mnky_week,orders,Anderson,2
-mnky_week,sales,Anderson,$802.17
-mnky_week,flags,Anderson,—
-mnky_week,orders,Crestview,3
-mnky_week,sales,Crestview,$987.05
-mnky_week,flags,Crestview,1 purple
-mnky_week,orders,Florence,3
-mnky_week,sales,Florence,$1207.80
-mnky_week,flags,Florence,—
-mnky_week,orders,Harrison,3
-mnky_week,sales,Harrison,$851.71
-mnky_week,flags,Harrison,—
-mnky_week,orders,Union,4
-mnky_week,sales,Union,$1195.58
-mnky_week,flags,Union,—
-mnky_week,orders,ScottMarket,15
-mnky_week,sales,ScottMarket,$5044.31
-mnky_week,flags,ScottMarket,1 purple
-mnky,at,Market,9/22 ~7:24 AM ET
 managers,today,Anderson,Sarah 6 · Stefan 10 · Emma close
 managers,tomorrow,Anderson,Sarah 6 · John 12
 managers,today,Crestview,Jessie 6-4 · Johie 8-3 · Kevin 9-7 · Kierstan 3-close
@@ -938,18 +856,6 @@ managers,tomorrow,Harrison,Natalie 6 · Russ 930 · Belle 7-2 · Heidy 2-cl
 managers,today,Union,Kleyer 7-3p · Angi 8-3 · Des 3-cl · Jed 10:30-cl
 managers,tomorrow,Union,Molly 9:30 · Sofia 9:30 · Kleyer 6a-2 · Jess 4-cl · Angi 8-3
 managers,at,Market,9/22 ~7:29 AM ET — Today Tue 9/22 + Tomorrow Wed 9/23 (P10W3)
-alerts,open,Anderson,0
-alerts,open,Crestview,0
-alerts,open,Florence,0
-alerts,open,Harrison,1
-alerts,open,Union,0
-alerts,at,Market,09/21/2026 6:49 PM ET
-alerts,opened_at,Harrison,09/21/2026 2:14 PM ET | Would have given a 5 but the fire roasted vegetable soup I got was 90% broth and only about 10% vegetables. | OPEN Post Meal score 4 / NEW Contact Request; activity 3; reward –
-alerts,note,Market,OA All Open = 1; Harrison soup Contact Request NEW; Crestview chicken salad closed Yes reward
-rockstars,guest_comment,Anderson,Sarah and Rachel | Anderson | 09/21/2026 11:58 AM ET | Food is always good, and service was great! Sarah and Rachel are always friendly when I go in and I enjoy interacting with them.
-gf,rockstars_today,Market,Sarah + Rachel Anderson (full comment)
-catering_guest_surveys,row,Harrison,09/21/2026 9:16 AM ET 4★ | wording not shown
-catering_guest_surveys,row,Harrison,09/19/2026 11:31 PM ET 5★ | wording not shown
 crunch,tasks,Anderson,all projects completed
 crunch,tasks,Crestview,all projects completed
 crunch,tasks,Florence,all projects completed
@@ -1000,4 +906,108 @@ lines,lc2,Union,1
 lines,lc3,Union,1
 lines,sn1,Union,1
 lines,sn2,Union,1
-packet,hold,Market,Lane A Tue 9/22 AM COMPLETE: DL Mon 9/21 + BOT Monkey/Zenput/Outlook; FL SN1 Joe-cleared; Panda carried; 9/22 LC zeros skipped
+mnky_today,date,Market,2026-09-22
+mnky_today,closed,Anderson,3
+mnky_today,open,Anderson,0
+mnky_today,total,Anderson,3
+mnky_today,total_sales,Anderson,$1323.19
+mnky_today,flags,Anderson,—
+mnky_today,closed,Crestview,2
+mnky_today,open,Crestview,0
+mnky_today,total,Crestview,2
+mnky_today,total_sales,Crestview,$579.99
+mnky_today,flags,Crestview,—
+mnky_today,closed,Florence,5
+mnky_today,open,Florence,0
+mnky_today,total,Florence,5
+mnky_today,total_sales,Florence,$1158.69
+mnky_today,flags,Florence,—
+mnky_today,closed,Harrison,5
+mnky_today,open,Harrison,0
+mnky_today,total,Harrison,5
+mnky_today,total_sales,Harrison,$1625.11
+mnky_today,flags,Harrison,—
+mnky_today,closed,Union,1
+mnky_today,open,Union,0
+mnky_today,total,Union,1
+mnky_today,total_sales,Union,$742.12
+mnky_today,flags,Union,—
+mnky_today,closed,ScottMarket,16
+mnky_today,open,ScottMarket,0
+mnky_today,total,ScottMarket,16
+mnky_today,total_sales,ScottMarket,$5429.10
+mnky_today,flags,ScottMarket,—
+mnky_tomorrow,date,Market,2026-09-23
+mnky_tomorrow,closed,Anderson,0
+mnky_tomorrow,open,Anderson,3
+mnky_tomorrow,orders,Anderson,3
+mnky_tomorrow,sales,Anderson,$1929.13
+mnky_tomorrow,flags,Anderson,1 green
+mnky_tomorrow,closed,Crestview,0
+mnky_tomorrow,open,Crestview,5
+mnky_tomorrow,orders,Crestview,5
+mnky_tomorrow,sales,Crestview,$1044.22
+mnky_tomorrow,flags,Crestview,2 purple
+mnky_tomorrow,closed,Florence,0
+mnky_tomorrow,open,Florence,1
+mnky_tomorrow,orders,Florence,1
+mnky_tomorrow,sales,Florence,$214.27
+mnky_tomorrow,flags,Florence,—
+mnky_tomorrow,closed,Harrison,0
+mnky_tomorrow,open,Harrison,2
+mnky_tomorrow,orders,Harrison,2
+mnky_tomorrow,sales,Harrison,$862.61
+mnky_tomorrow,flags,Harrison,—
+mnky_tomorrow,closed,Union,0
+mnky_tomorrow,open,Union,2
+mnky_tomorrow,orders,Union,2
+mnky_tomorrow,sales,Union,$614.70
+mnky_tomorrow,flags,Union,1 purple
+mnky_tomorrow,closed,ScottMarket,0
+mnky_tomorrow,open,ScottMarket,13
+mnky_tomorrow,orders,ScottMarket,13
+mnky_tomorrow,sales,ScottMarket,$4664.93
+mnky_tomorrow,flags,ScottMarket,3 purple + 1 green
+mnky_week,date,Market,2026-09-24
+mnky_week,orders,Anderson,4
+mnky_week,sales,Anderson,$1665.54
+mnky_week,flags,Anderson,—
+mnky_week,orders,Crestview,4
+mnky_week,sales,Crestview,$1546.25
+mnky_week,flags,Crestview,2 purple
+mnky_week,orders,Florence,4
+mnky_week,sales,Florence,$1500.82
+mnky_week,flags,Florence,—
+mnky_week,orders,Harrison,4
+mnky_week,sales,Harrison,$1019.99
+mnky_week,flags,Harrison,—
+mnky_week,orders,Union,4
+mnky_week,sales,Union,$1195.58
+mnky_week,flags,Union,1 purple
+mnky_week,orders,ScottMarket,20
+mnky_week,sales,ScottMarket,$6928.18
+mnky_week,flags,ScottMarket,3 purple
+mnky,at,Market,9/22 ~7:33 PM ET
+alerts,open,Anderson,0
+alerts,open,Crestview,0
+alerts,open,Florence,0
+alerts,open,Harrison,0
+alerts,open,Union,0
+alerts,at,Market,09/22/2026 7:33 PM ET
+alerts,note,Market,OA All Open = 0; Mon Harrison soup OA now CLOSED reward Yes
+rockstars,guest_comment,Crestview,Kevin | Crestview | 09/22/2026 5:57 PM ET | friendly manager Kevin always takes time for every guest
+rockstars,guest_comment,Anderson,Sarah and Rachel | Anderson | 09/21/2026 11:58 AM ET | Food is always good, and service was great! Sarah and Rachel are always friendly when I go in and I enjoy interacting with them.
+gf,rockstars_today,Market,Kevin Crestview · Sarah + Rachel Anderson
+catering_guest_surveys,row,Crestview,09/22/2026 11:37 AM ET 5★ | wording not shown
+catering_guest_surveys,row,Harrison,09/21/2026 9:16 AM ET 4★ | wording not shown
+catering_guest_surveys,row,Harrison,09/19/2026 11:31 PM ET 5★ | wording not shown
+market_opps,open,Crestview,09/22/2026 12:18 PM ET | Post Meal score 3 | paid extra turkey, no extra felt | reward – | no alert
+market_opps,open,Florence,09/22/2026 11:59 AM ET | Post Meal score 4 | baked potato still hard | reward – | no alert
+market_opps,closed,Harrison,09/21/2026 2:14 PM ET | Post Meal score 4 CLOSED Contact Request reward Yes | fire roasted veg soup 90% broth 10% vegetables
+market_opps,closed,Union,09/21/2026 8:29 PM ET | Contact Us CLOSED reward Yes | hard gluten-free bread + cheese toastie instead of turkey
+market_opps,at,Market,9/22 ~7:33 PM ET
+coach,guest,Union,9/21 CLOSED Contact Us Yes — hard GF bread + wrong toastie
+coach,guest,Crestview,9/22 score 3 extra turkey not felt (no open alert)
+coach,guest,Florence,9/22 score 4 baked potato still hard (no open alert)
+coach,guest,Harrison,9/21 soup OA CLOSED reward Yes
+packet,hold,Market,Lane A Tue 9/22 PM: Monkey PM + GF; DL Mon 9/21 kept; alerts 0
