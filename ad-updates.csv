@@ -1,8 +1,26 @@
 as_of_et,kind,when_et,what
-2026-09-23 6:00 AM,86s,2026-09-23 6:00 AM,updated 9/23 6:00 AM 86 list card
-2026-09-22 8:45 PM,86s,2026-09-22 8:45 PM,updated 9/22 8:45 PM 86 list card
-2026-09-22 2:00 PM,86s,2026-09-22 2:00 PM,updated 9/22 2:00 PM 86 list card
-2026-09-22 10:30 AM,86s,2026-09-22 10:30 AM,updated 9/22 10:30 AM 86 list card
+2026-09-23 9:56 AM,stamp,,9am rollup
+2026-09-23 9:56 AM,packet,2026-09-23 8:22 AM,Wed 9/23 AM packet restore Tue DL held fresh Monkey 14/$5198 Panda EZ lines
+2026-09-23 9:56 AM,tc2,2026-09-23 7:48 AM,9/23 AM DISARM AN 5:23 Sarah / CV 5:41 Johie / FL 3:13 Sygma / UN 6:25 JED; HA blank
+2026-09-23 9:56 AM,86s,2026-09-23 6:00 AM,updated 9/23 6:00 AM 86 list card AN5 CV3 FL3 HA5 UN2
+2026-09-23 9:56 AM,tc2,2026-09-22 10:34 PM,9/22 ARM AN 9:47 Emma / CV 9:24 Kierstan / FL 9:59 User 0 / HA 9:09 Ethan; UN no arm
+2026-09-23 9:56 AM,86s,2026-09-22 8:45 PM,updated 9/22 8:45 PM 86 list card AN5 CV3 FL3 HA5 UN2
+2026-09-23 9:56 AM,packet,2026-09-22 7:43 PM,Tue 9/22 PM BOT Monkey closed today alerts 0 weekly connection
+2026-09-23 9:56 AM,catering,2026-09-22 6:20 PM,Crestview new_order 3672825 ezCater $172.88
+2026-09-23 9:56 AM,catering,2026-09-22 2:33 PM,Crestview new_order 3672055 Alison Way $165.97
+2026-09-23 9:56 AM,86s,2026-09-22 2:00 PM,updated 9/22 2:00 PM 86 list card AN5 CV3 FL2 HA5 UN2
+2026-09-23 9:56 AM,catering,2026-09-22 1:33 PM,Anderson new_order 3671891 ezCater $231.07
+2026-09-23 9:56 AM,catering,2026-09-22 1:08 PM,Union new_order 3671707 Toni Hall $410.38
+2026-09-23 9:56 AM,catering,2026-09-22 12:35 PM,Anderson new_order 3671692 ezCater $489.16
+2026-09-23 9:56 AM,catering,2026-09-22 12:15 PM,Florence new_order 3671625 ezCater $321.65
+2026-09-23 9:56 AM,catering,2026-09-22 11:54 AM,Anderson new_order 3671527 Micah Slaton $400.97
+2026-09-23 9:56 AM,86s,2026-09-22 10:30 AM,updated 9/22 10:30 AM 86 list card AN4 CV3 FL2 HA5 UN2
+2026-09-23 9:56 AM,catering,2026-09-22 10:01 AM,Florence new_order 3671111 ezCater $293.02
+2026-09-23 9:56 AM,catering,2026-09-22 9:32 AM,Anderson new_order 3671011 ezCater $632.30
+2026-09-23 9:56 AM,catering,2026-09-22 9:16 AM,Crestview new_order 3670943 ezCater $249.23
+2026-09-23 9:56 AM,catering,2026-09-22 9:05 AM,Crestview new_order 3670907 ezCater $559.20
+2026-09-23 9:56 AM,catering,2026-09-22 8:34 AM,Florence new_order 3670805 Grace Hogshead $351.21
+2026-09-23 9:56 AM,catering,2026-09-22 8:25 AM,Anderson new_order 3670797 ezCater $351.79
 2026-09-22 9:55 AM,stamp,,9am rollup
 2026-09-22 9:55 AM,other,2026-09-22 8:49 AM,Rebuild alarms-30d.csv from TC2 since 9/6
 2026-09-22 9:55 AM,tc2,2026-09-22 7:30 AM,7:30 AM ET DISARM 2026-09-22
