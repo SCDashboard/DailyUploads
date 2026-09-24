@@ -1,9 +1,9 @@
 key,value
-today_date,2026-09-23
-yesterday_date,2026-09-22
-report_date,2026-09-23
+today_date,2026-09-24
+yesterday_date,2026-09-23
+report_date,2026-09-24
 numbers_date,2026-09-22
-updated_at,9/23 ~7:56 AM ET
+updated_at,9/24 ~7:43 AM ET
 slot,AM
 am_status,COMPLETE_AM_READY
 lane_split,PACKET_CUT
@@ -207,84 +207,88 @@ tickets,mid,ScottMarket,0
 tickets,dinner,ScottMarket,6
 tickets,total,ScottMarket,9
 tickets,wtd,ScottMarket,9
-managers,today,Anderson,Sarah 6 / John 12
-managers,today,Crestview,Maria 3-7 / Johie 6-3 / Kierstan 6-3 / Kevin 12-10
-managers,today,Florence,Charles 6-2 / Charlene 7-5 / Allison 730 / Yazmin 9-7 / Olivia 5:30-cl
-managers,today,Harrison,Natalie 6 / Belle 7-2 / Russ 930 / Heidy 2-cl
-managers,today,Union,Kleyer 6a-2 / Angi 8-3 / Molly 9:30 / Sofia 9:30 / Jess 4-cl
-managers,tomorrow,Anderson,Sarah 6 / Stefan 10 / Emma close
-managers,tomorrow,Crestview,Ritter 3-7 / Kevin 6-4 / Johie 12-3 4-close
-managers,tomorrow,Florence,Yazmin 6-4 / Allison 730 / Kyle 9-7 / Nick 11-3 / Olivia 5:30-cl
-managers,tomorrow,Harrison,Russ 6 / Belle 7-2 / Ethan 930 / Angi 10-2 / Natalie 1130
-managers,tomorrow,Union,Jed 6-4p / Angi 8-3 / Molly 9:30 / Des 3-cl
-managers,at,Market,9/23 ~7:32 AM ET - Today Wed 9/23 + Tomorrow Thu 9/24 (P10W3)
-mnky_today,date,Market,2026-09-23
+managers,today,Anderson,Sarah 6 / Stefan 10 / Emma close
+managers,today,Crestview,Ritter 3-7 / Kevin 6-4 / Johie 12-3 4-close
+managers,today,Florence,Yazmin 6-4 / Allison 730 / Kyle 9-7 / Nick 11-3 / Olivia 5:30-cl
+managers,today,Harrison,Russ 6 / Belle 7-2 / Ethan 930 / Angi 10-2 / Natalie 1130
+managers,today,Union,Jed 6-4p / Angi 8-3 / Molly 9:30 / Des 3-cl
+managers,tomorrow,Anderson,John 6 · Stefan 10 · Emma close
+managers,tomorrow,Crestview,Ritter 3-7 · Jessie 6-4 · Kierstan 8-3 · Johie 3-close
+managers,tomorrow,Florence,Yazmin 6-4 · Allison 730 · Charles 9-7 · Kyle 12-cl
+managers,tomorrow,Harrison,Ethan 6 · Belle 7-2 · Heidy 930 · Angi 3-cl
+managers,tomorrow,Union,Kleyer 7-3p · Angi 8-3 · Des 9a-4 · Jed 9:30a · Sofia 11:30
+managers,at,Market,9/24 AM - Today Thu 9/24 + Tomorrow Fri 9/25 (P10W3)
+mnky_today,date,Market,2026-09-24
 mnky_today,closed,Anderson,0
-mnky_today,open,Anderson,3
-mnky_today,total,Anderson,3
-mnky_today,total_sales,Anderson,$1929.13
-mnky_today,flags,Anderson,1 orange
+mnky_today,open,Anderson,4
+mnky_today,total,Anderson,4
+mnky_today,total_sales,Anderson,$1665.54
+mnky_today,flags,Anderson,—
 mnky_today,closed,Crestview,0
-mnky_today,open,Crestview,6
-mnky_today,total,Crestview,6
-mnky_today,total_sales,Crestview,$1577.30
-mnky_today,flags,Crestview,1 green
+mnky_today,open,Crestview,5
+mnky_today,total,Crestview,5
+mnky_today,total_sales,Crestview,$1901.46
+mnky_today,flags,Crestview,—
 mnky_today,closed,Florence,0
-mnky_today,open,Florence,1
-mnky_today,total,Florence,1
-mnky_today,total_sales,Florence,$214.27
+mnky_today,open,Florence,4
+mnky_today,total,Florence,4
+mnky_today,total_sales,Florence,$1353.95
 mnky_today,flags,Florence,—
 mnky_today,closed,Harrison,0
-mnky_today,open,Harrison,2
-mnky_today,total,Harrison,2
-mnky_today,total_sales,Harrison,$862.61
-mnky_today,flags,Harrison,1 orange
+mnky_today,open,Harrison,6
+mnky_today,total,Harrison,6
+mnky_today,total_sales,Harrison,$1497.98
+mnky_today,flags,Harrison,—
 mnky_today,closed,Union,0
 mnky_today,open,Union,2
 mnky_today,total,Union,2
-mnky_today,total_sales,Union,$614.70
+mnky_today,total_sales,Union,$982.78
 mnky_today,flags,Union,—
 mnky_today,closed,ScottMarket,0
-mnky_today,open,ScottMarket,14
-mnky_today,total,ScottMarket,14
-mnky_today,total_sales,ScottMarket,$5198.01
-mnky_today,flags,ScottMarket,1 green + 2 orange
-mnky_tomorrow,date,Market,2026-09-24
-mnky_tomorrow,closed,Anderson,0
-mnky_tomorrow,open,Anderson,4
-mnky_tomorrow,orders,Anderson,4
-mnky_tomorrow,sales,Anderson,$1665.54
+mnky_today,open,ScottMarket,21
+mnky_today,total,ScottMarket,21
+mnky_today,total_sales,ScottMarket,$7401.71
+mnky_today,flags,ScottMarket,—
+mnky_tomorrow,date,Market,2026-09-25
+mnky_tomorrow,orders,Anderson,0
+mnky_tomorrow,sales,Anderson,$0.00
 mnky_tomorrow,flags,Anderson,—
-mnky_tomorrow,closed,Crestview,0
-mnky_tomorrow,open,Crestview,3
-mnky_tomorrow,orders,Crestview,3
-mnky_tomorrow,sales,Crestview,$1212.08
-mnky_tomorrow,flags,Crestview,1 purple
-mnky_tomorrow,closed,Florence,0
-mnky_tomorrow,open,Florence,3
-mnky_tomorrow,orders,Florence,3
-mnky_tomorrow,sales,Florence,$1278.29
+mnky_tomorrow,orders,Crestview,2
+mnky_tomorrow,sales,Crestview,$878.36
+mnky_tomorrow,flags,Crestview,—
+mnky_tomorrow,orders,Florence,2
+mnky_tomorrow,sales,Florence,$485.29
 mnky_tomorrow,flags,Florence,—
-mnky_tomorrow,closed,Harrison,0
-mnky_tomorrow,open,Harrison,4
-mnky_tomorrow,orders,Harrison,4
-mnky_tomorrow,sales,Harrison,$1019.99
+mnky_tomorrow,orders,Harrison,0
+mnky_tomorrow,sales,Harrison,$0.00
 mnky_tomorrow,flags,Harrison,—
-mnky_tomorrow,closed,Union,0
-mnky_tomorrow,open,Union,1
-mnky_tomorrow,orders,Union,1
-mnky_tomorrow,sales,Union,$601.43
+mnky_tomorrow,orders,Union,0
+mnky_tomorrow,sales,Union,$0.00
 mnky_tomorrow,flags,Union,—
-mnky_tomorrow,closed,ScottMarket,0
-mnky_tomorrow,open,ScottMarket,15
-mnky_tomorrow,orders,ScottMarket,15
-mnky_tomorrow,sales,ScottMarket,$5777.33
-mnky_tomorrow,flags,ScottMarket,1 purple
-mnky_week,orders,ScottMarket,4
-mnky_week,sales,ScottMarket,$732.90
-mnky_week,flags,ScottMarket,1 purple
-mnky,at,Market,9/23 ~7:50 AM ET
-mnky,note,Market,Wed AM View Orders; today open 14/$5198.01; Thu 15/$5777.33; Fri-Sun rest 4/$732.90; week 68/$26130.73
+mnky_tomorrow,orders,ScottMarket,4
+mnky_tomorrow,sales,ScottMarket,$1363.65
+mnky_tomorrow,flags,ScottMarket,—
+mnky_week,date,Market,2026-09-26
+mnky_week,orders,Anderson,0
+mnky_week,sales,Anderson,$0.00
+mnky_week,flags,Anderson,—
+mnky_week,orders,Crestview,0
+mnky_week,sales,Crestview,$0.00
+mnky_week,flags,Crestview,—
+mnky_week,orders,Florence,1
+mnky_week,sales,Florence,$165.20
+mnky_week,flags,Florence,—
+mnky_week,orders,Harrison,0
+mnky_week,sales,Harrison,$0.00
+mnky_week,flags,Harrison,—
+mnky_week,orders,Union,2
+mnky_week,sales,Union,$176.20
+mnky_week,flags,Union,—
+mnky_week,orders,ScottMarket,3
+mnky_week,sales,ScottMarket,$341.40
+mnky_week,flags,ScottMarket,—
+mnky,at,Market,9/24 ~7:40 AM ET
+mnky,note,Market,Thu 9/24 AM View Orders; today open 21/$7401.71; Fri 4/$1363.65; Sat-Sun rest 3/$341.40; week 78/$28919.16 anchor 9/21
 panda,timer,Harrison,23
 panda,wo,Harrison,#00954|Approved For Quote Request|e105 mains supply frequency issue|opened 6/2|landed 9/1
 panda,timer,Union,23
@@ -328,6 +332,240 @@ ez_cater,acc,ScottMarket,99.7
 ez_cater,tracking,ScottMarket,95.3
 ez_cater,at,Market,9/23 5:40 AM ET
 ez_cater,note,Market,Wed 9/23 MWF pull; HA Rockstar still NO
+lines,date,Market,2026-09-12
+lines,lc1,Anderson,1
+lines,lc2,Anderson,1
+lines,lc3,Anderson,1
+lines,sn1,Anderson,1
+lines,sn2,Anderson,1
+lines,lc1,Crestview,1
+lines,lc2,Crestview,1
+lines,lc3,Crestview,1
+lines,sn1,Crestview,1
+lines,sn2,Crestview,1
+lines,lc1,Florence,1
+lines,lc2,Florence,1
+lines,lc3,Florence,1
+lines,sn1,Florence,1
+lines,sn2,Florence,1
+lines,lc1,Harrison,1
+lines,lc2,Harrison,1
+lines,lc3,Harrison,1
+lines,sn1,Harrison,1
+lines,sn2,Harrison,1
+lines,lc1,Union,1
+lines,lc2,Union,1
+lines,lc3,Union,1
+lines,sn1,Union,1
+lines,sn2,Union,1
+lines,date,Market,2026-09-13
+lines,lc1,Anderson,1
+lines,lc2,Anderson,1
+lines,lc3,Anderson,1
+lines,sn1,Anderson,1
+lines,sn2,Anderson,1
+lines,lc1,Crestview,1
+lines,lc2,Crestview,1
+lines,lc3,Crestview,1
+lines,sn1,Crestview,1
+lines,sn2,Crestview,1
+lines,lc1,Florence,1
+lines,lc2,Florence,1
+lines,lc3,Florence,1
+lines,sn1,Florence,1
+lines,sn2,Florence,1
+lines,lc1,Harrison,1
+lines,lc2,Harrison,1
+lines,lc3,Harrison,1
+lines,sn1,Harrison,1
+lines,sn2,Harrison,1
+lines,lc1,Union,1
+lines,lc2,Union,1
+lines,lc3,Union,1
+lines,sn1,Union,1
+lines,sn2,Union,1
+lines,date,Market,2026-09-14
+lines,lc1,Anderson,1
+lines,lc2,Anderson,1
+lines,lc3,Anderson,1
+lines,sn1,Anderson,1
+lines,sn2,Anderson,1
+lines,lc1,Crestview,1
+lines,lc2,Crestview,1
+lines,lc3,Crestview,1
+lines,sn1,Crestview,0
+lines,sn2,Crestview,1
+lines,lc1,Florence,1
+lines,lc2,Florence,1
+lines,lc3,Florence,1
+lines,sn1,Florence,1
+lines,sn2,Florence,1
+lines,lc1,Harrison,1
+lines,lc2,Harrison,1
+lines,lc3,Harrison,1
+lines,sn1,Harrison,1
+lines,sn2,Harrison,1
+lines,lc1,Union,1
+lines,lc2,Union,1
+lines,lc3,Union,1
+lines,sn1,Union,1
+lines,sn2,Union,1
+lines,date,Market,2026-09-15
+lines,lc1,Anderson,1
+lines,lc2,Anderson,1
+lines,lc3,Anderson,1
+lines,sn1,Anderson,1
+lines,sn2,Anderson,1
+lines,lc1,Crestview,1
+lines,lc2,Crestview,1
+lines,lc3,Crestview,1
+lines,sn1,Crestview,1
+lines,sn2,Crestview,1
+lines,lc1,Florence,1
+lines,lc2,Florence,1
+lines,lc3,Florence,1
+lines,sn1,Florence,1
+lines,sn2,Florence,1
+lines,lc1,Harrison,1
+lines,lc2,Harrison,1
+lines,lc3,Harrison,1
+lines,sn1,Harrison,1
+lines,sn2,Harrison,1
+lines,lc1,Union,1
+lines,lc2,Union,1
+lines,lc3,Union,1
+lines,sn1,Union,1
+lines,sn2,Union,1
+lines,date,Market,2026-09-16
+lines,lc1,Anderson,1
+lines,lc2,Anderson,1
+lines,lc3,Anderson,1
+lines,sn1,Anderson,1
+lines,sn2,Anderson,1
+lines,lc1,Crestview,1
+lines,lc2,Crestview,1
+lines,lc3,Crestview,0
+lines,sn1,Crestview,1
+lines,sn2,Crestview,0
+lines,lc1,Florence,1
+lines,lc2,Florence,1
+lines,lc3,Florence,1
+lines,sn1,Florence,1
+lines,sn2,Florence,1
+lines,lc1,Harrison,1
+lines,lc2,Harrison,1
+lines,lc3,Harrison,1
+lines,sn1,Harrison,1
+lines,sn2,Harrison,0
+lines,lc1,Union,1
+lines,lc2,Union,1
+lines,lc3,Union,1
+lines,sn1,Union,1
+lines,sn2,Union,1
+lines,date,Market,2026-09-17
+lines,lc1,Anderson,1
+lines,lc2,Anderson,1
+lines,lc3,Anderson,1
+lines,sn1,Anderson,1
+lines,sn2,Anderson,1
+lines,lc1,Crestview,1
+lines,lc2,Crestview,1
+lines,lc3,Crestview,0
+lines,sn1,Crestview,1
+lines,sn2,Crestview,1
+lines,lc1,Florence,1
+lines,lc2,Florence,1
+lines,lc3,Florence,1
+lines,sn1,Florence,1
+lines,sn2,Florence,1
+lines,lc1,Harrison,1
+lines,lc2,Harrison,1
+lines,lc3,Harrison,1
+lines,sn1,Harrison,1
+lines,sn2,Harrison,1
+lines,lc1,Union,1
+lines,lc2,Union,1
+lines,lc3,Union,1
+lines,sn1,Union,1
+lines,sn2,Union,1
+lines,date,Market,2026-09-18
+lines,lc1,Anderson,1
+lines,lc2,Anderson,1
+lines,lc3,Anderson,1
+lines,sn1,Anderson,1
+lines,sn2,Anderson,1
+lines,lc1,Crestview,1
+lines,lc2,Crestview,1
+lines,lc3,Crestview,1
+lines,sn1,Crestview,1
+lines,sn2,Crestview,1
+lines,lc1,Florence,1
+lines,lc2,Florence,1
+lines,lc3,Florence,1
+lines,sn1,Florence,1
+lines,sn2,Florence,1
+lines,lc1,Harrison,1
+lines,lc2,Harrison,1
+lines,lc3,Harrison,1
+lines,sn1,Harrison,1
+lines,sn2,Harrison,1
+lines,lc1,Union,1
+lines,lc2,Union,1
+lines,lc3,Union,1
+lines,sn1,Union,1
+lines,sn2,Union,0
+lines,date,Market,2026-09-19
+lines,lc1,Anderson,1
+lines,lc2,Anderson,1
+lines,lc3,Anderson,1
+lines,sn1,Anderson,1
+lines,sn2,Anderson,1
+lines,lc1,Crestview,1
+lines,lc2,Crestview,1
+lines,lc3,Crestview,1
+lines,sn1,Crestview,1
+lines,sn2,Crestview,1
+lines,lc1,Florence,1
+lines,lc2,Florence,1
+lines,lc3,Florence,1
+lines,sn1,Florence,1
+lines,sn2,Florence,1
+lines,lc1,Harrison,1
+lines,lc2,Harrison,1
+lines,lc3,Harrison,1
+lines,sn1,Harrison,1
+lines,sn2,Harrison,1
+lines,lc1,Union,1
+lines,lc2,Union,1
+lines,lc3,Union,1
+lines,sn1,Union,1
+lines,sn2,Union,1
+lines,date,Market,2026-09-20
+lines,lc1,Anderson,1
+lines,lc2,Anderson,1
+lines,lc3,Anderson,1
+lines,sn1,Anderson,1
+lines,sn2,Anderson,1
+lines,lc1,Crestview,1
+lines,lc2,Crestview,1
+lines,lc3,Crestview,1
+lines,sn1,Crestview,1
+lines,sn2,Crestview,1
+lines,lc1,Florence,1
+lines,lc2,Florence,1
+lines,lc3,Florence,1
+lines,sn1,Florence,1
+lines,sn2,Florence,0
+lines,lc1,Harrison,1
+lines,lc2,Harrison,1
+lines,lc3,Harrison,0
+lines,sn1,Harrison,1
+lines,sn2,Harrison,1
+lines,lc1,Union,1
+lines,lc2,Union,1
+lines,lc3,Union,1
+lines,sn1,Union,1
+lines,sn2,Union,1
 lines,date,Market,2026-09-22
 lines,lc1,Anderson,1
 lines,lc2,Anderson,1
@@ -354,18 +592,42 @@ lines,lc2,Union,1
 lines,lc3,Union,0
 lines,sn1,Union,0
 lines,sn2,Union,1
-lines,note,Market,Tue 9/22 Joe confirmed misses AN SN1+SN2 HA LC3 UN LC3+SN1; Wed 9/23 all-zero LC dropped
-coach,overnight_brief,ScottMarket,Tue 9/22 Joe confirmed AN SN1+SN2 HA LC3 UN LC3+SN1
-coach,bankRunBy,Crestview,maryssa
-coach,bankRunBy,Florence,Yaz
-coach,bankRunBy,Harrison,Russ
-coach,bankRunBy,Union,Jed
+lines,date,Market,2026-09-23
+lines,lc1,Anderson,1
+lines,lc2,Anderson,1
+lines,lc3,Anderson,0
+lines,sn1,Anderson,1
+lines,sn2,Anderson,1
+lines,lc1,Crestview,0
+lines,lc2,Crestview,1
+lines,lc3,Crestview,1
+lines,sn1,Crestview,1
+lines,sn2,Crestview,1
+lines,lc1,Florence,1
+lines,lc2,Florence,1
+lines,lc3,Florence,1
+lines,sn1,Florence,0
+lines,sn2,Florence,0
+lines,lc1,Harrison,1
+lines,lc2,Harrison,1
+lines,lc3,Harrison,1
+lines,sn1,Harrison,1
+lines,sn2,Harrison,1
+lines,lc1,Union,1
+lines,lc2,Union,1
+lines,lc3,Union,1
+lines,sn1,Union,1
+lines,sn2,Union,1
+lines,note,Market,Tue 9/22 Joe confirmed misses AN SN1+SN2 HA LC3 UN LC3+SN1
+lines,note,Market,Wed 9/23 pending Joe: AN LC3 · CV LC1 · FL SN1+SN2; Thu 9/24 all-zero LC dropped
 alerts,open,Anderson,0
 alerts,open,Crestview,0
-alerts,open,Florence,0
+alerts,open,Florence,1
 alerts,open,Harrison,0
 alerts,open,Union,0
-alerts,note,Market,OA All Open = 0
+alerts,at,Market,9/24 ~7:38 AM ET
+alerts,opened_at,Florence,9/23 4:33 PM ET Contact Request — Skimpy on the cheese and bacon and the spud and it was a little on the hard side/underdone also my friends ordered after me but all got their food before me by atleast 5 min. | no reward | OPEN NEW score 3
+alerts,note,Market,FL 1 OPEN Contact Request (skimpy cheese/bacon/spud underdone + served after friends); AN/CV/HA/UN 0
 news,birthday,Market,Birthday: William Beagles - Crestview (9/25)
 news,birthday,Market,Birthday: Jahmir Ackerson - Florence (9/25)
 news,birthday,Market,Birthday: Andrew Miller - Crestview (9/26)
@@ -381,8 +643,6 @@ news,birthday,Market,Birthday: Christopher Brown - Crestview (10/10)
 news,birthday,Market,Birthday: Jaquale Miller - Crestview (10/10)
 news,birthday,Market,Birthday: Lucas Dennison - Florence (10/12)
 news,birthday,Market,Birthday: Ronald Williams - Harrison (10/12)
-news,anniversary,Market,Anniversary (1 year): Caylee Mullins - Crestview (9/23)
-news,anniversary,Market,Anniversary (4 year): Ohmar Gibson - Florence (9/23)
 news,anniversary,Market,Anniversary (7 year): Donna Nease - Harrison (9/25)
 news,anniversary,Market,Anniversary (4 year): Adrianna Huddleston - Crestview (9/27)
 news,anniversary,Market,Anniversary (5 year): James Patrick - Harrison (9/28)
@@ -391,14 +651,52 @@ news,anniversary,Market,Anniversary (1 year): Raven Horton - Harrison (10/2)
 news,anniversary,Market,Anniversary (1 year): Eriquana Price - Harrison (10/9)
 news,anniversary,Market,Anniversary (6 year): Andrew Jones - Anderson (10/13)
 news,anniversary,Market,Anniversary (3 year): Andrew Miller - Crestview (10/13)
-news,at,Market,9/23 ~7:07 AM ET window 9/23-10/13
-crunch,tasks,Anderson,Active 10AM LC due Wed 9/23
-crunch,tasks,Crestview,Active 10AM LC due Wed 9/23
-crunch,tasks,Florence,Active 10AM LC due Wed 9/23
-crunch,tasks,Harrison,Active 10AM LC due Wed 9/23
-crunch,tasks,Union,Active 10AM LC due Wed 9/23
-crunch,at,Market,9/23 ~7:55 AM ET
-packet,hold,Market,Wed 9/23 AM BOT fresh Monkey 14/$5198; DL Tue 9/22 held; 9/23 zero LC dropped; Lane B never
+news,at,Market,9/24 ~7:03 AM ET window 9/24-10/14
+catering_guest_surveys,row,Harrison,9/23 12:37 PM 5★ The staff at this McAlister's location knocks it out of the park every time! Orders are always exactly as we ordered, boxes are labeled, everything is done on time, and soup is hot. Our company will pick this McAlister's over and over - our guests love it and we love the ease and accuracy.
+catering_guest_surveys,row,Crestview,9/22 11:37 AM 5★ no comment visible
+catering_guest_surveys,row,Crestview,9/18 10:28 AM 5★ no comment visible
+catering_guest_surveys,row,Florence,9/18 9:06 AM 5★ office lunch — easy order on-time professional delivery
+catering_guest_surveys,row,Union,9/17 9:11 AM 5★ Angie/team last-minute wonderful
+catering_guest_surveys,row,Anderson,9/16 10:42 PM 5★ Everything was well prepared
+catering_guest_surveys,row,Union,9/16 3:59 PM 5★ Angie/team late delivery confirm
+catering_guest_surveys,row,Florence,9/16 10:13 AM 5★ on time and fresh
+catering_guest_surveys,row,Anderson,9/16 9:22 AM 5★ Adriana same-day accommodate
+catering_guest_surveys,row,Crestview,9/16 9:07 AM 5★ online order correct friendly
+catering_guest_surveys,row,Anderson,9/14 6:32 PM 5★ sandwiches amazing shower
+catering_guest_surveys,at,Market,9/24 ~7:38 AM ET
+catering_guest_surveys,note,Market,Post Catering Experience only — not GF 5★/MO; catch-up HA 9/23 5★ accuracy/labeling/timing/hot soup (store label normalized to Harrison) + CV 9/22 5★ no comment
+coach,guest,Harrison,9/23 positive/thanks Contact Us forgotten order + free desserts/milkbones (store→Harrison); OA 0; catering 9/23 5★ accuracy
+coach,guest,Anderson,9/23 CLOSED Contact Request kids meals missing Mac and cheese side
+coach,guest,Union,9/21 CLOSED Contact Us GF bread hard + turkey toastie as cheese (reward Yes); carry known Tue
+coach,guest,Florence,9/23 4:33 PM OPEN NEW Contact Request score 3 skimpy cheese/bacon/spud underdone + friends served first
+coach,guest,Crestview,HOT 9/24 6:06 AM 3★ upside-down pineapple cake drink extremely sweet/stomach; HOT 9/23 2:32 PM 3★ one food item extremely lacking for cost
+gf,rockstars_today,Market,none on page-1 scroll
+gf,at,Market,9/24 ~7:38 AM ET
+gf,note,Market,Wed 9/23 night skip catch-up Thu AM: OA FL1 Contact Request skimpy cheese/bacon/spud underdone + served after friends; hot CV 9/24 6:06 AM upside-down pineapple cake drink extremely sweet/stomach + CV 9/23 2:32 PM one food item extremely lacking; CLOSED AN kids Mac-and-cheese + UN 9/21 GF bread hard/turkey toastie as cheese; positive HA 9/23 thanks forgotten order + free desserts/milkbones (store label normalized to Harrison); catering HA 9/23 5★ accuracy/labeling/timing/hot soup + CV 9/22 5★; rockstars none page-1; MO none page-1; Ranker skipped on-request; Coach/Guest Follow-up none page-1
+coach,brief,ScottMarket,Thu 4:30am Zenput Wed 9/23 ALL5 — AN LC3 X · CV LC1 X · FL SN1+SN2 X (pending Joe confirm); banks AN Adrianna · CV maryssa · FL — · HA Natalie · UN Sofia Stone; CrunchTime all 5 all projects completed
+coach,bankRunBy,Anderson,Adrianna
+coach,bankRunBy,Crestview,maryssa
+coach,bankRunBy,Florence,—
+coach,bankRunBy,Harrison,Natalie
+coach,bankRunBy,Union,Sofia Stone
+coach,temps,Anderson,Wed 9/23 LC quality: food 465°F noted; LC3 X pending Joe
+coach,temps,Crestview,Wed 9/23 LC1 X (Project blank ≠ 10AM) pending Joe; 41°F recool noted
+coach,temps,Florence,Wed 9/23 SN1+SN2 X (Project blank ≠ AM/PM) pending Joe; LC temps no CA called
+coach,temps,Harrison,Wed 9/23 LC1–LC3 ✓; no temp CA flagged in overnight pull
+coach,temps,Union,Wed 9/23 cold-food 41 / 41.7 / 43 / 42.5°F + ice-bath corrective
+coach,other,Anderson,Wed 9/23 LC1✓ Sarah 10:26a · LC2✓ John 1:43p · LC3 X · SN1✓ Sarah AM 3:23p · SN2✓ John PM 9:28p · bank Adrianna · guest dead fly in to-go · Kaylee home early (pain)
+coach,other,Crestview,Wed 9/23 LC1 X Johie Haney 9:47a blank · LC2✓ Kierstan 2:08p · LC3✓ Rit 4:28p · SN1✓ kevin AM 2:05p · SN2✓ kevin PM 7:49p · bank maryssa · call-offs drew/maria double + Alex PM; mid-manager missing
+coach,other,Florence,Wed 9/23 LC1✓ Charlene 8:02a · LC2✓ Charles 1:44p · LC3✓ Yaztastic 4:58p · SN1 X · SN2 X · bank — · rockstars Everyone! · Autumn new hire observed closing
+coach,other,Harrison,Wed 9/23 LC1✓ reese 8:38a · LC2✓ Russ 2:08p · LC3✓ Russ 5:58p · SN1✓ Nat AM 2:08p · SN2✓ Heidy PM 7:29p · bank Natalie
+coach,other,Union,Wed 9/23 LC1✓ Molly 9:35a · LC2✓ Sofie 1:40p · LC3✓ Jessica Ponce 4:44p · SN1✓ Molly AM 2:04p · SN2✓ Jessica Ponce PM 7:17p · bank Sofia Stone (AM also Sophie — coach other; SN2/PM preferred once) · cold food + ice-bath; weather slower shift
+coach,evening_note,Market,Thu 4:30am Ops Bot Wed 9/23 ALL5: AN LC3 X · CV LC1 X · FL SN1+SN2 X pending Joe; banks AN Adrianna | CV maryssa | FL — | HA Natalie | UN Sofia Stone; CrunchTime all projects completed ×5
+crunch,tasks,Anderson,all projects completed
+crunch,tasks,Crestview,all projects completed
+crunch,tasks,Florence,all projects completed
+crunch,tasks,Harrison,all projects completed
+crunch,tasks,Union,all projects completed
+crunch,at,Market,9/24 ~7:43 AM ET
+packet,hold,Market,Lane A Thu 9/24 AM COMPLETE hold — Zenput Wed folded + Monkey 78/$28919 + GF Feedback catch-up OA FL1; Panda/EZ SKIP Thu; Outlook paused; Ranker off; Lane B preserve; chat-attach only; no email
 86s,count,Anderson,5
 86s,count,Crestview,3
 86s,count,Florence,2
