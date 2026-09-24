@@ -141,21 +141,27 @@ cash,note,Market,Wed 9/23 store O/S; FL -6 and UN -6 alerts sent; HA +5 exact sk
 catering_sales,day$,Anderson,1975.05
 catering_sales,vs_ly,Anderson,+271.98%
 catering_sales,wtd$,Anderson,3133.61
+catering_sales,vs_ly_wtd,Anderson,+91.46%
 catering_sales,day$,Crestview,1312.05
 catering_sales,vs_ly,Crestview,-45.83%
 catering_sales,wtd$,Crestview,4622.76
+catering_sales,vs_ly_wtd,Crestview,-2.88%
 catering_sales,day$,Florence,222.73
 catering_sales,vs_ly,Florence,-89.29%
 catering_sales,wtd$,Florence,1704.65
+catering_sales,vs_ly_wtd,Florence,-54.25%
 catering_sales,day$,Harrison,741.40
 catering_sales,vs_ly,Harrison,+14.29%
 catering_sales,wtd$,Harrison,4438.67
+catering_sales,vs_ly_wtd,Harrison,+27.85%
 catering_sales,day$,Union,483.94
 catering_sales,vs_ly,Union,+214.51%
 catering_sales,wtd$,Union,1133.89
+catering_sales,vs_ly_wtd,Union,+36.66%
 catering_sales,day$,Scott4,4251.23
 catering_sales,vs_ly,Scott4,-25.19%
 catering_sales,wtd$,Scott4,13899.69
+catering_sales,vs_ly_wtd,Scott4,+2.24%
 catering_sales,day$,ScottMarket,4735.17
 catering_sales,wtd$,ScottMarket,15033.58
 catering_sales,note,Market,Catering Sales not +delivery; AN day $1975 over $1500 cap
