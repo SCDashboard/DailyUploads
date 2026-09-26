@@ -83,21 +83,21 @@ payroll,wtd_hrs,Union,349.64
 payroll,wtd_hrs,Scott4,1989.83
 payroll,wtd_hrs,ScottMarket,2339.47
 payroll,at,Market,9/26 ~6:57 AM ET
-cash,yesterday,Anderson,9
-cash,wtd,Anderson,10
-cash,yesterday,Crestview,-3
-cash,wtd,Crestview,8
+cash,yesterday,Anderson,1
+cash,wtd,Anderson,11
+cash,yesterday,Crestview,-4
+cash,wtd,Crestview,4
 cash,yesterday,Florence,-2
-cash,wtd,Florence,-11
-cash,yesterday,Harrison,1
-cash,wtd,Harrison,-7
-cash,yesterday,Union,5
-cash,wtd,Union,-1
-cash,yesterday,Scott4,6
-cash,wtd,Scott4,-1
-cash,yesterday,ScottMarket,11
-cash,wtd,ScottMarket,-2
-cash,note,Market,Still Thu 9/24 store O/S; Friday cash not in the Sat export
+cash,wtd,Florence,-14
+cash,yesterday,Harrison,-7
+cash,wtd,Harrison,-14
+cash,yesterday,Union,1
+cash,wtd,Union,0
+cash,yesterday,Scott4,-11
+cash,wtd,Scott4,-12
+cash,yesterday,ScottMarket,-10
+cash,wtd,ScottMarket,-12
+cash,note,Market,Fri 9/25 DL CS&H whole dollars; HA -7 over $5; WTD AN +11 FL -14 HA -14; CV +4 and UN 0 under $5; Scott4 day -11 WTD -12; Scott Market day -10 WTD -12 (DL totals as given; whole-dollar store sum off $1); LW not in export
 catering_sales,day$,Anderson,0.00
 catering_sales,vs_ly,Anderson,-100.00%
 catering_sales,ly_day$,Anderson,821.49
