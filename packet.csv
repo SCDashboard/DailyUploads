@@ -79,3 +79,96 @@ payroll,wtd_hrs,Union,349.64
 payroll,wtd_hrs,Scott4,1989.83
 payroll,wtd_hrs,ScottMarket,2339.47
 payroll,at,Market,9/26 ~6:57 AM ET
+cash,yesterday,Anderson,9
+cash,wtd,Anderson,10
+cash,yesterday,Crestview,-3
+cash,wtd,Crestview,8
+cash,yesterday,Florence,-2
+cash,wtd,Florence,-11
+cash,yesterday,Harrison,1
+cash,wtd,Harrison,-7
+cash,yesterday,Union,5
+cash,wtd,Union,-1
+cash,yesterday,Scott4,6
+cash,wtd,Scott4,-1
+cash,yesterday,ScottMarket,11
+cash,wtd,ScottMarket,-2
+cash,note,Market,Still Thu 9/24 store O/S; Friday cash not in the Sat export
+catering_sales,day$,Anderson,1423.53
+catering_sales,vs_ly,Anderson,+5.70%
+catering_sales,wtd$,Anderson,4557.14
+catering_sales,vs_ly_wtd,Anderson,+52.75%
+catering_sales,day$,Crestview,2029.56
+catering_sales,vs_ly,Crestview,+32.68%
+catering_sales,wtd$,Crestview,6652.32
+catering_sales,vs_ly_wtd,Crestview,+5.77%
+catering_sales,day$,Florence,1282.53
+catering_sales,vs_ly,Florence,+22.35%
+catering_sales,wtd$,Florence,2987.18
+catering_sales,vs_ly_wtd,Florence,-37.44%
+catering_sales,day$,Harrison,1195.55
+catering_sales,vs_ly,Harrison,-48.63%
+catering_sales,wtd$,Harrison,5634.22
+catering_sales,vs_ly_wtd,Harrison,-2.85%
+catering_sales,day$,Union,740.30
+catering_sales,vs_ly,Union,+97.07%
+catering_sales,wtd$,Union,1874.19
+catering_sales,vs_ly_wtd,Union,+55.48%
+catering_sales,day$,Scott4,5931.17
+catering_sales,vs_ly,Scott4,-5.13%
+catering_sales,wtd$,Scott4,19830.86
+catering_sales,vs_ly_wtd,Scott4,-0.08%
+catering_sales,day$,ScottMarket,6671.47
+catering_sales,wtd$,ScottMarket,21705.05
+catering_sales,note,Market,Catering Sales not +delivery; CV day $2029.56 over $2000 cap
+punch130,none,Market,-
+punch130,note,Market,Thu 9/24 no 1:30 punches
+minors,none,Market,-
+minors,note,Market,Thu 9/24 M-roster no flags; Allie UN 4.57; Lola AN 3.62; Samuel CV 2.07; Natalie/Jameera/William/Thea/Mckenna/Thomas off
+tickets,note,Market,Fri 9/25 12-min from DL; WTD not in export so Monday hold not rolled into WTD
+tickets,lunch,Anderson,6
+tickets,mid,Anderson,0
+tickets,dinner,Anderson,0
+tickets,total,Anderson,6
+tickets,wtd,Anderson,—
+tickets,lunch,Crestview,5
+tickets,mid,Crestview,0
+tickets,dinner,Crestview,0
+tickets,total,Crestview,5
+tickets,wtd,Crestview,—
+tickets,lunch,Florence,0
+tickets,mid,Florence,0
+tickets,dinner,Florence,0
+tickets,total,Florence,0
+tickets,wtd,Florence,—
+tickets,lunch,Harrison,31
+tickets,mid,Harrison,0
+tickets,dinner,Harrison,0
+tickets,total,Harrison,31
+tickets,wtd,Harrison,—
+tickets,lunch,Union,0
+tickets,mid,Union,0
+tickets,dinner,Union,3
+tickets,total,Union,3
+tickets,wtd,Union,—
+tickets,lunch,Scott4,42
+tickets,mid,Scott4,0
+tickets,dinner,Scott4,0
+tickets,total,Scott4,42
+tickets,wtd,Scott4,—
+tickets,lunch,ScottMarket,42
+tickets,mid,ScottMarket,0
+tickets,dinner,ScottMarket,3
+tickets,total,ScottMarket,45
+tickets,wtd,ScottMarket,—
+managers,today,Anderson,Sarah 6 / Stefan 10 / Emma close
+managers,today,Crestview,Ritter 3-7 / Kevin 6-4 / Johie 12-3 4-close
+managers,today,Florence,Yazmin 6-4 / Allison 730 / Kyle 9-7 / Nick 11-3 / Olivia 5:30-cl
+managers,today,Harrison,Russ 6 / Belle 7-2 / Ethan 930 / Angi 10-2 / Natalie 1130
+managers,today,Union,Jed 6-4p / Angi 8-3 / Molly 9:30 / Des 3-cl
+managers,tomorrow,Anderson,John 6 · Stefan 10 · Emma close
+managers,tomorrow,Crestview,Ritter 3-7 · Jessie 6-4 · Kierstan 8-3 · Johie 3-close
+managers,tomorrow,Florence,Yazmin 6-4 · Allison 730 · Charles 9-7 · Kyle 12-cl
+managers,tomorrow,Harrison,Ethan 6 · Belle 7-2 · Heidy 930 · Angi 3-cl
+managers,tomorrow,Union,Kleyer 7-3p · Angi 8-3 · Des 9a-4 · Jed 9:30a · Sofia 11:30
+managers,at,Market,9/24 AM - Today Thu 9/24 + Tomorrow Fri 9/25 (P10W3)
