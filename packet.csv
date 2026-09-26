@@ -33,6 +33,9 @@ sales,vs_ly$,Harrison,-217
 sales,wtd$,Harrison,40935
 sales,vs_ly_wtd,Harrison,+0.41%
 sales,vs_ly_wtd$,Harrison,166
+sales,day$,Union,5076
+sales,vs_ly,Union,-27.98%
+sales,vs_ly$,Union,-1971
 sales,wtd$,Union,24009
 sales,vs_ly_wtd,Union,-16.58%
 sales,vs_ly_wtd$,Union,-4773
@@ -42,10 +45,13 @@ sales,vs_ly$,Scott4,-1269
 sales,wtd$,Scott4,148027
 sales,vs_ly_wtd,Scott4,-4.49%
 sales,vs_ly_wtd$,Scott4,-6961
+sales,day$,ScottMarket,35843
+sales,vs_ly,ScottMarket,-8.29%
+sales,vs_ly$,ScottMarket,-3240
 sales,wtd$,ScottMarket,172036
 sales,vs_ly_wtd,ScottMarket,-6.39%
 sales,vs_ly_wtd$,ScottMarket,-11734
-sales,note,Market,DL Sat 9/26 export Fri 9/25; WTD Mon-Fri; Union day not exported; Scott Market day omitted; vs LW not in export
+sales,note,Market,Fri 9/25 DL; Union day $5076 -27.98% now in; Scott Market day $35843 -8.29% (5 stores); Scott4 day stays the 4 stores; WTD unchanged; vs LW not in export
 labor_chart,hours,Anderson,95.39
 labor_chart,pct,Anderson,17.82%
 labor_chart,wtd_hrs,Anderson,485.14
@@ -74,7 +80,7 @@ labor_chart,hours,ScottMarket,489.81
 labor_chart,pct,ScottMarket,16.7%
 labor_chart,wtd_hrs,ScottMarket,2339.47
 labor_chart,ot_wtd,ScottMarket,3.66
-labor_chart,note,Market,Fri 9/25 hours all 5; Union 73.36 hrs 18.3%; market 489.81 hrs 16.7%; Union day sales still not exported so no Union chart; WTD hours Mon-Fri; OT WTD Harrison 3.66; PRJ OT/PTO not in export
+labor_chart,note,Market,Fri 9/25 hours all 5; Union day sales $5076 so the chart is on; Union 73.36 hrs 18.3%; market 489.81 hrs 16.7%; WTD hours Mon-Fri; OT WTD Harrison 3.66; PRJ OT/PTO not in export
 payroll,wtd_hrs,Anderson,485.14
 payroll,wtd_hrs,Crestview,532.14
 payroll,wtd_hrs,Florence,474.44
@@ -122,6 +128,9 @@ catering_sales,ly_day$,Harrison,969.64
 catering_sales,wtd$,Harrison,5862.80
 catering_sales,vs_ly_wtd,Harrison,-13.39%
 catering_sales,ly_wtd$,Harrison,6769.15
+catering_sales,day$,Union,0.00
+catering_sales,vs_ly,Union,-100.00%
+catering_sales,ly_day$,Union,15.99
 catering_sales,wtd$,Union,1874.19
 catering_sales,vs_ly_wtd,Union,+53.45%
 catering_sales,ly_wtd$,Union,1221.38
@@ -129,9 +138,12 @@ catering_sales,day$,Scott4,1890.43
 catering_sales,vs_ly,Scott4,-44.97%
 catering_sales,wtd$,Scott4,21721.29
 catering_sales,vs_ly_wtd,Scott4,-6.70%
+catering_sales,day$,ScottMarket,1890.43
+catering_sales,vs_ly,ScottMarket,-45.22%
+catering_sales,ly_day$,ScottMarket,3451.00
 catering_sales,wtd$,ScottMarket,23595.48
 catering_sales,vs_ly_wtd,ScottMarket,-3.71%
-catering_sales,note,Market,Fri 9/25 catering sales only (delivery fee excluded); Anderson day $0; Union day not in export; Scott Market* day is the 4 stores
+catering_sales,note,Market,Fri 9/25 catering sales only (delivery fee excluded); Anderson and Union day $0; market day includes Union
 punch130,none,Market,-
 punch130,note,Market,Thu 9/24 no 1:30 punches
 minors,none,Market,-
