@@ -1,4 +1,11 @@
 as_of_et,kind,when_et,what
+2026-09-27 9:19 AM,stamp,,9am rollup
+2026-09-27 9:19 AM,other,2026-09-27 8:23 AM,Rebuild alarms-30d.csv since 9/5 through Sun 9/27 morning disarms
+2026-09-27 9:19 AM,tc2,2026-09-27 7:40 AM,9/27 AM DISARM AN 6:27 Sarah / CV 5:50 Kevin / FL 6:02 Charlene / HA 7:03 Ethan / UN 6:25 JED
+2026-09-27 9:19 AM,tc2,2026-09-26 10:31 PM,9/26 ARM AN 9:27 Emma / CV 9:44 Maria / FL 9:49 User 0 / HA 9:59 Angie / UN 10:28 User 0 Bypass
+2026-09-27 9:19 AM,catering,2026-09-26 10:06 AM,Florence new_order 3680600 Kim Good $157.13
+2026-09-27 9:19 AM,packet,2026-09-26 9:24 AM,Sat 9/26 Union Fri sales $5076 Market day $35843
+2026-09-27 9:19 AM,packet,2026-09-26 9:11 AM,Sat 9/26 cash Fri 9/25 DL over/short
 2026-09-26 9:07 AM,stamp,,9am rollup
 2026-09-26 9:07 AM,packet,2026-09-26 9:01 AM,Sat 9/26 catering sales only no delivery fee; Union Fri hours
 2026-09-26 9:07 AM,other,2026-09-26 8:22 AM,Rebuild alarms-30d.csv from TC2 since 9/5
